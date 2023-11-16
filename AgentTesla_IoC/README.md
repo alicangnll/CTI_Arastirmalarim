@@ -84,7 +84,7 @@
     </pre>
 </p>
 
-## Önlemler
+## Çözüm Önerisi
 <ul>
     <li>Virüs koruma yazılımlarını güncel tutmak</li>
     <li>SPAMHaus tarafından tutulan zararlı mail listelerini güncellemek</li>
