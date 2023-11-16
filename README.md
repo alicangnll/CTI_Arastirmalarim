@@ -7,12 +7,12 @@
   Yaygın olarak kullanılan bazı Siber İstihbarat teknikleri:
   <ul>
     <li>Açık Kaynak İstihbaratı (OSINT): Sosyal medya, haber siteleri ve forumlar gibi halka açık kaynaklardan bilgi toplanır.</li>
-    <li>İnsan İstihbaratı (HUMINT): Potansiyel tehditler hakkında bilgi sahibi olabilecek çalışanlar veya satıcılar gibi içeriden kişilerle kişisel etkileşim yoluyla bilgi toplanır.</li>
-    <li>Teknik İstihbarat (TECHINT): Potansiyel siber saldırıların kalıplarını ve göstergelerini belirlemek için ağ günlükleri gibi teknik verilerin analizi yapılır.</li>
-    <li>Sinyal İstihbaratı (SIGINT): Potansiyel siber tehditleri belirlemek için e-postalar veya telefon görüşmeleri gibi elektronik iletişimler dinlenir ve analiz edilir.</li>
-    <li>Tehdit modellemesi: Bir kuruluşun bilgi sistemlerindeki potansiyel güvenlik açıklarını ve saldırı vektörleri tanımlanır ve bu riskleri azaltmak için stratejiler geliştirilir.</li>
-    <li>Kötü amaçlı yazılım analizi: Potansiyel tehditleri belirlemek ve karşı önlemler geliştirmek için kötü amaçlı yazılımların özellikleri ve davranışları analiz edilir.</li>
-    <li>İlişkilendirme analizi: Tehdit aktörlerinin motivasyonlarını daha iyi anlamak ve gelecekteki saldırıları azaltmak için stratejiler geliştirmek amacıyla sorumlu bireyler, gruplar veya ulus devletler de dahil olmak üzere bir siber saldırının kaynağı belirlenir.</li>
+    <li><b>İnsan İstihbaratı (HUMINT):</b> Potansiyel tehditler hakkında bilgi sahibi olabilecek çalışanlar veya satıcılar gibi içeriden kişilerle kişisel etkileşim yoluyla bilgi toplanır.</li>
+    <li><b>Teknik İstihbarat (TECHINT):</b> Potansiyel siber saldırıların kalıplarını ve göstergelerini belirlemek için ağ günlükleri gibi teknik verilerin analizi yapılır.</li>
+    <li><b>Sinyal İstihbaratı (SIGINT):</b> Potansiyel siber tehditleri belirlemek için e-postalar veya telefon görüşmeleri gibi elektronik iletişimler dinlenir ve analiz edilir.</li>
+    <li><b>Tehdit modellemesi:</b> Bir kuruluşun bilgi sistemlerindeki potansiyel güvenlik açıklarını ve saldırı vektörleri tanımlanır ve bu riskleri azaltmak için stratejiler geliştirilir.</li>
+    <li><b>Kötü amaçlı yazılım analizi:</b> Potansiyel tehditleri belirlemek ve karşı önlemler geliştirmek için kötü amaçlı yazılımların özellikleri ve davranışları analiz edilir.</li>
+    <li><b>İlişkilendirme analizi:</b> Tehdit aktörlerinin motivasyonlarını daha iyi anlamak ve gelecekteki saldırıları azaltmak için stratejiler geliştirmek amacıyla sorumlu bireyler, gruplar veya ulus devletler de dahil olmak üzere bir siber saldırının kaynağı belirlenir.</li>
   </ul>
 </p>
 
