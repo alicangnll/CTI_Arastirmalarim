@@ -18,3 +18,8 @@
   Disclaimer: The information provided in this blog post is intended for educational and informational purposes only. It is not intended to encourage or promote any illegal or unethical activities, including hacking, cyberattacks, or any form of unauthorized access to computer systems, networks or data.
 </p>
 
+## Kaynaklar
+<ul>
+<li>https://bazaar.abuse.ch/browse/ (MalwareBazaar)</li>
+<li>https://urlhaus.abuse.ch/browse/ (URLHaus)</li>
+</ul>
