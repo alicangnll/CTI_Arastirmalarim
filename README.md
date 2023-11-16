@@ -25,6 +25,14 @@
   Bu süreçte, Siber Tehdit İstihbaratı uzmanları, siber saldırılar için kullanılan araçları, kötü amaçlı yazılımları ve diğer taktikleri analiz ederek, gelecekteki saldırıları önlemek için savunma stratejileri geliştirirler.
 </p>
 
+## İncelemelerim
+<ul>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/HelloKitty_IoC/README.md (HelloKitty)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/AgentTesla_IoC/README.md (AgentTesla)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/IRATA_IoC/README.md (IRATA)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/LummaStealer_C2_IoC/README.md (LummaStealer)</li>
+</ul>
+
 ## Disclaimer | Yasal Uyarı
 <p>
   Bu blog yazısında sağlanan bilgiler yalnızca eğitim ve bilgilendirme amaçlıdır. Bilgisayar korsanlığı, siber saldırılar veya bilgisayar sistemlerine, ağlara veya verilere herhangi bir şekilde yetkisiz erişim de dahil olmak üzere herhangi bir yasa dışı veya etik olmayan faaliyeti teşvik etme veya reklam etme amacı taşımaz.
