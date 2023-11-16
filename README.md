@@ -6,7 +6,7 @@
   <br>
   Yaygın olarak kullanılan bazı Siber İstihbarat teknikleri:
   <ul>
-    <li>Açık Kaynak İstihbaratı (OSINT): Sosyal medya, haber siteleri ve forumlar gibi halka açık kaynaklardan bilgi toplanır.</li>
+    <li><b>Açık Kaynak İstihbaratı (OSINT):</b> Sosyal medya, haber siteleri ve forumlar gibi halka açık kaynaklardan bilgi toplanır.</li>
     <li><b>İnsan İstihbaratı (HUMINT):</b> Potansiyel tehditler hakkında bilgi sahibi olabilecek çalışanlar veya satıcılar gibi içeriden kişilerle kişisel etkileşim yoluyla bilgi toplanır.</li>
     <li><b>Teknik İstihbarat (TECHINT):</b> Potansiyel siber saldırıların kalıplarını ve göstergelerini belirlemek için ağ günlükleri gibi teknik verilerin analizi yapılır.</li>
     <li><b>Sinyal İstihbaratı (SIGINT):</b> Potansiyel siber tehditleri belirlemek için e-postalar veya telefon görüşmeleri gibi elektronik iletişimler dinlenir ve analiz edilir.</li>
