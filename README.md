@@ -1,3 +1,11 @@
+## İncelemelerim
+<ul>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/HelloKitty_IoC/README.md (HelloKitty)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/AgentTesla_IoC/README.md (AgentTesla)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/IRATA_IoC/README.md (IRATA)</li>
+<li>https://github.com/alicangnll/CTI_Arastirmalarim/LummaStealer_C2_IoC/README.md (LummaStealer)</li>
+</ul>
+
 ## Siber Tehdit İstihbaratı (CTI) Nedir?
 <p>
   Siber Tehdit İstihbaratı (Cyber Threat Intelligence), bilgisayar sistemleri, ağlar ve dijital cihazlar gibi dijital varlıkların güvenliği için tehditlerin tespit edilmesi, analiz edilmesi ve öngörülmesi amacıyla yapılan bir faaliyettir.
@@ -24,14 +32,6 @@
   <br>  
   Bu süreçte, Siber Tehdit İstihbaratı uzmanları, siber saldırılar için kullanılan araçları, kötü amaçlı yazılımları ve diğer taktikleri analiz ederek, gelecekteki saldırıları önlemek için savunma stratejileri geliştirirler.
 </p>
-
-## İncelemelerim
-<ul>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/HelloKitty_IoC/README.md (HelloKitty)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/AgentTesla_IoC/README.md (AgentTesla)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/IRATA_IoC/README.md (IRATA)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/LummaStealer_C2_IoC/README.md (LummaStealer)</li>
-</ul>
 
 ## Disclaimer | Yasal Uyarı
 <p>
