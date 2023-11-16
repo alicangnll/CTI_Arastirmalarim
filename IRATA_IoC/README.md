@@ -15,31 +15,31 @@
 <p>
     Öncelikle Ransomware'in bulaşma çeşidinden bahsedecek olursak bir eğitim yazılımı gibi bulaşmaktadır. Hedef Iran vatandaşları olduğu için yazılar tamamen Farsça yazılmış durumda.<br>
     Derhal kaynak kodlarını ayırıyoruz ve içeriğine bakıyoruz.
-    <br>
+    <br><br>
     <img src="smali.png" />
     <br>
     Kaynak kodları içerisinde gezerken cihazın network bilgilerini istediğini fark ediyoruz.
-    <br>
+    <br><br>
     <img src="netw.png" />
     <br>
     Cihazın sistem bilgilerini aldığını görüyoruz
-    <br>
+    <br><br>
     <img src="devinfo.png" />
     <br>
     Cihazda yüklü uygulamaların listesini aldığını görüyoruz ve bu aşamada acaba zararlı yazılımın kripto / fidye amaçlı mı çalıştığını düşünmeye başlıyoruz.
-    <br>
+    <br><br>
     <img src="installedapps.png" />
     <br>
     Cihazda çalışan tüm uygulamaların listesini getiriyor
-    <br>
+    <br><br>
     <img src="runningapps.png" />
     <br>
     Veee bingo! Aradığımızı buluyoruz. Dosyaları kriptolayan ve kriptoyu açan kodu buluyoruz fakat bu ransomware grubu pek acemi zira kriptoladıkları string değerini değişkenler arasına gizlemişler.
-    <br>
+    <br><br>
     <img src="crypt_decrypt.png" />
     <br>
     Kriptoyu ise "5b69787a56c3ef1eca41b9d2221daf5a83ae19789e13bcdffaeff1640516f67a56b9f5a7f0e83f453fb41c654f042a48fda9b8500fda2eec2d5a55712f37be7c211df4d284f, 7a693118108a825acacc9080bea66a356436" koduyla kriptoladıkları açıkça görülmektedir.
-    <br>
+    <br><br>
     <img src="key.png" />
     <br>
 </p>
