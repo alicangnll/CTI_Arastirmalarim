@@ -34,3 +34,8 @@
 <p>
   Buna dair çözüm önerisi olarak <b>moskhoods[.]pw, 172[.]67[.]176[.]151 ve 104[.]21[.]83[.]129</b> IP adreslerinin engellenmesini önermekteyiz.
 </p>
+
+## Kaynaklar
+<ul>
+    <li>https://bazaar.abuse.ch/sample/eb2a0541c88a8d839a3506d67260951e8f6bcf4e46741658cb69c7178da93634/</li>
+</ul>
