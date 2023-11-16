@@ -17,7 +17,7 @@
   Öncelikle zararlı yazılımın bir örneğini abuse sitesinden elde ettik. Daha sonrasında inceleme amacıyla Debugger uygulamasına koyduk. İnceleme esnasında zararlı yazılımın aslında bir loader olduğunu ve içerisinde asıl zararlıyı Veil kod sistemiyle bulundurduğunu fark ettik.
   <br><br>
   <img src="c2_server.PNG" />
-  <br>
+  <br><br>
   Ardından bu Veil kodunun işleyişini test ettiğimizde içerisinde Antivirüs sistemlerini bypass etmek için bulunan bir string ve bu string değerini ayıklayan bir fonksiyon bulduk.
 </p>
 
@@ -26,7 +26,7 @@
   Bu fonksiyon uygulandığında yazılımın bir C2 server'a bağlandığını, bu server'a HWID, Edge Browser Geçmişi gibi kayıtları gönderdiğini fark ettik.
   <br><br>
   <img src="veil.PNG" />
-  <br>
+  <br><br>
   Ardından bu C2 server IP adresinin CloudFlare altyapısında kendi IP adresini gizlediğini, domain adresinin moskhoods[.]pw olduğunun ve IP adreslerinin <b>172[.]67[.]176[.]151 ve 104[.]21[.]83[.]129</b> olduğunu tespit ettik.
 </p>
 
