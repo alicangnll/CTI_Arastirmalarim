@@ -3,8 +3,10 @@
   Siber Tehdit İstihbaratı (Cyber Threat Intelligence), bilgisayar sistemleri, ağlar ve dijital cihazlar gibi dijital varlıkların güvenliği için tehditlerin tespit edilmesi, analiz edilmesi ve öngörülmesi amacıyla yapılan bir faaliyettir.
   <br>
   Siber Tehdit İstihbaratı, kötü niyetli aktörlerin (hackerlar, siber suç örgütleri, devlet destekli aktörler vb.) kullandığı yöntemlerin, araçların ve tekniklerin anlaşılmasına yardımcı olur.
-  <br>
-  Yaygın olarak kullanılan bazı Siber İstihbarat teknikleri:
+</p>
+
+## Siber İstihbarat Teknikleri
+<p>
   <ul>
     <li><b>Açık Kaynak İstihbaratı (OSINT):</b> Sosyal medya, haber siteleri ve forumlar gibi halka açık kaynaklardan bilgi toplanır.</li>
     <li><b>İnsan İstihbaratı (HUMINT):</b> Potansiyel tehditler hakkında bilgi sahibi olabilecek çalışanlar veya satıcılar gibi içeriden kişilerle kişisel etkileşim yoluyla bilgi toplanır.</li>
