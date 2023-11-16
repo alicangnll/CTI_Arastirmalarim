@@ -1,9 +1,9 @@
 ## İncelemelerim
 <ul>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/HelloKitty_IoC/README.md (HelloKitty)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/AgentTesla_IoC/README.md (AgentTesla)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/IRATA_IoC/README.md (IRATA)</li>
-<li>https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/LummaStealer_C2_IoC/README.md (LummaStealer)</li>
+<li><a href="https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/HelloKitty_IoC/README.md">HelloKitty</a></li>
+<li><a href="https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/AgentTesla_IoC/README.md">AgentTesla</a></li>
+<li><a href="https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/IRATA_IoC/README.md">IRATA</a></li>
+<li><a href="https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/LummaStealer_C2_IoC/README.md">LummaStealer</a></li>
 </ul>
 
 ## Siber Tehdit İstihbaratı (CTI) Nedir?
