@@ -17,7 +17,7 @@
     Derhal kaynak kodlarını ayırıyoruz ve içeriğine bakıyoruz.
     <br><br>
     <img src="smali.png" />
-    <br>
+    <br><br>
     Kaynak kodları içerisinde gezerken cihazın network bilgilerini istediğini fark ediyoruz.
     <br><br>
     <img src="netw.png" />
