@@ -1,9 +1,9 @@
 ## İncelemelerim
 <ul>
-<li><a href="HelloKitty_IoC/README.md">HelloKitty</a></li>
-<li><a href="AgentTesla_IoC/README.md">AgentTesla</a></li>
-<li><a href="IRATA_IoC/README.md">IRATA</a></li>
-<li><a href="LummaStealer_C2_IoC/README.md">LummaStealer</a></li>
+<li><a href="HelloKitty_IoC/">HelloKitty</a></li>
+<li><a href="AgentTesla_IoC/">AgentTesla</a></li>
+<li><a href="IRATA_IoC/">IRATA</a></li>
+<li><a href="LummaStealer_C2_IoC/">LummaStealer</a></li>
 </ul>
 
 ## Siber Tehdit İstihbaratı (CTI) Nedir?
