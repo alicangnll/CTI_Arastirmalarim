@@ -1,4 +1,4 @@
-# APT34 Zararlı Yazılımı IoC Çalışması
+# APT34 C2 Zararlı Yazılımı IoC Çalışması
 <p>
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte APT34 adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
