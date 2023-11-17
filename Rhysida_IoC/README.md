@@ -47,7 +47,7 @@
     <br><br>
     <img src="rhysida_onion.png">
     <br><br>
-    SECRET TOKEN kodumuzu girdikten sonra burada domain adımızı ve şirket adımızı ister. Muhtemelen şifreleme bu mantıkta yapılıyor.
+    SECRET TOKEN kodumuzu girdikten sonra burada domain adımızı ve şirket adımızı ister. Muhtemelen şifreleme bu mantıkta yapılıyor ve bir unlocker yazılımı verilip çözüm sağlanıyor.
     <br><br>
     <img src="rhysida_onion2.png">
     <br><br>
