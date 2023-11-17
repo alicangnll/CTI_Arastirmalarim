@@ -1,5 +1,6 @@
 ## İncelemelerim
 <ul>
+<li><a href="Rhysida_IoC/">Rhysida Ransomware (0.1)</a></li>
 <li><a href="APT34_IoC/">APT-34 (OilRig)</a></li>
 <li><a href="HelloKitty_IoC/">HelloKitty</a></li>
 <li><a href="AgentTesla_IoC/">AgentTesla</a></li>
