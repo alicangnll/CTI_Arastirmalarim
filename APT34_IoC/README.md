@@ -3,7 +3,8 @@
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte APT34 adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
     Yaptığımız açık kaynak taramalarında taramasını yaptığımız virüs OilRig (APT34) lakaplı İran tarafından desteklenen bir zararlı yazılım grubunun ürünü olduğunu öğrendik.
-    NOT : Ben bunu yazarken grubun İsrail, Lübnan ve BAE ülkelerini hedef aldığını öğrendim.
+    <br>
+    NOT : Bu yazıyı yazarken grubun İsrail, Lübnan ve BAE ülkelerini hedef aldığını öğrendik.
 </p>
 
 # Disclaimer | Yasal Uyarı
@@ -20,7 +21,7 @@
 
 # Çalışma Mantığı
 <p>
-    Öncelikle DOC dosyasını çeşitli yazılımlarla açıyorız.
+    Öncelikle DOC dosyasını çeşitli yazılımlarla açıyoruz.
     <br><br>
     <img src="files.png">
     <br><br>
