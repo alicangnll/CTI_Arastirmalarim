@@ -1,7 +1,7 @@
 # Ryhsida Fidye (Ransomware) Zararlı Yazılımı IoC Çalışması
 <p>
     Merhabalar,<br>
-    Arkadaşlar bu yazımda sizlerle beraber FBI raporlarına bile girmiş olan Ryhsida Ransomware fidye zararlı yazılımını inceleyeceğiz.
+    Arkadaşlar bu yazımda sizlerle beraber <a href="FBI_Rhysida_Report.pdf">FBI raporlarına bile yüksek risk derecesinde girmiş olan</a> Ryhsida Ransomware fidye zararlı yazılımını inceleyeceğiz.
 </p>
 
 ## Disclaimer | Yasal Uyarı
