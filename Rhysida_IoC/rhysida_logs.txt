@@ -1,0 +1,1580 @@
+Number of procs 4
+Program: C:\Users\demo\Downloads\a864282fea5a536510ae86c77ce46f7827687783628e4f2ceb5bf2c41b8cd3c6\a864282fea5a536510ae86c77ce46f7827687783628e4f2ceb5bf2c41b8cd3c6.exe
+Directory: 
+Start processing A:/
+---
+Start processing B:/
+---
+Directory C:/ entries 20
+Start processing C:/
+---
+Current dir entry $Recycle.Bin
+Current dir entry $WinREAgent
+Directory C:/$WinREAgent entries 2
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry Scratch
+Directory C:/$WinREAgent/Scratch entries 1
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry $WinREAgent
+Directory C:/$WinREAgent entries 2
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry Scratch
+Directory C:/$WinREAgent/Scratch entries 1
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry Documents and Settings
+Current dir entry DumpStack.log
+Current dir entry DumpStack.log.tmp
+Current dir entry pagefile.sys
+Current dir entry PerfLogs
+Current dir entry Program Files
+Current dir entry Program Files (x86)
+Current dir entry ProgramData
+Current dir entry Python27
+Directory C:/Python27 entries 14
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry DLLs
+Directory C:/Python27/DLLs entries 24
+Current dir entry bz2.pyd.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry py.ico
+Current dir entry pyc.ico
+Current dir entry pyexpat.pyd.rhysida
+Current dir entry select.pyd.rhysida
+Current dir entry sqlite3.dll
+Current dir entry tcl85.dll
+Current dir entry tclpip85.dll
+Current dir entry tk85.dll
+Current dir entry unicodedata.pyd.rhysida
+Current dir entry winsound.pyd.rhysida
+Current dir entry _bsddb.pyd.rhysida
+Current dir entry _ctypes.pyd.rhysida
+Current dir entry _ctypes_test.pyd.rhysida
+Current dir entry _elementtree.pyd.rhysida
+Current dir entry _hashlib.pyd.rhysida
+Current dir entry _msi.pyd.rhysida
+Current dir entry _multiprocessing.pyd.rhysida
+Current dir entry _socket.pyd.rhysida
+Current dir entry _sqlite3.pyd.rhysida
+Current dir entry _ssl.pyd.rhysida
+Current dir entry _testcapi.pyd.rhysida
+Current dir entry _tkinter.pyd.rhysida
+Current dir entry Doc
+Directory C:/Python27/Doc entries 2
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry python2718.chm.rhysida
+Current dir entry include
+Directory C:/Python27/include entries 93
+ERROR rename file C:/DumpStack.log to C:/DumpStack.log.rhysida -1
+Current dir entry abstract.h.rhysida
+Current dir entry asdl.h.rhysida
+Current dir entry ast.h.rhysida
+Current dir entry bitset.h.rhysida
+Current dir entry boolobject.h.rhysida
+Current dir entry bufferobject.h.rhysida
+ERROR rename file C:/DumpStack.log.tmp to C:/DumpStack.log.tmp.rhysida -1
+Current dir entry bytearrayobject.h.rhysida
+Current dir entry bytesobject.h.rhysida
+Current dir entry bytes_methods.h.rhysida
+Current dir entry cellobject.h.rhysida
+Current dir entry ceval.h.rhysida
+Current dir entry classobject.h.rhysida
+Current dir entry cobject.h.rhysida
+Current dir entry code.h.rhysida
+Current dir entry codecs.h.rhysida
+Current dir entry compile.h.rhysida
+Current dir entry complexobject.h.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry cStringIO.h.rhysida
+Current dir entry datetime.h.rhysida
+Current dir entry descrobject.h.rhysida
+Current dir entry dictobject.h.rhysida
+Current dir entry dtoa.h.rhysida
+Current dir entry enumobject.h.rhysida
+Current dir entry errcode.h.rhysida
+Current dir entry eval.h.rhysida
+Current dir entry fileobject.h.rhysida
+Current dir entry floatobject.h.rhysida
+Current dir entry frameobject.h.rhysida
+Current dir entry funcobject.h.rhysida
+Current dir entry genobject.h.rhysida
+Current dir entry graminit.h.rhysida
+Current dir entry grammar.h.rhysida
+Current dir entry import.h.rhysida
+Current dir entry intobject.h.rhysida
+Current dir entry intrcheck.h.rhysida
+Current dir entry iterobject.h.rhysida
+Current dir entry listobject.h.rhysida
+Current dir entry longintrepr.h.rhysida
+Current dir entry longobject.h.rhysida
+Current dir entry marshal.h.rhysida
+Current dir entry memoryobject.h.rhysida
+Current dir entry metagrammar.h.rhysida
+Current dir entry methodobject.h.rhysida
+Current dir entry modsupport.h.rhysida
+Current dir entry moduleobject.h.rhysida
+Current dir entry node.h.rhysida
+Current dir entry object.h.rhysida
+Current dir entry objimpl.h.rhysida
+Current dir entry opcode.h.rhysida
+Current dir entry osdefs.h.rhysida
+Current dir entry parsetok.h.rhysida
+Current dir entry patchlevel.h.rhysida
+Current dir entry pgen.h.rhysida
+Current dir entry pgenheaders.h.rhysida
+Current dir entry pyarena.h.rhysida
+Current dir entry pycapsule.h.rhysida
+Current dir entry pyconfig.h.rhysida
+Current dir entry pyctype.h.rhysida
+Current dir entry pydebug.h.rhysida
+Current dir entry pyerrors.h.rhysida
+Current dir entry pyexpat.h.rhysida
+Current dir entry pyfpe.h.rhysida
+Current dir entry pygetopt.h.rhysida
+Current dir entry pymacconfig.h.rhysida
+Current dir entry pymactoolbox.h.rhysida
+Current dir entry pymath.h.rhysida
+Current dir entry pymem.h.rhysida
+Current dir entry pyport.h.rhysida
+Current dir entry pystate.h.rhysida
+Current dir entry pystrcmp.h.rhysida
+Current dir entry pystrtod.h.rhysida
+Current dir entry Python-ast.h.rhysida
+Current dir entry Python.h.rhysida
+Current dir entry pythonrun.h.rhysida
+Current dir entry pythread.h.rhysida
+Current dir entry py_curses.h.rhysida
+Current dir entry rangeobject.h.rhysida
+Current dir entry setobject.h.rhysida
+Current dir entry sliceobject.h.rhysida
+Current dir entry stringobject.h.rhysida
+Current dir entry structmember.h.rhysida
+Current dir entry structseq.h.rhysida
+Current dir entry symtable.h.rhysida
+Current dir entry sysmodule.h.rhysida
+Current dir entry timefuncs.h.rhysida
+Current dir entry token.h.rhysida
+Current dir entry traceback.h.rhysida
+Current dir entry tupleobject.h.rhysida
+Current dir entry ucnhash.h.rhysida
+Current dir entry unicodeobject.h.rhysida
+Current dir entry warnings.h.rhysida
+Current dir entry weakrefobject.h.rhysida
+Current dir entry Lib
+Directory C:/Python27/Lib entries 359
+Current dir entry abc.py.rhysida
+Current dir entry abc.pyc.rhysida
+Current dir entry abc.pyo.rhysida
+Current dir entry aifc.py.rhysida
+Current dir entry antigravity.py.rhysida
+Current dir entry anydbm.py.rhysida
+Current dir entry argparse.py.rhysida
+Current dir entry argparse.pyc.rhysida
+Current dir entry ast.py.rhysida
+Current dir entry ast.pyc.rhysida
+Current dir entry asynchat.py.rhysida
+Current dir entry asyncore.py.rhysida
+Current dir entry atexit.py.rhysida
+Current dir entry atexit.pyc.rhysida
+Current dir entry audiodev.py.rhysida
+Current dir entry base64.py.rhysida
+Current dir entry base64.pyc.rhysida
+Current dir entry BaseHTTPServer.py.rhysida
+Current dir entry Bastion.py.rhysida
+Current dir entry bdb.py.rhysida
+Current dir entry binhex.py.rhysida
+Current dir entry bisect.py.rhysida
+Current dir entry bisect.pyc.rhysida
+Current dir entry bsddb
+Directory C:/Python27/Lib/bsddb entries 9
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry db.py.rhysida
+Current dir entry dbobj.py.rhysida
+Current dir entry dbrecio.py.rhysida
+Current dir entry dbshelve.py.rhysida
+Current dir entry dbtables.py.rhysida
+Current dir entry dbutils.py.rhysida
+Current dir entry test
+Directory C:/Python27/Lib/bsddb/test entries 26
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry test_all.py.rhysida
+Current dir entry test_associate.py.rhysida
+Current dir entry test_basics.py.rhysida
+Current dir entry test_compare.py.rhysida
+Current dir entry test_compat.py.rhysida
+Current dir entry test_cursor_pget_bug.py.rhysida
+Current dir entry test_db.py.rhysida
+Current dir entry test_dbenv.py.rhysida
+Current dir entry test_dbobj.py.rhysida
+Current dir entry test_dbshelve.py.rhysida
+Current dir entry test_dbtables.py.rhysida
+Current dir entry test_distributed_transactions.py.rhysida
+Current dir entry test_early_close.py.rhysida
+Current dir entry test_fileid.py.rhysida
+Current dir entry test_get_none.py.rhysida
+Current dir entry test_join.py.rhysida
+Current dir entry test_lock.py.rhysida
+Current dir entry test_misc.py
+Current dir entry test_pickle.py.rhysida
+Current dir entry test_queue.py.rhysida
+Current dir entry test_recno.py.rhysida
+Current dir entry test_replication.py.rhysida
+Current dir entry test_sequence.py.rhysida
+Current dir entry test_thread.py
+Current dir entry __init__.py
+Current dir entry __init__.py.rhysida
+Current dir entry calendar.py.rhysida
+Current dir entry calendar.pyc.rhysida
+Current dir entry cgi.py
+Current dir entry cgi.pyc.rhysida
+Current dir entry CGIHTTPServer.py.rhysida
+Current dir entry cgitb.py.rhysida
+Current dir entry chunk.py.rhysida
+Current dir entry cmd.py.rhysida
+Current dir entry code.py.rhysida
+Current dir entry codecs.py.rhysida
+Current dir entry codecs.pyc.rhysida
+Current dir entry codecs.pyo.rhysida
+Current dir entry codeop.py.rhysida
+Current dir entry collections.py.rhysida
+Current dir entry collections.pyc.rhysida
+Current dir entry colorsys.py.rhysida
+Current dir entry commands.py.rhysida
+Current dir entry compileall.py.rhysida
+Current dir entry compileall.pyc.rhysida
+Current dir entry compiler
+Directory C:/Python27/Lib/compiler entries 12
+Current dir entry ast.py.rhysida
+Current dir entry consts.py.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry future.py.rhysida
+Current dir entry misc.py.rhysida
+Current dir entry pyassem.py.rhysida
+Current dir entry pycodegen.py.rhysida
+Current dir entry symbols.py.rhysida
+Current dir entry syntax.py.rhysida
+Current dir entry transformer.py.rhysida
+Current dir entry visitor.py.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry ConfigParser.py.rhysida
+Current dir entry ConfigParser.pyc.rhysida
+Current dir entry contextlib.py.rhysida
+Current dir entry contextlib.pyc.rhysida
+Current dir entry Cookie.py.rhysida
+Current dir entry Cookie.pyc.rhysida
+Current dir entry cookielib.py.rhysida
+Current dir entry cookielib.pyc.rhysida
+Current dir entry copy.py.rhysida
+Current dir entry copy.pyc.rhysida
+Current dir entry copy_reg.py.rhysida
+Current dir entry copy_reg.pyc.rhysida
+Current dir entry copy_reg.pyo.rhysida
+Current dir entry cProfile.py.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry csv.py.rhysida
+Current dir entry csv.pyc.rhysida
+Current dir entry ctypes
+Directory C:/Python27/Lib/ctypes entries 11
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry macholib
+Directory C:/Python27/Lib/ctypes/macholib entries 5
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry dyld.py.rhysida
+Current dir entry dylib.py.rhysida
+Current dir entry framework.py.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry test
+Directory C:/Python27/Lib/ctypes/test entries 53
+Current dir entry CriticalBreachDetected.pdf
+file_to_crypt size [4935] bytes
+Processing block [0] from file [C:/Python27/Lib/bsddb/test/test_misc.py.rhysida] [4935]/[4935] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry runtests.py.rhysida
+Current dir entry test_anon.py.rhysida
+Current dir entry test_arrays.py.rhysida
+Current dir entry test_array_in_pointer.py.rhysida
+Current dir entry test_as_parameter.py.rhysida
+Current dir entry test_bitfields.py.rhysida
+Current dir entry test_buffers.py.rhysida
+Current dir entry test_byteswap.py
+Current dir entry test_callbacks.py.rhysida
+Current dir entry test_cast.py.rhysida
+Current dir entry test_cfuncs.py.rhysida
+Current dir entry test_checkretval.py.rhysida
+Current dir entry test_delattr.py.rhysida
+Current dir entry test_errno.py
+Current dir entry test_find.py
+Current dir entry test_frombuffer.py
+Current dir entry test_funcptr.py.rhysida
+Current dir entry test_functions.py.rhysida
+Current dir entry test_incomplete.py.rhysida
+Current dir entry test_init.py.rhysida
+Current dir entry test_internals.py.rhysida
+Current dir entry test_keeprefs.py.rhysida
+Current dir entry test_libc.py.rhysida
+Current dir entry test_loading.py.rhysida
+Current dir entry test_macholib.py.rhysida
+Current dir entry test_memfunctions.py.rhysida
+Current dir entry test_numbers.py.rhysida
+Current dir entry test_objects.py.rhysida
+Current dir entry test_parameters.py.rhysida
+Current dir entry test_pep3118.py.rhysida
+Current dir entry test_pickling.py
+Current dir entry test_pointers.py.rhysida
+Current dir entry test_prototypes.py.rhysida
+Current dir entry test_python_api.py.rhysida
+Current dir entry test_random_things.py.rhysida
+Current dir entry test_refcounts.py.rhysida
+Current dir entry test_repr.py.rhysida
+Current dir entry test_returnfuncptrs.py.rhysida
+Current dir entry test_simplesubclasses.py
+Current dir entry test_sizes.py.rhysida
+Current dir entry test_slicing.py.rhysida
+Current dir entry test_stringptr.py.rhysida
+Current dir entry test_strings.py.rhysida
+Current dir entry test_structures.py.rhysida
+Current dir entry test_struct_fields.py.rhysida
+Current dir entry test_unaligned_structures.py.rhysida
+Current dir entry test_unicode.py.rhysida
+Current dir entry test_values.py.rhysida
+Current dir entry test_varsize_struct.py.rhysida
+Current dir entry test_win32.py.rhysida
+Current dir entry test_wintypes.py.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry util.py.rhysida
+Current dir entry util.pyc.rhysida
+Current dir entry wintypes.py.rhysida
+Current dir entry wintypes.pyc.rhysida
+Current dir entry _endian.py.rhysida
+Current dir entry _endian.pyc.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry __init__.pyc.rhysida
+Current dir entry curses
+Directory C:/Python27/Lib/curses entries 8
+file_to_crypt size [16425] bytes
+Processing block [0] from file [C:/Python27/Lib/bsddb/test/test_thread.py.rhysida] [16425]/[16425] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [2410] bytes
+Current dir entry ascii.py.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry has_key.py.rhysida
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_errno.py.rhysida] [2410]/[2410] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry panel.py.rhysida
+Current dir entry textpad.py.rhysida
+Current dir entry wrapper.py.rhysida
+Current dir entry __init__.py
+Current dir entry __init__.pyc.rhysida
+file_to_crypt size [36883] bytes
+Current dir entry dbhash.py.rhysida
+Current dir entry decimal.py.rhysida
+Current dir entry decimal.pyc.rhysida
+Processing block [0] from file [C:/Python27/Lib/cgi.py.rhysida] [36883]/[36883] size
+ReadedStart xxx_encryptCurrent dir entry difflib.py.rhysida
+Start fseekStart fwriteCurrent dir entry difflib.pyc.rhysida
+Current dir entry dircache.py.rhysida
+Current dir entry dis.py.rhysida
+Current dir entry dis.pyc.rhysida
+Current dir entry distutils
+Directory C:/Python27/Lib/distutils entries 62
+Current dir entry archive_util.py.rhysida
+Current dir entry archive_util.pyc.rhysida
+Current dir entry bcppcompiler.py.rhysida
+Current dir entry ccompiler.py.rhysida
+Current dir entry ccompiler.pyc.rhysida
+Current dir entry cmd.py.rhysida
+Current dir entry cmd.pyc.rhysida
+Current dir entry command
+Directory C:/Python27/Lib/distutils/command entries 42
+Current dir entry bdist.py.rhysida
+Current dir entry bdist.pyc.rhysida
+Current dir entry bdist_dumb.py.rhysida
+Current dir entry bdist_msi.py.rhysida
+Current dir entry bdist_rpm.py.rhysida
+Current dir entry bdist_wininst.py.rhysida
+Current dir entry bdist_wininst.pyc.rhysida
+Current dir entry build.py.rhysida
+Current dir entry build.pyc
+Current dir entry build_clib.py.rhysida
+Current dir entry build_clib.pyc.rhysida
+Current dir entry build_ext.py.rhysida
+Current dir entry build_ext.pyc.rhysida
+file_to_crypt size [1412] bytes
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_simplesubclasses.py.rhysida] [1412]/[1412] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry build_py.py.rhysida
+Current dir entry build_py.pyc.rhysida
+Current dir entry build_scripts.py.rhysida
+Current dir entry build_scripts.pyc.rhysida
+Current dir entry check.py.rhysida
+Current dir entry clean.py.rhysida
+Current dir entry config.py.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry install.py.rhysida
+Current dir entry install.pyc.rhysida
+Current dir entry install_data.py.rhysida
+Current dir entry install_data.pyc.rhysida
+Current dir entry install_egg_info.py.rhysida
+Current dir entry install_headers.py.rhysida
+Current dir entry install_lib.py.rhysida
+Current dir entry install_lib.pyc.rhysida
+Current dir entry install_scripts.py.rhysida
+Current dir entry install_scripts.pyc.rhysida
+Current dir entry register.py.rhysida
+Current dir entry sdist.py.rhysida
+Current dir entry sdist.pyc.rhysida
+Current dir entry upload.py.rhysida
+Current dir entry wininst-6.0.exe
+Current dir entry wininst-7.1.exe
+Current dir entry wininst-8.0.exe
+Current dir entry wininst-9.0-amd64.exe
+Current dir entry wininst-9.0.exe
+Current dir entry __init__.py.rhysida
+Current dir entry __init__.pyc.rhysida
+Current dir entry config.py.rhysida
+Current dir entry config.pyc.rhysida
+Current dir entry core.py.rhysida
+Current dir entry core.pyc.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry cygwinccompiler.py.rhysida
+Current dir entry debug.py.rhysida
+Current dir entry debug.pyc
+Current dir entry debug.pyo.rhysida
+Current dir entry dep_util.py.rhysida
+Current dir entry dep_util.pyc
+Current dir entry dep_util.pyo.rhysida
+Current dir entry dir_util.py
+Current dir entry dir_util.pyc.rhysida
+Current dir entry dist.py.rhysida
+Current dir entry dist.pyc.rhysida
+Current dir entry emxccompiler.py.rhysida
+Current dir entry errors.py.rhysida
+Current dir entry errors.pyc.rhysida
+Current dir entry errors.pyo.rhysida
+Current dir entry extension.py.rhysida
+Current dir entry extension.pyc.rhysida
+Current dir entry fancy_getopt.py.rhysida
+Current dir entry fancy_getopt.pyc.rhysida
+Current dir entry filelist.py.rhysida
+Current dir entry filelist.pyc.rhysida
+Current dir entry file_util.py.rhysida
+Current dir entry file_util.pyc.rhysida
+Current dir entry log.py.rhysida
+Current dir entry log.pyc
+Current dir entry log.pyo.rhysida
+Current dir entry msvc9compiler.py
+Current dir entry msvc9compiler.pyc.rhysida
+Current dir entry msvccompiler.py.rhysida
+Current dir entry msvccompiler.pyc.rhysida
+Current dir entry spawn.py.rhysida
+Current dir entry spawn.pyc
+Current dir entry spawn.pyo.rhysida
+Current dir entry sysconfig.py
+Current dir entry sysconfig.pyc.rhysida
+Current dir entry tests
+Directory C:/Python27/Lib/distutils/tests entries 45
+file_to_crypt size [3528] bytes
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_frombuffer.py.rhysida] [3528]/[3528] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry CriticalBreachDetected.pdf
+Current dir entry Setup.sample.rhysida
+Current dir entry setuptools_build_ext.py.rhysida
+Current dir entry setuptools_extension.py.rhysida
+Current dir entry support.py.rhysida
+Current dir entry test_archive_util.py.rhysida
+Current dir entry test_bdist.py.rhysida
+Current dir entry test_bdist_dumb.py
+Current dir entry test_bdist_msi.py
+Current dir entry test_bdist_rpm.py.rhysida
+Current dir entry test_bdist_wininst.py.rhysida
+Current dir entry test_build.py.rhysida
+Current dir entry test_build_clib.py.rhysida
+Current dir entry test_build_ext.py.rhysida
+Current dir entry test_build_py.py.rhysida
+Current dir entry test_build_scripts.py
+Current dir entry test_ccompiler.py
+Current dir entry test_check.py.rhysida
+Current dir entry test_clean.py.rhysida
+Current dir entry test_cmd.py.rhysida
+Current dir entry test_config.py.rhysida
+Current dir entry test_config_cmd.py.rhysida
+Current dir entry test_core.py.rhysida
+Current dir entry test_dep_util.py.rhysida
+Current dir entry test_dir_util.py.rhysida
+Current dir entry test_dist.py.rhysida
+Current dir entry test_filelist.py.rhysida
+Current dir entry test_file_util.py.rhysida
+file_to_crypt size [1876] bytes
+Current dir entry test_install.py
+Current dir entry test_install_data.py.rhysida
+Processing block [0] from file [C:/Python27/Lib/curses/__init__.py.rhysida] [1876]/[1876] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_install_headers.py.rhysida
+Current dir entry test_install_lib.py.rhysida
+Current dir entry test_install_scripts.py.rhysida
+Current dir entry test_msvc9compiler.py.rhysida
+Current dir entry test_register.py.rhysida
+Current dir entry test_sdist.py.rhysida
+file_to_crypt size [8082] bytes
+Current dir entry test_spawn.py.rhysida
+Current dir entry test_sysconfig.py.rhysida
+Processing block [0] from file [C:/Python27/Lib/distutils/dir_util.py.rhysida] [8082]/[8082] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_text_file.py.rhysida
+Current dir entry test_unixccompiler.py.rhysida
+Current dir entry test_upload.py.rhysida
+Current dir entry test_util.py.rhysida
+Current dir entry test_version.py.rhysida
+Current dir entry test_versionpredicate.py.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry text_file.py.rhysida
+Current dir entry text_file.pyc.rhysida
+Current dir entry unixccompiler.py
+Current dir entry util.py.rhysida
+Current dir entry util.pyc.rhysida
+Current dir entry util.pyo.rhysida
+Current dir entry version.py.rhysida
+Current dir entry version.pyc.rhysida
+Current dir entry versionpredicate.py.rhysida
+Current dir entry versionpredicate.pyc.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry __init__.pyc.rhysida
+Current dir entry __init__.pyo.rhysida
+file_to_crypt size [249] bytes
+Current dir entry doctest.py.rhysida
+Current dir entry DocXMLRPCServer.py.rhysida
+Processing block [0] from file [C:/Python27/Lib/distutils/debug.pyc.rhysida] [249]/[249] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry dumbdbm.py.rhysida
+Current dir entry dummy_thread.py.rhysida
+Current dir entry dummy_threading.py.rhysida
+Current dir entry email
+file_to_crypt size [18011] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/sysconfig.py.rhysida] [18011]/[18011] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/email entries 29
+Current dir entry base64mime.py.rhysida
+Current dir entry base64mime.pyc.rhysida
+Current dir entry charset.py.rhysida
+Current dir entry charset.pyc.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Current dir entry encoders.py.rhysida
+Current dir entry encoders.pyc.rhysida
+Current dir entry errors.py.rhysida
+Current dir entry errors.pyc.rhysida
+Current dir entry feedparser.py.rhysida
+Current dir entry feedparser.pyc.rhysida
+Current dir entry generator.py.rhysida
+Current dir entry header.py.rhysida
+Current dir entry iterators.py.rhysida
+Current dir entry iterators.pyc.rhysida
+Current dir entry message.py.rhysida
+Current dir entry message.pyc.rhysida
+Current dir entry mime
+Directory C:/Python27/Lib/email/mime entries 11
+file_to_crypt size [8700] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/tests/test_install.py.rhysida] [8700]/[8700] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry application.py.rhysida
+Current dir entry audio.py.rhysida
+Current dir entry base.py.rhysida
+file_to_crypt size [3160] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/dep_util.pyc.rhysida] [3160]/[3160] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry CriticalBreachDetected.pdf
+Current dir entry image.py.rhysida
+Current dir entry message.py.rhysida
+Current dir entry multipart.py.rhysida
+Current dir entry nonmultipart.py.rhysida
+Current dir entry text.py.rhysida
+file_to_crypt size [2726] bytes
+Current dir entry __init__.py
+Processing block [0] from file [C:/Python27/Lib/distutils/log.pyc.rhysida] [2726]/[2726] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.pyc.rhysida
+Current dir entry parser.py.rhysida
+Current dir entry parser.pyc.rhysida
+Current dir entry quoprimime.py.rhysida
+Current dir entry quoprimime.pyc.rhysida
+Current dir entry test
+file_to_crypt size [13989] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/unixccompiler.py.rhysida] [13989]/[13989] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [3525] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/tests/test_ccompiler.py.rhysida] [3525]/[3525] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [5096] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/command/build.pyc.rhysida] [5096]/[5096] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [2300] bytes
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_pickling.py.rhysida] [2300]/[2300] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/email/test entries 8
+file_to_crypt size [3695] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/tests/test_build_scripts.py.rhysida] [3695]/[3695] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [758] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/tests/test_bdist_msi.py.rhysida] [758]/[758] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry CriticalBreachDetected.pdf
+file_to_crypt size [11120] bytes
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_byteswap.py.rhysida] [11120]/[11120] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry data
+file_to_crypt size [3664] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/tests/test_bdist_dumb.py.rhysida] [3664]/[3664] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [0] bytes
+Small file 0
+Directory C:/Python27/Lib/email/test/data entries 50
+file_to_crypt size [6392] bytes
+file_to_crypt size [0] bytes
+Small file 0
+Current dir entry audiotest.au.rhysida
+Current dir entry CriticalBreachDetected.pdf
+Processing block [0] from file [C:/Python27/Lib/distutils/spawn.pyc.rhysida] [6392]/[6392] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry msg_01.txt.rhysida
+Current dir entry msg_02.txt.rhysida
+Current dir entry msg_03.txt.rhysida
+Current dir entry msg_04.txt.rhysida
+Current dir entry msg_05.txt.rhysida
+Current dir entry msg_06.txt.rhysida
+Current dir entry msg_07.txt.rhysida
+Current dir entry msg_08.txt.rhysida
+Current dir entry msg_09.txt.rhysida
+Current dir entry msg_10.txt.rhysida
+Current dir entry msg_11.txt.rhysida
+Current dir entry msg_12.txt.rhysida
+Current dir entry msg_12a.txt.rhysida
+Current dir entry msg_13.txt
+Current dir entry msg_14.txt.rhysida
+Current dir entry msg_15.txt.rhysida
+Current dir entry msg_16.txt.rhysida
+Current dir entry msg_17.txt.rhysida
+Current dir entry msg_18.txt.rhysida
+Current dir entry msg_19.txt.rhysida
+Current dir entry msg_20.txt.rhysida
+Current dir entry msg_21.txt.rhysida
+Current dir entry msg_22.txt.rhysida
+Current dir entry msg_23.txt.rhysida
+Current dir entry msg_24.txt
+Current dir entry msg_25.txt
+Current dir entry msg_26.txt
+Current dir entry msg_27.txt.rhysida
+Current dir entry msg_28.txt
+Current dir entry msg_29.txt.rhysida
+Current dir entry msg_30.txt
+Current dir entry msg_31.txt.rhysida
+Current dir entry msg_32.txt.rhysida
+Current dir entry msg_33.txt.rhysida
+Current dir entry msg_34.txt.rhysida
+Current dir entry msg_35.txt.rhysida
+Current dir entry msg_36.txt.rhysida
+Current dir entry msg_37.txt.rhysida
+Current dir entry msg_38.txt.rhysida
+Current dir entry msg_39.txt.rhysida
+Current dir entry msg_40.txt.rhysida
+Current dir entry msg_41.txt.rhysida
+Current dir entry msg_42.txt.rhysida
+Current dir entry msg_43.txt.rhysida
+Current dir entry msg_44.txt.rhysida
+Current dir entry msg_45.txt.rhysida
+Current dir entry msg_46.txt.rhysida
+Current dir entry PyBanner048.gif.rhysida
+Current dir entry test_email.py.rhysida
+Current dir entry test_email_codecs.py.rhysida
+Current dir entry test_email_codecs_renamed.py
+file_to_crypt size [2191] bytes
+Current dir entry test_email_renamed.py.rhysida
+Current dir entry test_email_torture.py.rhysida
+Current dir entry __init__.py
+Processing block [0] from file [C:/Python27/Lib/ctypes/test/test_find.py.rhysida] [2191]/[2191] size
+ReadedStart xxx_encryptCurrent dir entry utils.py.rhysida
+Start fseekStart fwriteCurrent dir entry utils.pyc.rhysida
+Current dir entry _parseaddr.py.rhysida
+Current dir entry _parseaddr.pyc.rhysida
+Current dir entry __init__.py.rhysida
+Current dir entry __init__.pyc.rhysida
+Current dir entry encodings
+Directory C:/Python27/Lib/encodings entries 137
+file_to_crypt size [31805] bytes
+Processing block [0] from file [C:/Python27/Lib/distutils/msvc9compiler.py.rhysida] [31805]/[31805] size
+ReadedStart xxx_encryptCurrent dir entry aliases.py.rhysida
+Start fseekStart fwriteCurrent dir entry aliases.pyc.rhysida
+Current dir entry aliases.pyo.rhysida
+Current dir entry ascii.py.rhysida
+Current dir entry ascii.pyc.rhysida
+Current dir entry base64_codec.py.rhysida
+Current dir entry big5.py.rhysida
+file_to_crypt size [0] bytes
+Small file 0
+Current dir entry big5hkscs.py.rhysida
+Current dir entry bz2_codec.py
+Current dir entry charmap.py.rhysida
+Current dir entry cp037.py.rhysida
+Current dir entry cp1006.py.rhysida
+Current dir entry cp1026.py.rhysida
+Current dir entry cp1140.py.rhysida
+Current dir entry cp1250.py.rhysida
+Current dir entry cp1251.py
+Current dir entry cp1252.py.rhysida
+Current dir entry cp1252.pyc.rhysida
+Current dir entry cp1253.py.rhysida
+file_to_crypt size [345] bytes
+Current dir entry cp1254.py.rhysida
+Current dir entry cp1254.pyc
+Processing block [0] from file [C:/Python27/Lib/email/test/data/msg_30.txt.rhysida] [345]/[345] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry cp1254.pyo.rhysida
+file_to_crypt size [405] bytes
+Processing block [0] from file [C:/Python27/Lib/email/test/data/msg_28.txt.rhysida] [405]/[405] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry cp1255.py.rhysida
+Current dir entry cp1256.py
+Current dir entry cp1257.py.rhysida
+Current dir entry cp1258.py.rhysida
+Current dir entry cp424.py.rhysida
+Current dir entry cp437.py.rhysida
+Current dir entry cp437.pyc.rhysida
+Current dir entry cp500.py.rhysida
+Current dir entry cp720.py
+Current dir entry cp737.py.rhysida
+Current dir entry cp775.py.rhysida
+Current dir entry cp850.py
+Current dir entry cp852.py.rhysida
+Current dir entry cp855.py
+Current dir entry cp856.py
+Current dir entry cp857.py.rhysida
+Current dir entry cp858.py
+Current dir entry cp860.py.rhysida
+Current dir entry cp861.py.rhysida
+Current dir entry cp862.py.rhysida
+Current dir entry cp863.py
+Current dir entry cp864.py
+Current dir entry cp865.py
+Current dir entry cp866.py
+file_to_crypt size [5239] bytes
+Processing block [0] from file [C:/Python27/Lib/email/test/data/msg_25.txt.rhysida] [5239]/[5239] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry cp869.py
+Current dir entry cp874.py
+Current dir entry cp875.py
+file_to_crypt size [13924] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/cp1251.py.rhysida] [13924]/[13924] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry cp932.py
+Current dir entry cp949.py
+Current dir entry cp950.py
+Current dir entry CriticalBreachDetected.pdf
+file_to_crypt size [2919] bytes
+Processing block [0] from file [C:/Python27/Lib/email/test/test_email_codecs_renamed.py.rhysida] [2919]/[2919] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [2843] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/cp1254.pyc.rhysida] [2843]/[2843] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry euc_jisx0213.py
+Current dir entry euc_jis_2004.py
+Current dir entry euc_jp.py
+Current dir entry euc_kr.py
+Current dir entry gb18030.py
+Current dir entry gb2312.py
+Current dir entry gbk.py
+Current dir entry hex_codec.py
+Current dir entry hp_roman8.py
+Current dir entry hz.py
+Current dir entry idna.py
+Current dir entry idna.pyc
+Current dir entry iso2022_jp.py
+Current dir entry iso2022_jp_1.py
+Current dir entry iso2022_jp_2.py
+Current dir entry iso2022_jp_2004.py
+Current dir entry iso2022_jp_3.py
+Current dir entry iso2022_jp_ext.py
+Current dir entry iso2022_kr.py
+Current dir entry iso8859_1.py
+Current dir entry iso8859_10.py
+Current dir entry iso8859_11.py
+Current dir entry iso8859_13.py
+Current dir entry iso8859_14.py
+Current dir entry iso8859_15.py
+Current dir entry iso8859_16.py
+Current dir entry iso8859_2.py
+Current dir entry iso8859_3.py
+Current dir entry iso8859_4.py
+Current dir entry iso8859_5.py
+Current dir entry iso8859_6.py
+Current dir entry iso8859_7.py
+Current dir entry iso8859_8.py
+Current dir entry iso8859_9.py
+file_to_crypt size [35059] bytes
+file_to_crypt size [1062] bytes
+Current dir entry johab.py
+Current dir entry koi8_r.py
+Processing block [0] from file [C:/Python27/Lib/encodings/cp850.py.rhysida] [35059]/[35059] size
+ReadedStart xxx_encryptStart fseekStart fwriteProcessing block [0] from file [C:/Python27/Lib/encodings/cp949.py.rhysida] [1062]/[1062] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry koi8_u.py
+Current dir entry latin_1.py
+Current dir entry latin_1.pyc
+Current dir entry mac_arabic.py
+Current dir entry mac_centeuro.py
+Current dir entry mac_croatian.py
+Current dir entry mac_cyrillic.py
+Current dir entry mac_farsi.py
+Current dir entry mac_greek.py
+Current dir entry mac_iceland.py
+Current dir entry mac_latin2.py
+Current dir entry mac_roman.py
+Current dir entry mac_romanian.py
+Current dir entry mac_turkish.py
+Current dir entry mbcs.py
+Current dir entry mbcs.pyc
+Current dir entry palmos.py
+Current dir entry ptcp154.py
+Current dir entry punycode.py
+Current dir entry quopri_codec.py
+file_to_crypt size [13158] bytes
+Current dir entry raw_unicode_escape.py
+Current dir entry rot_13.py
+Current dir entry shift_jis.py
+Current dir entry shift_jisx0213.py
+Current dir entry shift_jis_2004.py
+Processing block [0] from file [C:/Python27/Lib/encodings/cp874.py.rhysida] [13158]/[13158] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [13417] bytes
+Current dir entry string_escape.py
+Processing block [0] from file [C:/Python27/Lib/encodings/cp875.py.rhysida] [13417]/[13417] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [11599] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/iso8859_8.py.rhysida] [11599]/[11599] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry tis_620.py
+Current dir entry undefined.py
+Current dir entry unicode_escape.py
+Current dir entry unicode_internal.py
+Current dir entry utf_16.py
+Current dir entry utf_16_be.py
+Current dir entry utf_16_be.pyc
+Current dir entry utf_16_le.py
+Current dir entry utf_16_le.pyc
+Current dir entry utf_32.py
+Current dir entry utf_32_be.py
+Current dir entry utf_32_be.pyc
+Current dir entry utf_32_le.py
+Current dir entry utf_7.py
+Current dir entry utf_8.py
+Current dir entry utf_8.pyc
+Current dir entry utf_8_sig.py
+Current dir entry uu_codec.py
+Current dir entry zlib_codec.py
+Current dir entry __init__.py
+Current dir entry __init__.pyc
+Current dir entry __init__.pyo
+Current dir entry ensurepip
+Directory C:/Python27/Lib/ensurepip entries 5
+file_to_crypt size [13719] bytes
+Current dir entry _bundled
+Directory C:/Python27/Lib/ensurepip/_bundled entries 2
+Processing block [0] from file [C:/Python27/Lib/encodings/iso8859_9.py.rhysida] [13719]/[13719] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry pip-19.2.3-py2.py3-none-any.whl
+Current dir entry setuptools-41.2.0-py2.py3-none-any.whl
+Current dir entry _uninstall.py
+Current dir entry __init__.py
+Current dir entry __init__.pyc
+Current dir entry __main__.py
+Current dir entry filecmp.py
+Current dir entry fileinput.py
+Current dir entry fnmatch.py
+Current dir entry fnmatch.pyc
+Current dir entry formatter.py
+Current dir entry fpformat.py
+Current dir entry fractions.py
+Current dir entry ftplib.py
+Current dir entry functools.py
+Current dir entry functools.pyc
+Current dir entry functools.pyo
+Current dir entry genericpath.py
+Current dir entry genericpath.pyc
+Current dir entry genericpath.pyo
+Current dir entry getopt.py
+Current dir entry getopt.pyc
+file_to_crypt size [1078] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/shift_jis.py.rhysida] [1078]/[1078] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry getpass.py
+Current dir entry getpass.pyc
+file_to_crypt size [1098] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/shift_jisx0213.py.rhysida] [1098]/[1098] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [5855] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/__init__.py.rhysida] [5855]/[5855] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry gettext.py
+Current dir entry gettext.pyc
+Current dir entry glob.py
+Current dir entry glob.pyc
+Current dir entry gzip.py
+Current dir entry gzip.pyc
+Current dir entry hashlib.py
+Current dir entry hashlib.pyc
+file_to_crypt size [1098] bytes
+file_to_crypt size [3462] bytes
+Processing block [0] from file [C:/Python27/Lib/encodings/shift_jis_2004.py.rhysida] [1098]/[1098] size
+ReadedStart xxx_encryptStart fseekStart fwriteProcessing block [0] from file [C:/Python27/Lib/genericpath.pyc.rhysida] [3462]/[3462] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry heapq.py
+Current dir entry heapq.pyc
+Current dir entry hmac.py
+Current dir entry hmac.pyc
+Current dir entry hotshot
+Directory C:/Python27/Lib/hotshot entries 4
+Current dir entry log.py
+file_to_crypt size [3462] bytes
+Processing block [0] from file [C:/Python27/Lib/genericpath.pyo.rhysida] [3462]/[3462] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [8063] bytes
+Processing block [0] from file [C:/Python27/Lib/hashlib.py.rhysida] [8063]/[8063] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry stats.py
+Current dir entry stones.py
+Current dir entry __init__.py
+Current dir entry htmlentitydefs.py
+file_to_crypt size [19554] bytes
+Processing block [0] from file [C:/Python27/Lib/gzip.py.rhysida] [19554]/[19554] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry htmlentitydefs.pyc
+file_to_crypt size [6604] bytes
+file_to_crypt size [4492] bytes
+Processing block [0] from file [C:/Python27/Lib/getopt.pyc.rhysida] [6604]/[6604] size
+ReadedStart xxx_encryptStart fseekStart fwriteProcessing block [0] from file [C:/Python27/Lib/hmac.pyc.rhysida] [4492]/[4492] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [4724] bytes
+Processing block [0] from file [C:/Python27/Lib/hmac.py.rhysida] [4724]/[4724] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry htmllib.py
+Current dir entry HTMLParser.py
+Current dir entry HTMLParser.pyc
+Current dir entry httplib.py
+Current dir entry httplib.pyc
+Current dir entry idlelib
+file_to_crypt size [6433] bytes
+Processing block [0] from file [C:/Python27/Lib/hotshot/log.py.rhysida] [6433]/[6433] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/idlelib entries 75
+Current dir entry aboutDialog.py
+Current dir entry AutoComplete.py
+Current dir entry AutoCompleteWindow.py
+Current dir entry AutoExpand.py
+Current dir entry Bindings.py
+Current dir entry CallTips.py
+Current dir entry CallTipWindow.py
+Current dir entry ClassBrowser.py
+Current dir entry CodeContext.py
+Current dir entry ColorDelegator.py
+file_to_crypt size [2675] bytes
+Current dir entry config-extensions.def
+Current dir entry config-highlight.def
+Current dir entry config-keys.def
+Current dir entry config-main.def
+Current dir entry configDialog.py
+Processing block [0] from file [C:/Python27/Lib/hotshot/stats.py.rhysida] [2675]/[2675] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [797] bytes
+Current dir entry configHandler.py
+Processing block [0] from file [C:/Python27/Lib/hotshot/stones.py.rhysida] [797]/[797] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry configHelpSourceEdit.py
+file_to_crypt size [2748] bytes
+Processing block [0] from file [C:/Python27/Lib/hotshot/__init__.py.rhysida] [2748]/[2748] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry configSectionNameDialog.py
+Current dir entry CREDITS.txt
+Current dir entry Debugger.py
+Current dir entry Delegator.py
+Current dir entry dynOptionMenuWidget.py
+Current dir entry EditorWindow.py
+Current dir entry extend.txt
+Current dir entry FileList.py
+Current dir entry FormatParagraph.py
+Current dir entry GrepDialog.py
+Current dir entry help.html
+Current dir entry help.py
+Current dir entry help.txt
+Current dir entry HISTORY.txt
+Current dir entry HyperParser.py
+Current dir entry Icons
+Directory C:/Python27/Lib/idlelib/Icons entries 11
+file_to_crypt size [13567] bytes
+Processing block [0] from file [C:/Python27/Lib/HTMLParser.pyc.rhysida] [13567]/[13567] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry folder.gif
+Current dir entry idle.icns
+file_to_crypt size [33257] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/configHandler.py.rhysida] [33257]/[33257] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry idle.ico
+Current dir entry idle_16.gif
+Current dir entry idle_32.gif
+file_to_crypt size [67415] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/configDialog.py.rhysida] [67415]/[67415] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry idle_48.gif
+Current dir entry minusnode.gif
+Current dir entry openfolder.gif
+Current dir entry plusnode.gif
+Current dir entry python.gif
+Current dir entry tk.gif
+Current dir entry idle.bat
+Current dir entry idle.py
+file_to_crypt size [7991] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/config-keys.def.rhysida] [7991]/[7991] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry idle.pyw
+Current dir entry IdleHistory.py
+Current dir entry idlever.py
+Current dir entry idle_test
+file_to_crypt size [10752] bytes
+Directory C:/Python27/Lib/idlelib/idle_test entries 27
+Processing block [0] from file [C:/Python27/Lib/idlelib/HyperParser.py.rhysida] [10752]/[10752] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [12446] bytes
+Current dir entry htest.py
+Current dir entry mock_idle.py
+Current dir entry mock_tk.py
+Current dir entry README.txt
+Processing block [0] from file [C:/Python27/Lib/idlelib/help.txt.rhysida] [12446]/[12446] size
+ReadedStart xxx_encryptCurrent dir entry test_autocomplete.py
+Start fseekStart fwriteCurrent dir entry test_autoexpand.py
+Current dir entry test_calltips.py
+Current dir entry test_configdialog.py
+Current dir entry test_config_name.py
+Current dir entry test_delegator.py
+Current dir entry test_editmenu.py
+Current dir entry test_formatparagraph.py
+Current dir entry test_grep.py
+Current dir entry test_helpabout.py
+Current dir entry test_hyperparser.py
+Current dir entry test_idlehistory.py
+Current dir entry test_io.py
+Current dir entry test_parenmatch.py
+Current dir entry test_pathbrowser.py
+Current dir entry test_rstrip.py
+Current dir entry test_searchdialogbase.py
+Current dir entry test_searchengine.py
+Current dir entry test_text.py
+Current dir entry test_textview.py
+Current dir entry test_warning.py
+Current dir entry test_widgetredir.py
+Current dir entry __init__.py
+Current dir entry IOBinding.py
+Current dir entry keybindingDialog.py
+Current dir entry macosxSupport.py
+Current dir entry MultiCall.py
+Current dir entry MultiStatusBar.py
+Current dir entry NEWS.txt
+Current dir entry ObjectBrowser.py
+Current dir entry OutputWindow.py
+Current dir entry ParenMatch.py
+Current dir entry PathBrowser.py
+Current dir entry Percolator.py
+Current dir entry PyParse.py
+Current dir entry PyShell.py
+Current dir entry README.txt
+Current dir entry RemoteDebugger.py
+Current dir entry RemoteObjectBrowser.py
+Current dir entry ReplaceDialog.py
+Current dir entry rpc.py
+file_to_crypt size [10613] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/HISTORY.txt.rhysida] [10613]/[10613] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry RstripExtension.py
+file_to_crypt size [79] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/Icons/plusnode.gif.rhysida] [79]/[79] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [1331] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/idle_test/test_delegator.py.rhysida] [1331]/[1331] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry run.py
+Current dir entry ScriptBinding.py
+Current dir entry ScrolledList.py
+Current dir entry SearchDialog.py
+file_to_crypt size [427] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/idlever.py.rhysida] [427]/[427] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [978] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/RemoteObjectBrowser.py.rhysida] [978]/[978] size
+ReadedStart xxx_encryptStart fseekCurrent dir entry SearchDialogBase.py
+Start fwriteCurrent dir entry SearchEngine.py
+Current dir entry StackViewer.py
+Current dir entry tabbedpages.py
+Current dir entry textView.py
+Current dir entry TODO.txt
+Current dir entry ToolTip.py
+Current dir entry TreeWidget.py
+Current dir entry UndoDelegator.py
+Current dir entry WidgetRedirector.py
+Current dir entry WindowList.py
+Current dir entry ZoomHeight.py
+Current dir entry __init__.py
+Current dir entry ihooks.py
+Current dir entry imaplib.py
+Current dir entry imghdr.py
+Current dir entry importlib
+Directory C:/Python27/Lib/importlib entries 2
+file_to_crypt size [12011] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/RemoteDebugger.py.rhysida] [12011]/[12011] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.py
+file_to_crypt size [20747] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/rpc.py.rhysida] [20747]/[20747] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.pyc
+Current dir entry imputil.py
+Current dir entry inspect.py
+Current dir entry inspect.pyc
+Current dir entry io.py
+Current dir entry io.pyc
+Current dir entry json
+Directory C:/Python27/Lib/json entries 10
+file_to_crypt size [8681] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/ScriptBinding.py.rhysida] [8681]/[8681] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [13306] bytes
+Processing block [0] from file [C:/Python27/Lib/idlelib/run.py.rhysida] [13306]/[13306] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [3700] bytes
+Current dir entry decoder.py
+Processing block [0] from file [C:/Python27/Lib/imghdr.py.rhysida] [3700]/[3700] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry decoder.pyc
+Current dir entry encoder.py
+Current dir entry encoder.pyc
+Current dir entry scanner.py
+file_to_crypt size [49895] bytes
+Processing block [0] from file [C:/Python27/Lib/imaplib.py.rhysida] [49895]/[49895] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry scanner.pyc
+file_to_crypt size [3412] bytes
+Processing block [0] from file [C:/Python27/Lib/io.py.rhysida] [3412]/[3412] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry tests
+file_to_crypt size [39884] bytes
+Processing block [0] from file [C:/Python27/Lib/inspect.pyc.rhysida] [39884]/[39884] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/json/tests entries 18
+file_to_crypt size [44081] bytes
+Processing block [0] from file [C:/Python27/Lib/inspect.py.rhysida] [44081]/[44081] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_check_circular.py
+file_to_crypt size [16847] bytes
+Processing block [0] from file [C:/Python27/Lib/json/encoder.py.rhysida] [16847]/[16847] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_decode.py
+file_to_crypt size [2214] bytes
+Processing block [0] from file [C:/Python27/Lib/json/scanner.pyc.rhysida] [2214]/[2214] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_default.py
+Current dir entry test_dump.py
+Current dir entry test_encode_basestring_ascii.py
+Current dir entry test_fail.py
+Current dir entry test_float.py
+file_to_crypt size [2364] bytes
+Current dir entry test_indent.py
+Current dir entry test_pass1.py
+Current dir entry test_pass2.py
+Current dir entry test_pass3.py
+Processing block [0] from file [C:/Python27/Lib/json/scanner.py.rhysida] [2364]/[2364] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_recursion.py
+Current dir entry test_scanstring.py
+Current dir entry test_separators.py
+Current dir entry test_speedups.py
+Current dir entry test_tool.py
+Current dir entry test_unicode.py
+file_to_crypt size [13636] bytes
+Processing block [0] from file [C:/Python27/Lib/json/encoder.pyc.rhysida] [13636]/[13636] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [1487] bytes
+Processing block [0] from file [C:/Python27/Lib/importlib/__init__.pyc.rhysida] [1487]/[1487] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.py
+Current dir entry tool.py
+Current dir entry __init__.py
+Current dir entry __init__.pyc
+Current dir entry keyword.py
+Current dir entry keyword.pyc
+Current dir entry lib-tk
+file_to_crypt size [11900] bytes
+Processing block [0] from file [C:/Python27/Lib/json/decoder.pyc.rhysida] [11900]/[11900] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [5693] bytes
+Processing block [0] from file [C:/Python27/Lib/json/tests/test_scanstring.py.rhysida] [5693]/[5693] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [572] bytes
+file_to_crypt size [1067] bytes
+Processing block [0] from file [C:/Python27/Lib/json/tests/test_separators.py.rhysida] [1067]/[1067] size
+ReadedStart xxx_encryptStart fseekStart fwriteProcessing block [0] from file [C:/Python27/Lib/json/tests/test_pass3.py.rhysida] [572]/[572] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/lib-tk entries 19
+Current dir entry Canvas.py
+Current dir entry Dialog.py
+Current dir entry FileDialog.py
+Current dir entry FixTk.py
+Current dir entry ScrolledText.py
+Current dir entry SimpleDialog.py
+Current dir entry test
+Directory C:/Python27/Lib/lib-tk/test entries 4
+Current dir entry runtktests.py
+Current dir entry test_tkinter
+Directory C:/Python27/Lib/lib-tk/test/test_tkinter entries 9
+file_to_crypt size [15073] bytes
+Processing block [0] from file [C:/Python27/Lib/json/__init__.py.rhysida] [15073]/[15073] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [13901] bytes
+Processing block [0] from file [C:/Python27/Lib/json/__init__.pyc.rhysida] [13901]/[13901] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [2089] bytes
+Current dir entry test_font.py
+Processing block [0] from file [C:/Python27/Lib/keyword.py.rhysida] [2089]/[2089] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_geometry_managers.py
+Current dir entry test_images.py
+Current dir entry test_loadtk.py
+Current dir entry test_misc.py
+file_to_crypt size [2095] bytes
+Current dir entry test_text.py
+Processing block [0] from file [C:/Python27/Lib/keyword.pyc.rhysida] [2095]/[2095] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry test_variables.py
+Current dir entry test_widgets.py
+Current dir entry __init__.py
+Current dir entry test_ttk
+Directory C:/Python27/Lib/lib-tk/test/test_ttk entries 6
+Current dir entry support.py
+Current dir entry test_extensions.py
+Current dir entry test_functions.py
+Current dir entry test_style.py
+Current dir entry test_widgets.py
+file_to_crypt size [1891] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/ScrolledText.py.rhysida] [1891]/[1891] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.py
+file_to_crypt size [4373] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/test/test_tkinter/test_misc.py.rhysida] [4373]/[4373] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry widget_tests.py
+file_to_crypt size [2315] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/test/runtktests.py.rhysida] [2315]/[2315] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [3840] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/SimpleDialog.py.rhysida] [3840]/[3840] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry Tix.py
+Current dir entry tkColorChooser.py
+Current dir entry tkCommonDialog.py
+Current dir entry Tkconstants.py
+file_to_crypt size [3847] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/test/test_ttk/support.py.rhysida] [3847]/[3847] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [0] bytes
+Small file 0
+Current dir entry Tkdnd.py
+Current dir entry tkFileDialog.py
+Current dir entry tkFont.py
+Current dir entry Tkinter.py
+Current dir entry tkMessageBox.py
+Current dir entry tkSimpleDialog.py
+Current dir entry ttk.py
+Current dir entry turtle.py
+Current dir entry lib2to3
+file_to_crypt size [17809] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/test/test_ttk/test_functions.py.rhysida] [17809]/[17809] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [3006] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/test/test_ttk/test_style.py.rhysida] [3006]/[3006] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [1478] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/tkCommonDialog.py.rhysida] [1478]/[1478] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [1856] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/tkColorChooser.py.rhysida] [1856]/[1856] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/lib2to3 entries 16
+Current dir entry btm_matcher.py
+Current dir entry btm_utils.py
+Current dir entry fixer_base.py
+Current dir entry fixer_util.py
+Current dir entry fixes
+Directory C:/Python27/Lib/lib2to3/fixes entries 52
+file_to_crypt size [143069] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/turtle.py.rhysida] [143069]/[143069] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry fix_apply.py
+Current dir entry fix_asserts.py
+file_to_crypt size [3821] bytes
+Current dir entry fix_basestring.py
+Current dir entry fix_buffer.py
+Current dir entry fix_dict.py
+Current dir entry fix_except.py
+Processing block [0] from file [C:/Python27/Lib/lib-tk/tkMessageBox.py.rhysida] [3821]/[3821] size
+Current dir entry fix_exec.py
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry fix_execfile.py
+Current dir entry fix_exitfunc.py
+Current dir entry fix_filter.py
+Current dir entry fix_funcattrs.py
+Current dir entry fix_future.py
+Current dir entry fix_getcwdu.py
+Current dir entry fix_has_key.py
+Current dir entry fix_idioms.py
+Current dir entry fix_import.py
+Current dir entry fix_imports.py
+Current dir entry fix_imports2.py
+Current dir entry fix_input.py
+Current dir entry fix_intern.py
+Current dir entry fix_isinstance.py
+Current dir entry fix_itertools.py
+Current dir entry fix_itertools_imports.py
+Current dir entry fix_long.py
+Current dir entry fix_map.py
+Current dir entry fix_metaclass.py
+Current dir entry fix_methodattrs.py
+Current dir entry fix_ne.py
+Current dir entry fix_next.py
+Current dir entry fix_nonzero.py
+Current dir entry fix_numliterals.py
+Current dir entry fix_operator.py
+Current dir entry fix_paren.py
+Current dir entry fix_print.py
+Current dir entry fix_raise.py
+Current dir entry fix_raw_input.py
+Current dir entry fix_reduce.py
+Current dir entry fix_renames.py
+Current dir entry fix_repr.py
+Current dir entry fix_set_literal.py
+Current dir entry fix_standarderror.py
+Current dir entry fix_sys_exc.py
+Current dir entry fix_throw.py
+Current dir entry fix_tuple_params.py
+Current dir entry fix_types.py
+Current dir entry fix_unicode.py
+Current dir entry fix_urllib.py
+Current dir entry fix_ws_comma.py
+Current dir entry fix_xrange.py
+Current dir entry fix_xreadlines.py
+Current dir entry fix_zip.py
+Current dir entry __init__.py
+Current dir entry Grammar.txt
+Current dir entry main.py
+Current dir entry patcomp.py
+Current dir entry PatternGrammar.txt
+Current dir entry pgen2
+Directory C:/Python27/Lib/lib2to3/pgen2 entries 9
+file_to_crypt size [57803] bytes
+file_to_crypt size [8046] bytes
+Processing block [0] from file [C:/Python27/Lib/lib-tk/tkSimpleDialog.py.rhysida] [8046]/[8046] size
+ReadedStart xxx_encryptStart fseekStart fwriteProcessing block [0] from file [C:/Python27/Lib/lib-tk/ttk.py.rhysida] [57803]/[57803] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry conv.py
+file_to_crypt size [15029] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/fixer_util.py.rhysida] [15029]/[15029] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [3931] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/fixes/fix_dict.py.rhysida] [3931]/[3931] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [7269] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/patcomp.py.rhysida] [7269]/[7269] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry driver.py
+Current dir entry grammar.py
+Current dir entry literals.py
+Current dir entry parse.py
+Current dir entry pgen.py
+Current dir entry token.py
+Current dir entry tokenize.py
+Current dir entry __init__.py
+Current dir entry pygram.py
+Current dir entry pytree.py
+Current dir entry refactor.py
+Current dir entry tests
+Directory C:/Python27/Lib/lib2to3/tests entries 11
+file_to_crypt size [11874] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/main.py.rhysida] [11874]/[11874] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry data
+file_to_crypt size [7264] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/Grammar.txt.rhysida] [7264]/[7264] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [821] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/PatternGrammar.txt.rhysida] [821]/[821] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/lib2to3/tests/data entries 8
+file_to_crypt size [939] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/fixes/fix_zip.py.rhysida] [939]/[939] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry bom.py
+file_to_crypt size [1198] bytes
+Current dir entry crlf.py
+Current dir entry different_encoding.py
+Current dir entry false_encoding.py
+Current dir entry fixers
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pygram.py.rhysida] [1198]/[1198] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [28773] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/refactor.py.rhysida] [28773]/[28773] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/lib2to3/tests/data/fixers entries 4
+file_to_crypt size [147] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/__init__.py.rhysida] [147]/[147] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [29926] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pytree.py.rhysida] [29926]/[29926] size
+ReadedStart xxx_encryptCurrent dir entry bad_order.py
+Start fseekStart fwriteCurrent dir entry myfixes
+Directory C:/Python27/Lib/lib2to3/tests/data/fixers/myfixes entries 6
+file_to_crypt size [50] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/tests/data/crlf.py.rhysida] [50]/[50] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [236] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/tests/data/different_encoding.py.rhysida] [236]/[236] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [39] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/tests/data/bom.py.rhysida] [39]/[39] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [42] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/tests/data/false_encoding.py.rhysida] [42]/[42] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry fix_explicit.py
+file_to_crypt size [1340] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/token.py.rhysida] [1340]/[1340] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [14212] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/pgen.py.rhysida] [14212]/[14212] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry fix_first.py
+file_to_crypt size [94] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/tests/data/fixers/bad_order.py.rhysida] [94]/[94] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry fix_last.py
+Current dir entry fix_parrot.py
+Current dir entry fix_preorder.py
+Current dir entry __init__.py
+Current dir entry no_fixer_cls.py
+Current dir entry parrot_example.py
+Current dir entry infinite_recursion.py
+Current dir entry py2_test_grammar.py
+Current dir entry py3_test_grammar.py
+Current dir entry pytree_idempotency.py
+Current dir entry support.py
+Current dir entry test_all_fixers.py
+Current dir entry test_fixers.py
+Current dir entry test_main.py
+Current dir entry test_parser.py
+Current dir entry test_pytree.py
+Current dir entry test_refactor.py
+Current dir entry test_util.py
+Current dir entry __init__.py
+Current dir entry __init__.py
+Current dir entry __main__.py
+Current dir entry linecache.py
+Current dir entry linecache.pyc
+Current dir entry linecache.pyo
+Current dir entry locale.py
+Current dir entry locale.pyc
+Current dir entry locale.pyo
+Current dir entry logging
+Directory C:/Python27/Lib/logging entries 6
+file_to_crypt size [19746] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/tokenize.py.rhysida] [19746]/[19746] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry config.py
+file_to_crypt size [6222] bytes
+Current dir entry config.pyc
+Current dir entry handlers.py
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/driver.py.rhysida] [6222]/[6222] size
+ReadedStart xxx_encryptCurrent dir entry handlers.pyc
+Start fseekStart fwriteCurrent dir entry __init__.py
+Current dir entry __init__.pyc
+file_to_crypt size [8254] bytes
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/parse.py.rhysida] [8254]/[8254] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry macpath.py
+Current dir entry macurl2path.py
+Current dir entry mailbox.py
+Current dir entry mailcap.py
+file_to_crypt size [6806] bytes
+Current dir entry markupbase.py
+Current dir entry markupbase.pyc
+Current dir entry md5.py
+Current dir entry mhlib.py
+Current dir entry mimetools.py
+Current dir entry mimetools.pyc
+Current dir entry mimetypes.py
+Current dir entry mimetypes.pyc
+Current dir entry MimeWriter.py
+Current dir entry mimify.py
+Current dir entry modulefinder.py
+Current dir entry msilib
+Processing block [0] from file [C:/Python27/Lib/lib2to3/pgen2/grammar.py.rhysida] [6806]/[6806] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/msilib entries 4
+Current dir entry schema.py
+Current dir entry sequence.py
+Current dir entry text.py
+Current dir entry __init__.py
+Current dir entry multifile.py
+Current dir entry multiprocessing
+Directory C:/Python27/Lib/multiprocessing entries 13
+Current dir entry connection.py
+Current dir entry dummy
+Directory C:/Python27/Lib/multiprocessing/dummy entries 2
+Current dir entry connection.py
+Current dir entry __init__.py
+Current dir entry forking.py
+Current dir entry heap.py
+Current dir entry managers.py
+Current dir entry pool.py
+Current dir entry process.py
+Current dir entry queues.py
+Current dir entry reduction.py
+Current dir entry sharedctypes.py
+Current dir entry synchronize.py
+Current dir entry util.py
+Current dir entry __init__.py
+Current dir entry mutex.py
+Current dir entry netrc.py
+Current dir entry netrc.pyc
+Current dir entry new.py
+Current dir entry nntplib.py
+Current dir entry ntpath.py
+Current dir entry ntpath.pyc
+Current dir entry ntpath.pyo
+Current dir entry nturl2path.py
+Current dir entry nturl2path.pyc
+Current dir entry numbers.py
+Current dir entry numbers.pyc
+Current dir entry opcode.py
+Current dir entry opcode.pyc
+Current dir entry optparse.py
+Current dir entry optparse.pyc
+Current dir entry os.py
+Current dir entry os.pyc
+Current dir entry os.pyo
+Current dir entry os2emxpath.py
+Current dir entry pdb.py
+Current dir entry pickle.py
+Current dir entry pickle.pyc
+Current dir entry pickletools.py
+Current dir entry pipes.py
+Current dir entry pipes.pyc
+Current dir entry pkgutil.py
+Current dir entry pkgutil.pyc
+Current dir entry platform.py
+Current dir entry platform.pyc
+Current dir entry plistlib.py
+Current dir entry plistlib.pyc
+Current dir entry popen2.py
+Current dir entry poplib.py
+Current dir entry posixfile.py
+Current dir entry posixpath.py
+Current dir entry posixpath.pyc
+Current dir entry pprint.py
+Current dir entry pprint.pyc
+Current dir entry profile.py
+Current dir entry pstats.py
+Current dir entry pty.py
+Current dir entry pyclbr.py
+Current dir entry pydoc.py
+Current dir entry pydoc_data
+Directory C:/Python27/Lib/pydoc_data entries 2
+Current dir entry topics.py
+Current dir entry __init__.py
+Current dir entry py_compile.py
+Current dir entry py_compile.pyc
+Current dir entry py_compile.pyo
+file_to_crypt size [6505] bytes
+Processing block [0] from file [C:/Python27/Lib/macpath.py.rhysida] [6505]/[6505] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry Queue.py
+Current dir entry Queue.pyc
+Current dir entry quopri.py
+Current dir entry quopri.pyc
+Current dir entry random.py
+Current dir entry random.pyc
+Current dir entry re.py
+Current dir entry re.pyc
+Current dir entry re.pyo
+Current dir entry repr.py
+Current dir entry repr.pyc
+Current dir entry rexec.py
+Current dir entry rfc822.py
+Current dir entry rfc822.pyc
+Current dir entry rlcompleter.py
+Current dir entry robotparser.py
+file_to_crypt size [25140] bytes
+Current dir entry runpy.py
+Current dir entry runpy.pyc
+Current dir entry sched.py
+Current dir entry sets.py
+Current dir entry sgmllib.py
+Current dir entry sha.py
+Current dir entry shelve.py
+Current dir entry shlex.py
+Current dir entry shlex.pyc
+Current dir entry shutil.py
+Current dir entry shutil.pyc
+Current dir entry SimpleHTTPServer.py
+Current dir entry SimpleXMLRPCServer.py
+Current dir entry site-packages
+Processing block [0] from file [C:/Python27/Lib/modulefinder.py.rhysida] [25140]/[25140] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/site-packages entries 135
+Current dir entry argparse-1.4.0.dist-info
+Directory C:/Python27/Lib/site-packages/argparse-1.4.0.dist-info entries 7
+file_to_crypt size [104959] bytes
+Processing block [0] from file [C:/Python27/Lib/locale.py.rhysida] [104959]/[104959] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [6106] bytes
+Processing block [0] from file [C:/Python27/Lib/py_compile.py.rhysida] [6106]/[6106] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [39301] bytes
+Processing block [0] from file [C:/Python27/Lib/logging/handlers.pyc.rhysida] [39301]/[39301] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry DESCRIPTION.rst
+Current dir entry INSTALLER
+Current dir entry METADATA
+Current dir entry metadata.json
+Current dir entry RECORD
+Current dir entry top_level.txt
+Current dir entry WHEEL
+Current dir entry argparse.py
+Current dir entry argparse.pyc
+Current dir entry builtins
+file_to_crypt size [8232] bytes
+Processing block [0] from file [C:/Python27/Lib/SimpleHTTPServer.py.rhysida] [8232]/[8232] size
+ReadedStart xxx_encryptStart fseekStart fwriteDirectory C:/Python27/Lib/site-packages/builtins entries 2
+file_to_crypt size [26520] bytes
+Processing block [0] from file [C:/Python27/Lib/SimpleXMLRPCServer.py.rhysida] [26520]/[26520] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.py
+file_to_crypt size [110] bytes
+Processing block [0] from file [C:/Python27/Lib/site-packages/argparse-1.4.0.dist-info/WHEEL.rhysida] [110]/[110] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [20473] bytes
+Processing block [0] from file [C:/Python27/Lib/shutil.py.rhysida] [20473]/[20473] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [19109] bytes
+Processing block [0] from file [C:/Python27/Lib/shutil.pyc.rhysida] [19109]/[19109] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry __init__.pyc
+Current dir entry capstone
+Directory C:/Python27/Lib/site-packages/capstone entries 39
+file_to_crypt size [89214] bytes
+Processing block [0] from file [C:/Python27/Lib/site-packages/argparse.py.rhysida] [89214]/[89214] size
+ReadedStart xxx_encryptStart fseekStart fwritefile_to_crypt size [65738] bytes
+Processing block [0] from file [C:/Python27/Lib/site-packages/argparse.pyc.rhysida] [65738]/[65738] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry arm.py
+file_to_crypt size [2792] bytes
+Current dir entry arm.pyc
+Current dir entry arm64.py
+Current dir entry arm64.pyc
+Current dir entry arm64_const.py
+Current dir entry arm64_const.pyc
+Processing block [0] from file [C:/Python27/Lib/site-packages/argparse-1.4.0.dist-info/METADATA.rhysida] [2792]/[2792] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry arm_const.py
+Current dir entry arm_const.pyc
+Current dir entry capstone.dll
+file_to_crypt size [9] bytes
+Current dir entry hexagon.py
+Current dir entry hexagon.pyc
+Current dir entry hexagon_const.py
+Current dir entry hexagon_const.pyc
+Processing block [0] from file [C:/Python27/Lib/site-packages/argparse-1.4.0.dist-info/top_level.txt.rhysida] [9]/[9] size
+ReadedStart xxx_encryptStart fseekStart fwriteCurrent dir entry mips.py
+Current dir entry mip
