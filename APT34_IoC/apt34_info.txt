@@ -1,0 +1,170 @@
+olefile version 0.46 2018-09-09 - https://www.decalage.info/en/olefile
+
+--------------------------------------------------------------------
+C:\Users\demo\Desktop\ransomware_analysis\Reports\APT37_Report\8a8a7a506fd57bde314ce6154f2484f280049f2bda504d43704b9ad412d5d618.doc
+--------------------------------------------------------------------
+'Root Entry' (root) 9984 bytes 
+{00020906-0000-0000-C000-000000000046}
+  '\x01CompObj' (stream) 114 bytes 
+  '\x05DocumentSummaryInformation' (stream) 4096 bytes 
+  '\x05SummaryInformation' (stream) 4096 bytes 
+  '1Table' (stream) 14881 bytes 
+  'Macros' (storage) 
+    'PROJECT' (stream) 553 bytes 
+    'PROJECTwm' (stream) 71 bytes 
+    'UserForm1' (storage) 
+      '\x01CompObj' (stream) 97 bytes 
+      '\x03VBFrame' (stream) 294 bytes 
+      'f' (stream) 206 bytes 
+      'o' (stream) 58836 bytes 
+    'VBA' (storage) 
+      'ThisDocument' (stream) 12768 bytes 
+      'UserForm1' (stream) 1507 bytes 
+      '_VBA_PROJECT' (stream) 5347 bytes 
+      '__SRP_0' (stream) 3868 bytes 
+      '__SRP_1' (stream) 453 bytes 
+      '__SRP_2' (stream) 6825 bytes 
+      '__SRP_3' (stream) 368 bytes 
+      '__SRP_4' (stream) 1148 bytes 
+      '__SRP_5' (stream) 106 bytes 
+      'dir' (stream) 823 bytes 
+  'WordDocument' (stream) 61821 bytes 
+['\x05DocumentSummaryInformation']: properties
+    1 1252
+    5 1
+    6 1
+    11 False
+    12 None
+    13 None
+    15 b''
+    16 False
+    17 13
+    19 False
+    22 False
+    23 1048576
+['\x05SummaryInformation']: properties
+    1 1252
+    2 b''
+    3 b''
+    4 b'winRosei'
+    5 b''
+    7 b'Normal.dotm'
+    8 b'Lucy'
+    9 b'27'
+    10 1601-01-01 04:40:00
+    12 2023-06-11 08:23:00
+    13 2023-06-22 09:55:00
+    14 1
+    15 2
+    16 12
+    18 b'Microsoft Office Word'
+    19 0
+
+Checking streams...
+- '\x01CompObj' - size 114
+- '\x05DocumentSummaryInformation' - size 4096
+- '\x05SummaryInformation' - size 4096
+- '1Table' - size 14881
+- 'Macros/PROJECT' - size 553
+- 'Macros/PROJECTwm' - size 71
+- 'Macros/UserForm1/\x01CompObj' - size 97
+- 'Macros/UserForm1/\x03VBFrame' - size 294
+- 'Macros/UserForm1/f' - size 206
+- 'Macros/UserForm1/o' - size 58836
+- 'Macros/VBA/ThisDocument' - size 12768
+- 'Macros/VBA/UserForm1' - size 1507
+- 'Macros/VBA/_VBA_PROJECT' - size 5347
+- 'Macros/VBA/__SRP_0' - size 3868
+- 'Macros/VBA/__SRP_1' - size 453
+- 'Macros/VBA/__SRP_2' - size 6825
+- 'Macros/VBA/__SRP_3' - size 368
+- 'Macros/VBA/__SRP_4' - size 1148
+- 'Macros/VBA/__SRP_5' - size 106
+- 'Macros/VBA/dir' - size 823
+- 'WordDocument' - size 61821
+
+Modification/Creation times of all directory entries:
+- Root Entry: mtime=2023-06-22 09:55:00.946000 ctime=None
+- 1Table: mtime=None ctime=None
+- WordDocument: mtime=None ctime=None
+- SummaryInformation: mtime=None ctime=None
+- DocumentSummaryInformation: mtime=None ctime=None
+- Macros: mtime=2023-06-22 09:55:00.944000 ctime=2023-06-22 09:55:00.935000
+- VBA: mtime=2023-06-22 09:55:00.943000 ctime=2023-06-22 09:55:00.935000
+- ThisDocument: mtime=None ctime=None
+- __SRP_2: mtime=None ctime=None
+- __SRP_3: mtime=None ctime=None
+- UserForm1: mtime=None ctime=None
+- __SRP_4: mtime=None ctime=None
+- __SRP_5: mtime=None ctime=None
+- _VBA_PROJECT: mtime=None ctime=None
+- dir: mtime=None ctime=None
+- __SRP_0: mtime=None ctime=None
+- __SRP_1: mtime=None ctime=None
+- UserForm1: mtime=2023-06-22 09:55:00.944000 ctime=2023-06-22 09:55:00.943000
+- f: mtime=None ctime=None
+- o: mtime=None ctime=None
+- CompObj: mtime=None ctime=None
+- VBFrame: mtime=None ctime=None
+- PROJECTwm: mtime=None ctime=None
+- PROJECT: mtime=None ctime=None
+- CompObj: mtime=None ctime=None
+
+Properties from SummaryInformation stream:
+- codepage: 1252
+- title: b''
+- subject: b''
+- author: b'winRosei'
+- keywords: b''
+- comments: None
+- template: b'Normal.dotm'
+- last_saved_by: b'Lucy'
+- revision_number: b'27'
+- total_edit_time: 16800
+- last_printed: None
+- create_time: datetime.datetime(2023, 6, 11, 8, 23)
+- last_saved_time: datetime.datetime(2023, 6, 22, 9, 55)
+- num_pages: 1
+- num_words: 2
+- num_chars: 12
+- thumbnail: None
+- creating_application: b'Microsoft Office Word'
+- security: 0
+Properties from DocumentSummaryInformation stream:
+- codepage_doc: 1252
+- category: None
+- presentation_target: None
+- bytes: None
+- lines: 1
+- paragraphs: 1
+- slides: None
+- notes: None
+- hidden_slides: None
+- mm_clips: None
+- scale_crop: False
+- heading_pairs: None
+- titles_of_parts: None
+- manager: None
+- company: b''
+- links_dirty: False
+- chars_with_spaces: 13
+- unused: None
+- shared_doc: False
+- link_base: None
+- hlinks: None
+- hlinks_changed: False
+- version: 1048576
+- dig_sig: None
+- content_type: None
+- content_status: None
+- language: None
+- doc_version: None
+
+Root entry name: "Root Entry"
+This is a Word document.
+type of stream 'WordDocument': 2
+size : 61821
+This document may contain VBA macros.
+
+Non-fatal issues raised during parsing:
+None
