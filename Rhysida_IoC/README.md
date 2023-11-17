@@ -51,6 +51,7 @@
     <br><br>
     <img src="ryhsida_onion2.png">
     <br><br>
+    Burada ransomware incelememiz tamamlanıyor.
 </p>
 
 # YARA Kuralı ve Önlemler
