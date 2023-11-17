@@ -42,7 +42,7 @@
     <br><br>
     <img src="ryhsida_compiler.png">
     <br><br>
-    Ardından cihazın hiçbir network etkileşimi olmadığını görüyoruz. Fidye yazılımı "rhysidafohr************************fxhi4tidsg7cad[.]onion" sitesine girilen "6F2*****************Y9DU1" key ile ödeme işlemini alır ve fidyenin unlock yazılımını verir
+    Ardından cihazın hiçbir network etkileşimi olmadığını görüyoruz. Fidye yazılımı "rhysidafohr************************fxhi4tidsg7cad[.]onion" sitesine girilen "6F2*****************Y9DU1" key ile ödeme işlemini alır ve fidyenin unlock yazılımını verir.
 </p>
 
 # YARA Kuralı ve Önlemler
