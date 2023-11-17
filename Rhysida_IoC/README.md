@@ -45,11 +45,11 @@
     Ardından cihazın hiçbir network etkileşimi olmadığını görüyoruz. Fidye yazılımı "rhysidafohr************************fxhi4tidsg7cad[.]onion" sitesine girilen "6F2*****************Y9DU1" key ile ödeme işlemini alır ve fidyenin unlock yazılımını verir.
     Onion sitesine girdiğimizde ise karşımıza "SECRET TOKEN" bölümü gelir 
     <br><br>
-    <img src="ryhsida_onion.png">
+    <img src="rhysida_onion.png">
     <br><br>
     SECRET TOKEN kodumuzu girdikten sonra burada domain adımızı ve şirket adımızı ister. Muhtemelen şifreleme bu mantıkta yapılıyor.
     <br><br>
-    <img src="ryhsida_onion2.png">
+    <img src="rhysida_onion2.png">
     <br><br>
     Burada ransomware incelememiz tamamlanıyor.
 </p>
