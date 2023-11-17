@@ -50,7 +50,6 @@
     <li>TOR erişimlerini tüm ağda engellemelisiniz.</li>
     <li>YARA kurallarına aşağıda bıraktığım kuralları ekleyebilirsiniz.</li>
 </ul>
-<br><br>
 <pre>
 rule Rhysida_Ransom {
 meta:
