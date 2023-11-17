@@ -26,7 +26,7 @@
     <br><br>
     <img src="ryhsida_crypt.png">
     <br><br>
-    PDF dosyasının içeriğine bakıldığında da "verilerinin kriptolandığına dair" bir mesaj görürüz
+    PDF dosyasının içeriğine bakıldığında da <a href="Critical_Breach_Detected.txt">"verilerinin kriptolandığına dair"</a> bir mesaj görürüz
     <br><br>
     <img src="ryhsida_msg.png">
     <br><br>
