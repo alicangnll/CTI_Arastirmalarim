@@ -123,3 +123,8 @@ condition:
         )
 }
 </pre>
+
+# Kaynaklar
+<ul>
+    <li>https://bazaar.abuse.ch/sample/a864282fea5a536510ae86c77ce46f7827687783628e4f2ceb5bf2c41b8cd3c6/</li>
+</ul>
