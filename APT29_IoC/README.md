@@ -62,6 +62,14 @@
     <br><br>
 </p>
 
+# Güncelleme
+<p>
+    RAR dosyasının içeriğini incelerken diğer RAR dosyalarından farklı olarak "PK" olarak paketlendiğini fark ettim ve bu nedenle yeni bir YARA kuralı (APT29_Ransom2) daha ekledim
+    <br><br>
+    <img src="normal_vs_cve.png">
+    <br><br>
+</p>
+
 # Sonuç
 <p>
     WinRAR'ın "CVE-2023-38831" kodlu zafiyetini kullanarak içerisinde kod çalıştıran bu dosya ile NGROK Proxy üzerinden PS1 dosyası çalıştırılarak bir backdoor oluşturup ilgili bilgisayarda uzun süre veri toplayan bu zararlı yazılımı buluyoruz. Önlem olarak ise YARA kurallarını paylaşıyorum.
