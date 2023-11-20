@@ -30,7 +30,7 @@
 # Çalışma Mantığı
 <p>
     Öncelikle zararlı yazılım WinRAR adlı yazılımın "CVE-2023-38831" kodlu zafiyetini kullanarak bulaşmaktadır.<br>
-    Zararlı yazılımın bulaştığı bilgisayar RAR içerisindeki bir BAT dosyası yardımıyla uzaktan bir kod çağırmaktadır.
+    Zararlı yazılımın bulaştığı bilgisayar RAR içerisindeki bir BAT dosyası (MD5: ff7d1fb202bac38345be8cf267fa6688) yardımıyla uzaktan bir kod çağırmaktadır.
     RAR içeriğine baktığımızda bir adet klasör ve bir adet PDF dosyası bulunmaktadır.
     <br><br>
     <img src="rar_inside.png">
