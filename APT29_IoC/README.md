@@ -91,12 +91,11 @@ rule APT29_Ransom : PDF {
 rule APT29_Ransom2 {
 	meta:
         author= "Ali Can Gönüllü"
-        description= "APT29 Ransomware Rule 2"
+        description= "CVE-2023-38831 Rule"
 	strings:
-        $header = "PK" ascii
-        $pattrn = /(.{1,256}\.[A-Za-z1]{2,4})\s\/(.{1,256}\.[A-Za-z1]{2,4})\s\.[A-Za-z0-9]{2,4}/
+        $pk = {2F 50 4B}
 	condition:
-        $header at 0 and $pattrn
+        any of them
 }
 </pre>
 
