@@ -1,7 +1,7 @@
 # APT29 (CozyBear) Zararlı Yazılımı IoC Çalışması
 
 <br><br>
-<img src="target_countries.png">
+<img src="russian_salad.png">
 <br><br>
 <p>
     Merhabalar,<br>
@@ -17,8 +17,10 @@
 
 # Grup ve Bulaşma Şekli Hakkında Bilgi
 <p>
-    Öncelikle grup WinRAR adlı yazılımın zafiyetini kullanarak zararlı yazılımı aktif etmektedir.<br>
-    Bu zararlı yazılımla Azerbaycan, İtalya, Yunanistan ve Romanya başta olmak üzere pek çok ülkenin büyükelçiliklerini hedef almıştır.
+    CozyBear, yani APT29 mahlasıyla bilinen bu grubun bu yazılımı bir siber-espiyonaj (istihbarat) yazılımıdır. Amacı içeriden uzun süre veri toplamak ve bunu proxy aracığıyla kaynağa aktarmaktır.
+    <br><br>
+    Öncelikle zararlı yazılım WinRAR adlı yazılımın zafiyetini kullanarak zararlı yazılımı aktif etmektedir.<br>
+    Bu zararlı yazılımla Azerbaycan, İtalya, Yunanistan ve Romanya başta olmak üzere pek çok ülkenin büyükelçiliklerini hedef almıştır.<br>
     <br><br>
     <img src="target_countries.png">
     <br><br>
