@@ -45,7 +45,7 @@
     <br><br>
     <img src="os_detect.png">
     <br><br>
-    Program kodlarının devamında C2 server olan "git-hub[.]me" adresinin "view.php" adresine POST isteğiyle sistemin kontrol edilmesi için bir UID kodunun ve işletim sistemi bilgisinin GITHUB_REQ olarak gösterilmek suretiyle gönderildiğini görmekteyiz.
+    Program kodlarının devamında <b>C2 server olan "git-hub[.]me" adresinin "view.php" adresine POST isteğiyle sistemin kontrol edilmesi için bir UID kodunun ve işletim sistemi bilgisinin GITHUB_REQ olarak gösterilmek suretiyle gönderildiğini</b> görmekteyiz.
     <br><br>
     <img src="base64_encode.png">
     <br><br>
