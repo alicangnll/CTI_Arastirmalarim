@@ -27,16 +27,16 @@
     <img src="code.png">
     <br><br>
     İncelemeye devam ederken BASE64'ü text'e dönüştüren bir kod parçası görmekteyiz
-     <pre>byte [] b64dec = Base64.getDecoder().decode(QUIET_ZONE_DATA); </pre><br>
+    <pre>byte [] b64dec = Base64.getDecoder().decode(QUIET_ZONE_DATA);</pre><br>
     Bu kodun text halinden dönüştürüldükten sonra "QRLog.java" dosya adıyla şu komutla derlenip çalıştırıldığını görmekteyiz
-     <pre>
+    <pre>
     if (os.contains("Windows"))
         errPath = System.getProperty("java.io.tmpdir")+ "\\QRLog.java";
     else
         errPath = System.getProperty("java.io.tmpdir")+ "/QRLog.java";
     FileOutputStream qrW = new FileOutputStream(errPath);
     qrW.write(b64dec);
-     </pre><br>
+    </pre><br>
     Hemen bu kodun birkaç satır altında da BASE64 kodunu görmekteyiz.
     <br><br>
     <img src="base64_code.png">
@@ -65,7 +65,7 @@
     Sahte uygulamalarla kandırılma olayları çok sıklıkla normal kullanıcı tarafında yaşanmaktadır. İşletmeler için en önemli kısım da bu sahte uygulamalara inanan personellerdir. Bu konuda en önemli aşama <b>personellere gerekli eğitimin verilmesidir. Bu eğitimler için Siber Güvenlik Uzmanları ve Siber Güvenlik Firmalarından destek alabilirsiniz</b>
     Ayrıca güvenlik sistemlerine dahil edilmesi için YARA kuralı ise aşağıdaki gibidir.
 </p>
- <pre>
+<pre>
 rule Fake_QRCode_C2 {
 	meta:
         author= "Ali Can Gönüllü"
@@ -79,5 +79,5 @@ rule Fake_QRCode_C2 {
 	condition:
         5 of ($pk*)
 }
- </pre>
+</pre>
 
