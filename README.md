@@ -37,6 +37,11 @@
   Bu süreçte, Siber Tehdit İstihbaratı uzmanları, siber saldırılar için kullanılan araçları, kötü amaçlı yazılımları ve diğer taktikleri analiz ederek, gelecekteki saldırıları önlemek için savunma stratejileri geliştirirler.
 </p>
 
+# APT Nedir ?
+<p>
+  APT zararlı yazılımlar, hedef odaklı ve uzun süreli siber saldırılar gerçekleştiren zararlı yazılımlardır. APT, Gelişmiş Kalıcı Tehdit (Advanced Persistent Threat) anlamına gelir. APT saldırıları, genellikle devlet destekli veya istihbarat amaçlı gruplar tarafından yapılır. APT saldırılarının amacı, hedef kurumun ağına sızarak gizli bilgileri çalmak, casusluk yapmak veya sabotaj yapmaktır. APT saldırıları, geleneksel güvenlik mekanizmalarını aşmak için karmaşık ve sofistike yöntemler kullanır. APT saldırıları, hedef kurumun ağında fark edilmeden uzun süre kalabilir ve kendilerine ait arka kapılar bırakabilir.
+</p>
+
 # Disclaimer | Yasal Uyarı
 <p>
   Bu blog yazısında sağlanan bilgiler yalnızca eğitim ve bilgilendirme amaçlıdır. Bilgisayar korsanlığı, siber saldırılar veya bilgisayar sistemlerine, ağlara veya verilere herhangi bir şekilde yetkisiz erişim de dahil olmak üzere herhangi bir yasa dışı veya etik olmayan faaliyeti teşvik etme veya reklam etme amacı taşımaz.
