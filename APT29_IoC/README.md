@@ -8,7 +8,7 @@
     Arkadaşlar bu yazımda sizlerle beraber APT29 adlı ve Rusya bağlantılı grubun zararlı yazılımını inceleyeceğiz.
 </p>
 
-## Disclaimer | Yasal Uyarı
+# Disclaimer | Yasal Uyarı
 <p>
   Bu blog yazısında sağlanan bilgiler yalnızca eğitim ve bilgilendirme amaçlıdır. <b>Bilgisayar korsanlığı, siber saldırılar veya bilgisayar sistemlerine, ağlara veya verilere herhangi bir şekilde yetkisiz erişim de dahil olmak üzere herhangi bir yasa dışı veya etik olmayan faaliyeti</b> teşvik etme veya reklam etme amacı taşımaz.
 <br><br>
