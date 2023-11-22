@@ -27,11 +27,11 @@ Medusa ransomware grubu, kurbanların ağlarına erişmek için çoğunlukla Zay
 
 Medusa ransomware grubu, sistemlere bulaştıktan sonra PowerShell komut dosyası invoke-ReflectivePEInjection [ T1059.001 ] kullanarak Medusa ransomware'yi ağ boyunca yaymaktadır. Bu komut dosyası, enfekte makinenin kayıt defterindeki EnableLinkedConnections değerini düzenleyerek, enfekte makinenin bağlı ana bilgisayarları ve ağları Internet Control Message Protocol (ICMP) ile ve paylaşılan depolama alanlarını Server Message Block (SMB) Protokolü ile algılamasını sağlar. Medusa ransomware daha sonra:<br>
 <ul>
-<li>- LanmanWorkstation servisini yeniden başlatır, bu da kayıt defteri düzenlemelerinin etkinleşmesini sağlar.</li>
-<li>- Bilinen güvenlik, muhasebe ve adli yazılımların süreçlerini sonlandırır.</li>
-<li>- Veri kurtarmayı önlemek için gölge kopya yedeklerini siler.</li>
-<li>- Sistem ayrıcalıklarını yükseltir, savunma mekanizmalarını devre dışı bırakır ve ağ üzerinde yayılır.</li>
-<li>- Saldırının sonucunda verileri şifreler ve şifre çözme karşılığında fidye talep eden bir not bırakır.</li>
+  <li>LanmanWorkstation servisini yeniden başlatır, bu da kayıt defteri düzenlemelerinin etkinleşmesini sağlar.</li>
+  <li>Bilinen güvenlik, muhasebe ve adli yazılımların süreçlerini sonlandırır.</li>
+  <li>Veri kurtarmayı önlemek için gölge kopya yedeklerini siler.</li>
+  <li>Sistem ayrıcalıklarını yükseltir, savunma mekanizmalarını devre dışı bırakır ve ağ üzerinde yayılır.</li>
+  <li>Saldırının sonucunda verileri şifreler ve şifre çözme karşılığında fidye talep eden bir not bırakır.</li>
 </ul>
 </p>
 
