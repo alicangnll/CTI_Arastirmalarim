@@ -77,7 +77,8 @@
     <a href="apt29_rules.yara">YARA kuralları için tıklayın</a>
 </p>
 
-# Kaynaklar
-<ul>
-    <li>https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf</li>
-</ul>
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+</p>

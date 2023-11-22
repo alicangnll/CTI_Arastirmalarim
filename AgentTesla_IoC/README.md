@@ -93,3 +93,9 @@
     <li>Excel makrolarını kapalı tutmak</li>
     <li>Kurumsal düzeyde bilinmeyen mail adreslerinden gelen dosyaların AÇILMAMASI gerektiğini personellere anlatmak</li>
 </ul>
+
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+</p>

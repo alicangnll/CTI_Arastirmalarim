@@ -72,7 +72,8 @@ Bu konuda alınabilecek önlemler ise,
 </ul>
 </p>
 
-# Kaynaklar
-<ul>
-    <li>https://bazaar.abuse.ch/sample/a4827700c4085d6c48f42c68aca105520fa2bc0ad32ef90e8e5c514d9eac0425/</li>
-</ul>
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+</p>

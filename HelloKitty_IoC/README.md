@@ -67,3 +67,9 @@
     <li>Ağ üzerinde Proxy kullanımını kapatma</li>
     <li>Onion sitelere ulaşmayı sağlayan TOR Proxy'lerini güvenlik duvarı üzerinden engelleme</li>
 </ul>
+
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+</p>

@@ -68,7 +68,8 @@ Teknolojinin gittikçe artmasıyla bu tarz DOC formatında gerçekleşen saldır
 </ul>
 </p>
 
-## Kaynaklar
-<ul>
-    <li>https://bazaar.abuse.ch/sample/8a8a7a506fd57bde314ce6154f2484f280049f2bda504d43704b9ad412d5d618/</li>
-</ul>
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+</p>
