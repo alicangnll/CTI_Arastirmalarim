@@ -1,6 +1,6 @@
 # Iran Kaynaklı Yeni Ransomware: IRATA IoC Çalışması
 <p>
-    <center>Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Arkadaşlar bu yazımda sizlerle beraber Iran kaynaklarını hedef alan IRATA adlı mobil ransomware yazılımını inceleyeceğiz.
 </p>
