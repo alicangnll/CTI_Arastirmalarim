@@ -1,5 +1,6 @@
 # AgentTesla Excel Zararlı Yazılımı IoC Çalışması
 <p>
+    <center>Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Arkadaşlar bu yazımda sizlerle beraber AgentTesla adlı RAT yazılımını inceleyeceğiz.
 </p>

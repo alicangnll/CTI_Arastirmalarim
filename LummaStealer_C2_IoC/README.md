@@ -1,5 +1,6 @@
 # LummaStealer C2 IoC Çalışması
 <p>
+  <center>Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
   Merhaba,<br>
   Bu yazımda LummaStealer C2 adlı malware üzerinde yaptığımız tespit çalışmalarının aşamalarını anlatacağım.
 </p>

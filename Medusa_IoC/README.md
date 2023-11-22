@@ -3,6 +3,7 @@
 <img src="medusa.png">
 <br><br>
 <p>
+    <center>Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte Medusa adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
 </p>
