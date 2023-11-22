@@ -59,7 +59,7 @@ Medusa ransomware grubu, sistemlere bulaştıktan sonra PowerShell komut dosyas�
     <br><br>
     <img src="arp_requests.png">
     <br><br>
-    Ardından önce yerel ağdaki ana bilgisayara (192.168.6.1 oluyor) ardından da C2 adresine (93[.]184[.]221[.]240 oluyor) devamlı olarak PING isteği göndermektedir.
+    Ardından önce yerel ağdaki ana bilgisayara (192.168.6.1 oluyor) ardından da C2 adresine (93[.]184[.]221[.]240 oluyor) devamlı olarak PING isteği göndermektedir. <a href="medusa.pcapng">PCAP dosyasına buradan ulaşabilirsiniz.</a>
     <br><br>
     <img src="c2_server.png">
     <br><br>
