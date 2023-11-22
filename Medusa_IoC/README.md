@@ -78,7 +78,7 @@ Medusa ransomware grubu, sistemlere bulaştıktan sonra PowerShell komut dosyas�
 <p>
   Öncelikle bu tarz zararlı yazılımların RSA - AES algoritmalarını kullandığını siz de görebilirsiniz. Bu algoritmaların çözümü zor olduğu için haliyle kurban olduğunuz takdirde iyi bir Veri Kurtarma Uzmanına ihtiyacınız olacaktır.<br>
   Bu mağduriyeti yaşamamanız için EDR / XDR sistemlerinizi güncel tutarak bu saldırıları büyük oranda engelleyebilirsiniz.<br>
-  YARA kuralı daha sonra eklenecektir.
+  <a href="../YARA_Rules/Medusa_Ransomware.yara">YARA dosyasına buradan ulaşabilirsiniz (GÜNCELLENECEKTİR)</a>
 </p>
 
 # Yazar | Author 
