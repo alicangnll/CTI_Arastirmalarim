@@ -1,5 +1,6 @@
 # İncelemelerim
 <ul>
+<li><a href="Medusa_IoC/">Medusa C2 Ransomware</a></li>
 <li><a href="QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
 <li><a href="APT29_IoC/">APT29 (CozyBear)</a></li>
 <li><a href="Rhysida_IoC/">Rhysida Ransomware (0.1)</a></li>
