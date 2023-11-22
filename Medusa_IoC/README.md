@@ -17,11 +17,27 @@
 
 # Grup Bilgisi
 <p>
+Medusa ransomware grubu, sağlık sektörünü hedef alan saldırılarıyla ün kazanan, henüz çok bilinmeyen ama güçlü bir ransomware grubudur. COVID-19 pandemisi sırasında yaşanan karmaşa ve kargaşadan yararlanan bu grup, sistemleri enfekte edip şifreleyerek, şifreli verilerin geri alınması için yüklü fidyeler talep etmektedir.<br>
+
+Medusa ransomware grubu, 2021 yılında ortaya çıkmış ve 2023 yılında dünya çapında işletmelere milyon dolarlık fidye talepleriyle saldırmaya başlamıştır. Medusa operasyonu Haziran 2021'de başlamış, ancak çok fazla kurban ya da faaliyet gözlenmemiştir.<br>
+
+Medusa ransomware grubu, Ransomware-as-a-Service (RaaS) modeli altında çalışmaktadır. Bu modelde, ransomware geliştiricisi ve kurban sistemlerine ransomware bulaştıran çeşitli ortaklar bulunmaktadır. Medusa ransomware grubu, fidye ödemelerini ortaklara yüzde 55-60, geliştiriciye ise geri kalanını vererek bölüştürmektedir.<br>
+
+Medusa ransomware grubu, kurbanların ağlarına erişmek için çoğunlukla Zayıf Uzak Masaüstü Protokolü (RDP) yapılandırmalarından yararlanmaktadır [ T1133 ]. Ayrıca, başlangıç saldırı vektörü olarak e-posta yoluyla kimlik avı ve istenmeyen e-posta kampanyalarını kullanmaktadır [ T1566 ].<br>
+
+Medusa ransomware grubu, sistemlere bulaştıktan sonra PowerShell komut dosyası invoke-ReflectivePEInjection [ T1059.001 ] kullanarak Medusa ransomware'yi ağ boyunca yaymaktadır. Bu komut dosyası, enfekte makinenin kayıt defterindeki EnableLinkedConnections değerini düzenleyerek, enfekte makinenin bağlı ana bilgisayarları ve ağları Internet Control Message Protocol (ICMP) ile ve paylaşılan depolama alanlarını Server Message Block (SMB) Protokolü ile algılamasını sağlar. Medusa ransomware daha sonra:<br>
+<ul>
+<li>- LanmanWorkstation servisini yeniden başlatır, bu da kayıt defteri düzenlemelerinin etkinleşmesini sağlar.</li>
+<li>- Bilinen güvenlik, muhasebe ve adli yazılımların süreçlerini sonlandırır.</li>
+<li>- Veri kurtarmayı önlemek için gölge kopya yedeklerini siler.</li>
+<li>- Sistem ayrıcalıklarını yükseltir, savunma mekanizmalarını devre dışı bırakır ve ağ üzerinde yayılır.</li>
+<li>- Saldırının sonucunda verileri şifreler ve şifre çözme karşılığında fidye talep eden bir not bırakır.</li>
+</ul>
 </p>
 
 # Bulaşma Şekli
 <p>
-    Zararlı yazılım EXE formatında sisteme bulaşmaktadır
+    Zararlı yazılım EXE formatında sisteme bulaşmaktadır ve ardından AES - RSA algoritmalarını kullanmak suretiyle sistemdeki kişisel verileri şifrelemektedir.
 </p>
 
 # Çalışma Mantığı
