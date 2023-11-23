@@ -3,7 +3,7 @@
 <img src="medusa.png">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte Medusa adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
 </p>
@@ -84,5 +84,6 @@ Medusa ransomware grubu, sistemlere bulaştıktan sonra PowerShell komut dosyas�
 # Yazar | Author 
 <p>
   Ali Can GÖNÜLLÜ<br>
-  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
 </p>

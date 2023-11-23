@@ -1,6 +1,6 @@
 # APT34 C2 Zararlı Yazılımı IoC Çalışması
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte APT34 adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
     Yaptığımız açık kaynak taramalarında taramasını yaptığımız virüs OilRig (APT34) lakaplı İran tarafından desteklenen bir zararlı yazılım grubunun ürünü olduğunu öğrendik.
@@ -72,5 +72,6 @@ Teknolojinin gittikçe artmasıyla bu tarz DOC formatında gerçekleşen saldır
 # Yazar | Author 
 <p>
   Ali Can GÖNÜLLÜ<br>
-  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
 </p>

@@ -1,6 +1,6 @@
 # HelloKitty Zararlı Yazılımı IoC Çalışması
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Bu yazımda sizlerle birlikte HelloKitty adlı kaynak kodları sızdırılmış olan ransomware ve korunma yöntemlerini inceleyeceğiz.
     Öncelikle bu haberi şahsen Twitter / X üzerinde duydum ve kaynak kodlarını vx-underground adlı malware analizi yapan GitHub sayfasından indirdim ve incelemeye başladım.
@@ -72,5 +72,6 @@
 # Yazar | Author 
 <p>
   Ali Can GÖNÜLLÜ<br>
-  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
 </p>

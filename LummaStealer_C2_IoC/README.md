@@ -1,6 +1,6 @@
 # LummaStealer C2 IoC Çalışması
 <p>
-  <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+  <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
   Merhaba,<br>
   Bu yazımda LummaStealer C2 adlı malware üzerinde yaptığımız tespit çalışmalarının aşamalarını anlatacağım.
 </p>
@@ -39,5 +39,6 @@
 # Yazar | Author 
 <p>
   Ali Can GÖNÜLLÜ<br>
-  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
 </p>

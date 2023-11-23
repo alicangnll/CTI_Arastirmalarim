@@ -1,6 +1,6 @@
 # Ryhsida Fidye (Ransomware) Zararlı Yazılımı IoC Çalışması
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Arkadaşlar bu yazımda sizlerle beraber <a href="FBI_Rhysida_Report.pdf">FBI raporlarına bile yüksek risk derecesinde girmiş olan</a> Ryhsida Ransomware fidye zararlı yazılımını inceleyeceğiz.
 </p>

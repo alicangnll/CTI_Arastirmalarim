@@ -98,5 +98,6 @@
 # Yazar | Author 
 <p>
   Ali Can GÖNÜLLÜ<br>
-  Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
 </p>

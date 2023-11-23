@@ -4,7 +4,7 @@
 <img src="title_pic.png">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
+    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
     Merhabalar,<br>
     Arkadaşlar bu yazımda sizlerle beraber sahte bir QR okuyucu olarak ortaya çıkan ve 4 ay önce kodları CTI araştırmacıları tarafından sızdırılan "QRLog" adlı zararlı yazılımı inceleyeceğiz.
 </p>
@@ -79,4 +79,11 @@ rule Fake_QRCode_C2 {
         3 of ($pk*)
 }
 </pre>
+
+# Yazar | Author 
+<p>
+  Ali Can GÖNÜLLÜ<br>
+  Siber Güvenlik Uzmanı<br>
+  alicangonullu[at]yahoo.com
+</p>
 
