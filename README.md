@@ -1,5 +1,6 @@
 # İncelemelerim
 <ul>
+<li><a href="Zyklon_IoC/">Zyklon C2 Malware</a></li>
 <li><a href="Medusa_IoC/">Medusa C2 Ransomware</a></li>
 <li><a href="QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
 <li><a href="APT29_IoC/">APT29 (CozyBear)</a></li>
