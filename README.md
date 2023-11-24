@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # İncelemelerim
 <ul>
 <li><a href="Zyklon_IoC/">Zyklon C2 Malware</a></li>
@@ -11,8 +13,6 @@
 <li><a href="IRATA_IoC/">IRATA</a></li>
 <li><a href="LummaStealer_C2_IoC/">LummaStealer</a></li>
 </ul>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Proje Hakkında
 <p>
