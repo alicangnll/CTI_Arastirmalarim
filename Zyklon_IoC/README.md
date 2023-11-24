@@ -14,7 +14,7 @@
 
 # Zararlı Hakkında
 <p>
-    Zyklon HTTP Backdoor Malware, bir bilgisayarın arka kapısını açan, klavye kaydı, parola çalma, ek eklentiler indirme ve çalıştırma, DDoS saldırıları yapma, kendini güncelleme ve kaldırma gibi özelliklere sahip, kamuya açık bir zararlı yazılımdır. Bu zararlı yazılım, Microsoft Office'in bazı açıklarını kullanarak sisteme bulaşabilir. Bu konuda bir resim üretmeye çalışacağım.
+    Zyklon HTTP Backdoor Malware, bir bilgisayarın arka kapısını açan, klavye kaydı, parola çalma, ek eklentiler indirme ve çalıştırma, DDoS saldırıları yapma, kendini güncelleme ve kaldırma gibi özelliklere sahip, kamuya açık bir zararlı yazılımdır. Bu zararlı yazılım, Microsoft Office'in bazı açıklarını kullanarak sisteme bulaşabilir.
     <br><br>
     Zyklon malware, a publicly available malware that can open a backdoor on a computer, perform keylogging, steal passwords, download and execute additional plugins, launch DDoS attacks, update and remove itself, and more. This malware can infect the system by exploiting some vulnerabilities in Microsoft Office.
 </p>
