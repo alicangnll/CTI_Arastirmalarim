@@ -12,6 +12,13 @@
 <li><a href="LummaStealer_C2_IoC/">LummaStealer</a></li>
 </ul>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Proje Hakkında
+<p>
+  Bu proje kapsamında siber istihbarat, RAT ve benzeri amaçlarla kullanılan zararlı yazılımlar incelenip eğitim amacıyla paylaşılmaktadır. Siz de projeye katkıda bulunmak isterseniz "Pull Request" istekleriyle eklemeler yapabilirsiniz. Belirli standardın üzerinde olan her inceleme kabul edilecektir.
+</p>
+
 # Siber Tehdit İstihbaratı (CTI) Nedir?
 <p>
   Siber Tehdit İstihbaratı (Cyber Threat Intelligence), bilgisayar sistemleri, ağlar ve dijital cihazlar gibi dijital varlıkların güvenliği için tehditlerin tespit edilmesi, analiz edilmesi ve öngörülmesi amacıyla yapılan bir faaliyettir.
