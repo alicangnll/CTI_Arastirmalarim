@@ -16,8 +16,16 @@
 
 # Proje Hakkında
 <p>
-  Bu proje kapsamında siber istihbarat, RAT ve benzeri amaçlarla kullanılan zararlı yazılımlar incelenip eğitim amacıyla paylaşılmaktadır. Siz de projeye katkıda bulunmak isterseniz "Pull Request" istekleriyle eklemeler yapabilirsiniz. Belirli standardın üzerinde olan her inceleme kabul edilecektir.
+  Bu proje kapsamında siber istihbarat, RAT ve benzeri amaçlarla kullanılan zararlı yazılımlar incelenip eğitim amacıyla paylaşılmaktadır. Siz de projeye katkıda bulunmak isterseniz "Pull Request" istekleriyle eklemeler yapabilirsiniz. Belirli standardın üzerinde olan her inceleme kabul edilecektir.<br>
 </p>
+
+# Proje için İnceleme Kabul Standartları
+<ul>
+  <li>Proje içeriğinde kesinlikle grup / zararlı yazılım hakkında detaylı bilgi verilmelidir.</li>
+  <li>Telif haklarından dolayı kapak fotoğrafları DALL-E gibi AI yazılımları kullanılarak üretilmelidir.</li>
+  <li>İnceleme esnasında yaşanan her şey detaylıca resimlendirilerek <b>en basit ve sade şekilde</b> anlatılmalıdır</li>
+  <li>IP / URL adresi verilirken aralardaki noktalar [.] şeklinde yazılmalı ve çok detaylı bilgi (bulunduğu hostingin marka adı vb) verilmemelidir. Amacımızın olabildiğince yalın ve sade anlatım olduğu unutulmamalıdır</li>
+</ul>
 
 # Siber Tehdit İstihbaratı (CTI) Nedir?
 <p>
