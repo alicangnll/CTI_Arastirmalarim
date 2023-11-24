@@ -6,13 +6,17 @@
 <li><a href="Zyklon_IoC/">Zyklon C2 Malware</a></li>
 <li><a href="Medusa_IoC/">Medusa C2 Ransomware</a></li>
 <li><a href="QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
-<li><a href="APT29_IoC/">APT29 (CozyBear)</a></li>
 <li><a href="Rhysida_IoC/">Rhysida Ransomware (0.1)</a></li>
-<li><a href="APT34_IoC/">APT-34 (OilRig)</a></li>
 <li><a href="HelloKitty_IoC/">HelloKitty</a></li>
 <li><a href="AgentTesla_IoC/">AgentTesla</a></li>
 <li><a href="IRATA_IoC/">IRATA</a></li>
 <li><a href="LummaStealer_C2_IoC/">LummaStealer</a></li>
+</ul>
+
+# APT Grupları
+<ul>
+<li><a href="APT29_IoC/">APT29 (CozyBear)</a></li>
+<li><a href="APT34_IoC/">APT34 (OilRig)</a></li>
 </ul>
 
 # Proje Hakkında
