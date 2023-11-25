@@ -94,3 +94,9 @@ rule Mirai_Malware1 {
                 1 of ($pk*)
 }
 </pre>
+
+# Kaynaklar
+<ul>
+    <li>https://www.virustotal.com/gui/url/c63e1a9f849872a65dbc8a8b88833e1070c3b6819b4380055206def5c662a27d</li>
+    <li>https://bazaar.abuse.ch/sample/86a5ba2ab546e68ace5b67abbb9fb628b2c3864b739e7dd365bf38027f1ed9f6/</li>
+</ul>
