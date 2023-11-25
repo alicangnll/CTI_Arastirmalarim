@@ -80,7 +80,7 @@ syms.x86_64	faa2b28b60ca260b3ce1095e65f4c31e
 <p>
     Bir şehir efsanesini daha yıktığımıza göre Linux'ta korunma yöntemlerine değinelim. Linux'ta korunmak, Windows'ta korunmaktan daha kolaydır. Sisteminize ClamAV kurmanız, düzenli güncelleme yaptırarak düzenli tarama yaptırmanız çok çok yetecektir.
     <br><br>
-    YARA kuralını da ClamAV'a ekleyebilirsiniz.
+    YARA kuralı ise aşağıdaki gibidir
 </p>
 
 <pre>

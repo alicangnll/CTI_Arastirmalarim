@@ -1,0 +1,92 @@
+# Lambda Ransomware C2 Zararlı Yazılımı IoC Çalışması
+
+<br><br>
+<img src="title_pic.png">
+<br><br>
+<center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+
+# Giriş
+<p>
+    Daha yeni keşfettiğimiz bu ransomware (MD5: d6d92703ad1bd824cbc022a6402d7337), radarımıza hemen yakalanmış ve incelenmeye başlanmıştır.
+</p>
+
+
+# Disclaimer | Yasal Uyarı
+<p>
+  Bu blog yazısında sağlanan bilgiler yalnızca eğitim ve bilgilendirme amaçlıdır. <b>Bilgisayar korsanlığı, siber saldırılar veya bilgisayar sistemlerine, ağlara veya verilere herhangi bir şekilde yetkisiz erişim de dahil olmak üzere herhangi bir yasa dışı veya etik olmayan faaliyeti</b> teşvik etme veya reklam etme amacı taşımaz.
+<br><br>
+  Disclaimer: The information provided in this blog post is intended for educational and informational purposes only. It is not intended to encourage or promote any illegal or unethical activities, including hacking, cyberattacks, or any form of unauthorized access to computer systems, networks or data.
+</p>
+
+# Zararlı Yazılım Hakkında Bilgi
+<p>
+</p>
+
+# Bulaşma Yöntemi
+<p>
+    EXE dosyasının açılması suretiyle dosya / klasör şifreleme işlemi başlamaktadır.
+</p>
+
+# Çalışma Mantığı
+<p>
+    Öncelikle zararlı yazılım incelendiğinde ilk göze çarpan disk bilgilerini istemesidir.
+    <br><br>
+    <img src="disk_info.png">
+    <br><br>
+    Disk bilgilerinin yanında Windows sürümü, ürün adı, Makine GUID ve Microsoft'un "Cryptograph" kütüphanesini çağırdığını görmekteyiz
+    <br><br>
+    <img src="product_info.png">
+    <br><br>
+    Bu bilgileri "79[.]133[.]51[.]208" IP adresinin "25518" portunun "r1.php" dosyasına gönderdiği tespit edilmiştir.<br>
+    Aynı zamanda bu IP adresinin bir C2 server olduğu da anlaşılmıştır.
+    <br>
+    <a href="lambda.pcapng1">PCAP dosyasını indirmek için tıklayın</a>
+    <br><br>
+    <img src="post_req.png">
+    <br><br>
+    Ardından bir zamanlanmış işlem oluşturduğu görülmektedir
+    <br><br>
+    <img src="schtask_hello_kitty.png">
+    <br><br>
+    Klasik bir ransomware gibi ShadowCopy alanlarını silmeye çalıştığı görülmüştür
+    <br><br>
+    <img src="shadowcopy_delete.png">
+    <br><br>
+    Bu aşamadan sonra canlı bir ortamda çalıştırarak yaptıklarını gözlemlemeye başlıyoruz.<br> Canlı ortam testlerinde kriptolamada ".Lambda" uzantısı taşıdığını ve her klasör içerisine bir kripto notu bıraktığını görüyoruz.<br>
+    <pre>
+    [[=== Lambda Ransomware ===]]
+
+    [+] What's happened?
+    All your files are encrypted and stolen, but you need to follow our instructions. otherwise, you cant return your data (NEVER).
+
+    [+] What guarantees?
+    Its just a business. We absolutely do not care about you and your deals, except getting benefits. If we do not do our work and liabilities - nobody will not cooperate with us. Its not in our interests.
+    To check the ability of returning files, we decrypt one file for free. That is our guarantee.
+    If you will not cooperate with our service - for us, its does not matter. But you will lose your time and data, cause just we have the private key. time is much more valuable than money.
+
+    [+] Instructions:
+    a) Download and install Tor Browser from this site: https://www.torproject.org/
+    b) Open our website: http://krjv3wondkn*****************************qd.onion
+    c) Enter this UID in the input: ********
+
+    !!! DANGER !!!
+    DON'T try to change files by yourself, DON'T use any third party software for restoring your data or antivirus/edr solutions - its may entail damage of the private key and, as result, The Loss all data.
+    SPEAK for yourself. Since no one else has the private key, any interfere of third party companies/individuals is tantamount to scamming you.
+    ONE MORE TIME: Its in your interests to get your files back. From our side, we (the best specialists) make everything for restoring, but please should not interfere.
+    !!! !!! !!!
+    </pre>
+    İletişime girdiğimiz IP adresi üzerinde araştırma yaptığımda ise bir Live Chat paneli karşıma çıkıyor (o kadar amatörler ki yazdıkları PHP scriptinde bile zafiyet var :D )
+    <br><br>
+    <img src="operator.png">
+    <br><br>
+    Daha sonrasında Onionlu siteye de baktığımızda aynı IP adresi üzerinden host edildiğini görüyoruz (script aynı olduğundan böyle bir mantık yürüttüm)
+    <br><br>
+    <img src="onion.png">
+    <br><br>
+</p>
+
+# Sonuç
+<p>
+    Sonuç olarak, tekrar hatırlatmalıyım ki bu tip zararlı yazılımlar çok tehlikelidir. Bu ransomware türlerine karşı tüm bilişim yetkilileri ve bilişim dışı çalışanlar bilgili olmalıdır.<br>
+    <b>YARA kuralı daha sonra eklenecektir</b>
+</p>
