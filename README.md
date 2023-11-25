@@ -7,6 +7,7 @@
 
 # İncelemelerim
 <ul>
+<li><a href="Mirai_IoC/">Mirai C2 Malware</a></li>
 <li><a href="Zyklon_IoC/">Zyklon C2 Malware</a></li>
 <li><a href="Medusa_IoC/">Medusa C2 Ransomware</a></li>
 <li><a href="QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
