@@ -8,7 +8,6 @@
 # Giriş
 <p>
     Daha yeni keşfettiğimiz bu ransomware (MD5: d6d92703ad1bd824cbc022a6402d7337), radarımıza hemen yakalanmış ve incelenmeye başlanmıştır.<br>
-    Araştırmalarımız devam ederken söz konusu zararlı yazılımın <b>Cyclance Ransomware ile aynı aileden olduğunu gördük.</b>
 </p>
 
 
@@ -21,6 +20,14 @@
 
 # Zararlı Yazılım Hakkında Bilgi
 <p>
+  Lambda Ransomware, VoidCrypt adlı ransomware grubunun ürettiği bir zararlı yazılımdır.
+  Lambda ransomware, verilerinize erişimi kısıtlayan bir dosya kilitleme virüsüdür. Dosyalarınızı "[dosya_adi] [ID].lambda" uzantısıyla şifreleyerek, verilere erişim karşılığında kurbanlardan bitcoin ile fidye ödemelerini ister. 
+  <br><br>
+  Lambda ransomware, ilk olarak Ekim 2023'te kurumsal bulut ortamlarında keşfedilmiştir. Lambda ransomware, çoğunlukla Çinli kullanıcıları hedef almıştır. Lambda ransomware, dosyalarınızı şifreledikten sonra, fidye ödemesi için talimatlar içeren bir fidye notu gösterir. <b>Lambda ransomware tarafından şifrelenen dosyaları şu anda çözmenin bir yolu yoktur.</b>
+  <br><br>
+  Lambda ransomware'den korunmak ve kurtulmak için, güvenilir bir antivirüs programı kullanmanızı ve yedekleme yapmanızı öneririm.
+  <br>
+  Araştırmalarımız devam ederken söz konusu zararlı yazılımın <b>Cyclance Ransomware ile aynı aileden olduğunu gördük.</b>
 </p>
 
 # Bulaşma Yöntemi
