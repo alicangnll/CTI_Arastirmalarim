@@ -7,7 +7,8 @@
 
 # Giriş
 <p>
-    Daha yeni keşfettiğimiz bu ransomware (MD5: d6d92703ad1bd824cbc022a6402d7337), radarımıza hemen yakalanmış ve incelenmeye başlanmıştır.
+    Daha yeni keşfettiğimiz bu ransomware (MD5: d6d92703ad1bd824cbc022a6402d7337), radarımıza hemen yakalanmış ve incelenmeye başlanmıştır.<br>
+    Araştırmalarımız devam ederken söz konusu zararlı yazılımın <b>Cyclance Ransomware ile aynı aileden olduğunu gördük.</b>
 </p>
 
 
@@ -83,6 +84,7 @@
     <br><br>
     <img src="onion.png">
     <br><br>
+    <b>Sisteme girdiği komutlar daha sonra eklenecektir</b>
 </p>
 
 # Sonuç
