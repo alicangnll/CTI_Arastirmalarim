@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./CTI_Arastirmalarim/CSS/style.css" type="text/css">
+<link rel="stylesheet" href="CSS/style.css" type="text/css">
 <br><br>
 <img src="title_logo.png">
 <br><br>
