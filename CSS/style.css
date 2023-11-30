@@ -1,0 +1,151 @@
+@import url("//fonts.googleapis.com/css?family=Inconsolata:400,700");
+
+* {
+    padding-bottom: 3px;
+	margin: 0;
+}
+
+body {
+	font-family: "Inconsolata", sans-serif;
+	margin: 0 auto;
+	padding: 20px;
+	max-width: 800px;
+	background-color: black;
+	color: white;
+}
+.hacker {
+    background-color: black;
+	color: green;
+}
+.hackera {
+    color: green;
+}
+h2 {
+	font-weight: 800;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+hr {
+	border: 2px dashed #eeeeee;
+}
+
+code {
+	font-size: 15px;
+	background: #eeeeee;
+}
+
+pre {
+	overflow: auto;
+	background: #eeeeee;
+	padding: 15px;
+}
+
+.notice {
+	padding: 15px 15px 0 15px;
+	overflow: auto;
+}
+
+.notice-info {
+	background-color: #d1ecf1;
+	color: black;
+}
+
+.notice-danger {
+	background-color: #f8d7da;
+	color: black;
+}
+
+h2, h3, p, body > ul, body > ol, pre, video, table, hr, .notice, .gallery img {
+    padding-right: 15px;
+	margin-bottom: 15px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	text-align: left;
+}
+
+th, td {
+	padding: 0 10px;
+	border: 1px solid black;
+}
+
+img {
+	max-width: 100%;
+}
+
+blockquote {
+	margin: 0 40px;
+	color: #fff;
+	font-style: italic;
+}
+footer {
+    text-align: center;
+}
+@media only screen and (max-width: 800px) {
+    .tux {
+        width: 150px;
+        height: 180px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        float:left;
+        filter: drop-shadow(0 0 10px yellow);
+    }
+}
+@media only screen and (min-width: 800px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding-right: 5px;
+    }
+    .tux {
+        width: 200px;
+        height: 230px;
+        float:left;
+        padding:0 10px 10px 0;
+        filter: drop-shadow(0 0 15px yellow);
+    }
+    .metin {
+        width: 900px;
+        margin:auto;
+        padding-bottom: 5%;
+        
+    }
+}
+.grid-item {
+    padding-bottom: 10px;
+}
+a {
+    text-decoration: none;
+    padding-bottom: 8px;
+    color: green;
+}
+.language-markup {
+    background-color: black;
+    color: green;
+}
+code {
+    background-color: black;
+    color: green;
+}
+pre {
+    background-color: black;
+    color: green;
+}
+img {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+iframe {
+    border:0;
+}
+.twitter-tweet {
+    color: white;
+}
