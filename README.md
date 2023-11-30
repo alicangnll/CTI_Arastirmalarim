@@ -7,23 +7,23 @@
 
 # İncelemelerim
 <ul>
-<li><a href="Lambda_IoC/">Lambda C2 Malware</a></li>
-<li><a href="Mirai_IoC/">Mirai C2 Malware</a></li>
-<li><a href="Zyklon_IoC/">Zyklon C2 Malware</a></li>
-<li><a href="Medusa_IoC/">Medusa C2 Ransomware</a></li>
-<li><a href="QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
-<li><a href="Rhysida_IoC/">Rhysida Ransomware (0.1)</a></li>
-<li><a href="HelloKitty_IoC/">HelloKitty</a></li>
-<li><a href="AgentTesla_IoC/">AgentTesla</a></li>
-<li><a href="IRATA_IoC/">IRATA</a></li>
-<li><a href="LummaStealer_C2_IoC/">LummaStealer</a></li>
+<li><a href="IoC/Lambda_IoC/">Lambda C2 Malware</a></li>
+<li><a href="IoC/Mirai_IoC/">Mirai C2 Malware</a></li>
+<li><a href="IoC/Zyklon_IoC/">Zyklon C2 Malware</a></li>
+<li><a href="IoC/Medusa_IoC/">Medusa C2 Ransomware</a></li>
+<li><a href="IoC/QRLog_IoC/">QRLog (Fake QR Reader) C2</a></li>
+<li><a href="IoC/Rhysida_IoC/">Rhysida Ransomware (0.1)</a></li>
+<li><a href="IoC/HelloKitty_IoC/">HelloKitty</a></li>
+<li><a href="IoC/AgentTesla_IoC/">AgentTesla</a></li>
+<li><a href="IoC/IRATA_IoC/">IRATA</a></li>
+<li><a href="IoC/LummaStealer_C2_IoC/">LummaStealer</a></li>
 </ul>
 
 # APT Grupları
 <ul>
-<li><a href="APT37_IoC/">APT37 (North Korea)</a></li>
-<li><a href="APT29_IoC/">APT29 (CozyBear)</a></li>
-<li><a href="APT34_IoC/">APT34 (OilRig)</a></li>
+<li><a href="IoC/APT37_IoC/">APT37 (North Korea)</a></li>
+<li><a href="IoC/APT29_IoC/">APT29 (CozyBear)</a></li>
+<li><a href="IoC/APT34_IoC/">APT34 (OilRig)</a></li>
 </ul>
 
 # Proje Hakkında
