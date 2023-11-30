@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# İncelemelerim
+# CTI İncelemelerim
 <ul>
 <li><a href="IoC/Lambda_IoC/">Lambda C2 Malware</a></li>
 <li><a href="IoC/Mirai_IoC/">Mirai C2 Malware</a></li>
