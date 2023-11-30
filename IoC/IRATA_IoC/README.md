@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../CSS/style.css" type="text/css">
+
 # Iran Kaynaklı Yeni Ransomware: IRATA IoC Çalışması
 <p>
     <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../CSS/style.css" type="text/css">
+
 # QRLog (Fake QR Reader) C2 Zararlı Yazılımı IoC Çalışması
 
 <br><br>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../CSS/style.css" type="text/css">
+
 # Zyklon C2 Zararlı Yazılımı IoC Çalışması
 
 <br><br>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../../CSS/style.css" type="text/css">
+
 # Mirai Linux Zararlı Yazılımı IoC Çalışması
 
 <br><br>
