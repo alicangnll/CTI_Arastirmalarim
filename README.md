@@ -31,7 +31,7 @@
 
 # Anlatımlar
 <ul>
-<li><a href="Info101/Phising.md">Sosyal Mühendislik 101 - Phising Saldırıları</a></li>
+<li><a href="Info101/Phising/">Sosyal Mühendislik 101 - Phising Saldırıları</a></li>
 </ul>
 
 # Proje Hakkında

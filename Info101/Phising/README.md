@@ -2,7 +2,7 @@
 
 # Sosyal Mühendislik 101 - Phising Saldırıları
 <br><br>
-<img src="Pics/phising_title.png">
+<img src="phising_title.png">
 <br><br>
 <p>
     <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
