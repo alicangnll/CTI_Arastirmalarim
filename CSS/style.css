@@ -149,3 +149,7 @@ iframe {
 .twitter-tweet {
     color: white;
 }
+br {
+    background-color: black;
+    color: black;
+}
