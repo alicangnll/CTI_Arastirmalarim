@@ -29,6 +29,11 @@
 <li><a href="IoC/APT34_IoC/">APT34 (OilRig)</a></li>
 </ul>
 
+# Anlatımlar
+<ul>
+<li><a href="Info101/Phising.md">Sosyal Mühendislik 101 - Phising Saldırıları</a></li>
+</ul>
+
 # Proje Hakkında
 <p>
   Bu proje kapsamında siber istihbarat, RAT ve benzeri amaçlarla kullanılan zararlı yazılımlar incelenip eğitim amacıyla paylaşılmaktadır. Siz de projeye katkıda bulunmak isterseniz "Pull Request" istekleriyle eklemeler yapabilirsiniz. Belirli standardın üzerinde olan her inceleme kabul edilecektir.<br>
