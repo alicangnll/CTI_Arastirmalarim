@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../CSS/style.css" type="text/css">
+<link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
 # Sosyal Mühendislik 101 - Phising Saldırıları
 <br><br>
