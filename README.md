@@ -10,7 +10,7 @@
 
 # CTI İncelemelerim
 <ul>
-<li>Lambda C2 Malware <a href="IoC/Lambda_IoC/">TR</a> | <a href="IoC/Lambda_IoC/README_en.md">EN</a></li>
+<li>Lambda C2 Malware <a href="IoC/Lambda_IoC/">TR</a> | <a href="https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/IoC/Lambda_IoC/README_en.md">EN</a></li>
 <li><a href="IoC/Mirai_IoC/">Mirai C2 Malware</a></li>
 <li><a href="IoC/Zyklon_IoC/">Zyklon C2 Malware</a></li>
 <li><a href="IoC/Medusa_IoC/">Medusa C2 Ransomware</a></li>
