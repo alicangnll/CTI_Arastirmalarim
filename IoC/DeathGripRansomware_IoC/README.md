@@ -74,7 +74,9 @@
     </ul>
 </p>
 
+
 # Kaynaklar
 <ul>
     <li>https://bazaar.abuse.ch/sample/e082c6d30278139fdab5a7ddddecbcbafad12ab4dff1d5a960d9704fe635c007/</li>
+    <li>https://app.any.run/tasks/ab34827e-2978-45c4-ae31-f38ab15d78e9</li>
 </ul>
