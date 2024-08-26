@@ -47,9 +47,10 @@
     <img src="soviet_connection.png">
     <br><br>
     Zararlı yazılım güvenli bir ortamda çalıştırıldığında ise bir ransomware notu ile çeşitli adresler gelmektedir.
-    <pre>
+    <code>
         ~~~ LockBit 3.0 the world's fastest ransomware since 2019~~~....>>>> Your data are stolen and encrypted.....The data will be published on TOR website if you do not pay the ransom ....DeathGrip Ransomware Attack | t[.]me/DeathGripRansomware....This computer is attacked by russian ransomware community of professional black hat hackers. ..Your every single documents / details is now under observation of those hackers...If you want to get it back then you have to  pay 1000$ for it.....This Attack Is Done By Team RansomVerse  You Can Find Us On Telegram.. @DeathGripRansomware Contact The Owner For The Decrypter Of This Ransomware....#DeathGripMalware......>>>> What guarantees that we will not deceive you? .....We are not a politically motivated group and we do not need anything other than your money. ..    ...If you pay, we will provide you the programs for decryption and we will delete your data. ...Life is too short to be sad. Be not sad, money, it is only paper...    ...If we Links for Tor Browser: http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd[.]onion
-    </pre>
+    </code>
+    <br><br>
     Telegram adresine bakıldığında iki adet üyesi olduğu görülmektedir. 
     <br><br>
     <img src="tg.png">
