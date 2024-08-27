@@ -1,11 +1,10 @@
 <!-- Style code -->
 <link rel="stylesheet" href="CSS/style.css" type="text/css">
-
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <br><br>
 <img src="title_logo.png">
 <br><br>
 
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <br><div id="google_translate_element"></div><br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
