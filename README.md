@@ -5,6 +5,9 @@
 <img src="title_logo.png">
 <br><br>
 
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<br><div id="google_translate_element"></div><br>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -100,4 +103,3 @@
 <li>https://urlhaus.abuse.ch/browse/ (URLHaus)</li>
 <li>https://www.infinitumit.com.tr/siber-istihbarat-nedir/ (CTI Nedir?)</li>
 </ul>
-
