@@ -1,11 +1,9 @@
 <!-- Style code -->
 <link rel="stylesheet" href="CSS/style.css" type="text/css">
-<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <br><br>
 <img src="title_logo.png">
 <br><br>
-
-<br><div id="google_translate_element"></div><br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
