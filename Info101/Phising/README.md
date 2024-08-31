@@ -45,6 +45,7 @@
     <li>OSINT Yardımıyla Oltalama</li>
     <li>HUMINT Yardımıyla Oltalama</li>
     <li>SIGINT Yardımıyla Oltalama</li>
+    <li>IMGINT Yardımıyla Oltalama</li>
   </ul>
   olarak sayabiliriz. Şimdi bu çeşitleri örnekler üzerinden açıklamaya çalışalım.
 </p>
@@ -85,13 +86,48 @@
 
 # SIGINT Yardımıyla Oltalama
 <p>
-  SIGINT, belki de en tehlikeli phising yöntemidir. İngilizce "sinyal istihbaratının" kısaltılmış adıdır. Bu yöntemde sinyaller kullanılarak bilgilerin toplanması amaçlanmaktadır. Bir örnekle açıklayalım,
+  SIGINT, belki de en tehlikeli phising / istihbarat yöntemidir. İngilizce "sinyal istihbaratının" kısaltılmış adıdır. Bu yöntemde sinyaller kullanılarak bilgilerin toplanması amaçlanmaktadır. Bir örnekle açıklayalım,
   <br><br>
   Bir X ülkesi hayal edelim. Bu ülkede bir ildeki bir mekanda çok detaylı ve gizli bir proje hakkında konuşuluyor olsun. Bu proje ile büyük bir silah yapılacak olsun ve bu sebeple tüm işlemler büyük bir titizlikle işleniyor ve tüm güvenlik önlemleri alınıyor olsun.
   <br><br>
   Y ülkesi ise bu proje hakkında bilgi edinmek istiyor olsun. Y ülkesinin istihbarat görevlileri sinyaller yardımıyla o odada konuşulan her kelimeyi duyabilmektedir ve bu proje hakkında bilgi edinen kişiler projeye karşı önlem almışlardır. Evet, ses dalgaları da bir dalga olarak kabul edilmekte ve SIGINT içerisinde kabul edilmektedir.
   <br><br>
-  Bu da mı ütopik geliyor? Ütopik gelmeye devam edebilir... Fakat ütopik değil.
+  Bu da mı ütopik geliyor? Ütopik gelmeye devam edebilir... Fakat ütopik değil. Örneğin Hard disk sesinden içerisindeki verileri ele geçirme çalışması yürüten <a href="https://www.computerworld.com/article/1672737/sounds-from-your-hard-disk-drive-can-be-used-to-steal-a-pcs-data.html">İsrail Ben-Gurion Üniversitesi makalesini inceleyebilirsiniz</a>
+</p>
+
+# IMGINT Yardımıyla Oltalama
+<p>
+  IMGINT, yer yer kişilerin hayatlarıyla sonuçlanabilen çok ciddi bir phising yöntemi olarak kabul edilebilmektedir. Çünkü bu istihbarat tekniği (diğerleri gibi) askeri ortamlarda çok kullanılmaktadır.
+  <br><br>
+  Örneğin, bir binanın fotoğrafını çeken X adlı kişi düşünelim. Bu kişi fotoğrafı sosyal medyaya yüklerse eğer karşı güce fotoğraf üzerinden gerek EXIF gerek resim içerisindeki kara yapısından (dağ, vadi, akarsu şekilleri vb) fotoğrafın tam konumunu bulabilmektedir. Keza, bir silahın fotoğrafını çeken bir kişi de karşı güce kullanılan ekipmanlar hakkında ciddi istihbarat verileri sağlamaktadır.
+  <br><br>
+  Eğer buna bir örnek isterseniz, 4chan adlı internet sitesinin kullanıcılarının 9 sene önce Suriye'de faaliyet gösteren "Jaysh al-Izza" adlı terör örgütünün bir video kaydından nasıl konumunu bulduğunu ve Rus askeri birliklerine o konumu nasıl bombalattıklarını inceleyelim.
+  <br><br>
+  Bu günden 9 yıl önce, 4chan adlı forum sitesine Suriye'de eğitim yapan bir grup askeri kıyafetli örgüt fotoğrafları gönderildi.
+  <br><br>
+  <img src="imgint1.png" />
+  <br><br>
+  Ardından 4chan kullanıcıları bu durumu araştırmaya başladı ve videodaki bir kareden bulundukları alanı keşfetti.
+  <br><br>
+  <img src="imgint2.png" />
+  <br><br>
+  <img src="imgint3.png" />
+  <br><br>
+  <img src="imgint4.png" />
+  <br><br>
+  <img src="imgint5.png" />
+  <br><br>
+  Tüm bu istihbarat verilerinin ardından bir 4chan kullanıcısı Rus Hava Kuvvetlerinde üst kademede bulunan bir kişiyle görüştü ve gerekli bilgileri bu kişiye teslim etti. Ardından...
+  <br><br>
+  <img src="imgint6.png" />
+  <br><br>
+  Rus ordusunda yer alan kişi ilgili kişilere iletmiş olacak ki birkaç gün sonrasında alanın bombalama haberleri ve videosu yayınlandı.
+  <br><br>
+  <img src="imgint7.png" />
+  <br><br>
+  <iframe width="1255" height="706" src="https://www.youtube.com/embed/gwOWcFcGYiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <br><br>
+  Görüldüğü üzere bu tip istihbarat bilgileri herkesi ve hatta askeri birlikleri dahi ele verebilmektedir.
 </p>
 
 # Korunma Yöntemleri
@@ -106,4 +142,5 @@
   <li>https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/127310/yokAcikBilim_10293666.pdf?sequence=-1&isAllowed=y</li>
   <li>Aldatma Sanatı - Kevin Mitnick</li>
   <li>https://www.nydailynews.com/2015/01/20/chinese-hackers-stole-f-35-fighter-jet-blueprints-in-pentagon-hack-edward-snowden-documents-claim/</li>
+  <li>https://dumayu.com/4chan-calls-airstrike-syria/</li>
 </ul>
