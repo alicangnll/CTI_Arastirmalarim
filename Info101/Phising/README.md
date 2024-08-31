@@ -125,7 +125,7 @@
   <br><br>
   <img src="imgint7.png" />
   <br><br>
-  <iframe width="1255" height="706" src="https://www.youtube.com/embed/gwOWcFcGYiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="500" height="706" src="https://www.youtube.com/embed/gwOWcFcGYiU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <br><br>
   Görüldüğü üzere bu tip istihbarat bilgileri herkesi ve hatta askeri birlikleri dahi ele verebilmektedir.
 </p>
