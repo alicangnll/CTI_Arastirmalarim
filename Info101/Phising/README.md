@@ -145,4 +145,5 @@
   <li>Aldatma Sanatı - Kevin Mitnick</li>
   <li>https://www.nydailynews.com/2015/01/20/chinese-hackers-stole-f-35-fighter-jet-blueprints-in-pentagon-hack-edward-snowden-documents-claim/</li>
   <li>https://dumayu.com/4chan-calls-airstrike-syria/</li>
+  <li>https://imgur.com/evpTXp9</li>
 </ul>
