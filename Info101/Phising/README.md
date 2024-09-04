@@ -82,6 +82,8 @@
   X kişisiyle işi biraz daha pişirdikten sonra Y kişisi hangi projelerle ilgilendiğini sorarak projenin aşaması hakkında bilgileri alıp firmasına iletmektedir. Gelgelelim en son kertede X kişisini iyice kendisine bağlayan Y kişisi proje hakkındaki tüm bilgileri direkt X kişisinden alarak projeyi klonlayacak kadar detaylı bilgiye erişmiştir ve projeyi klonlayarak rakiplerinden önce piyasaya sunmuştur.
   <br><br>
   Peki bu senaryo uydurma mı ? Elbette hayır. Aynı vaka F-35 adlı jetlerin yapım süreci esnasında yaşanmış ve F-35 projesi aynı yöntemle çalınıp Çinliler tarafından koypası üretilmiştir.
+  <br><br>
+  <a href="https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/">Kaynak</a>
 </p>
 
 # SIGINT Yardımıyla Oltalama
@@ -146,4 +148,5 @@
   <li>https://www.nydailynews.com/2015/01/20/chinese-hackers-stole-f-35-fighter-jet-blueprints-in-pentagon-hack-edward-snowden-documents-claim/</li>
   <li>https://dumayu.com/4chan-calls-airstrike-syria/</li>
   <li>https://imgur.com/evpTXp9</li>
+  <li>https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/</li>
 </ul>
