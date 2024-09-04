@@ -99,7 +99,7 @@
 
 # IMGINT Yardımıyla Oltalama
 <p>
-  IMGINT, yer yer kişilerin hayatlarıyla sonuçlanabilen çok ciddi bir phising yöntemi olarak kabul edilebilmektedir. Çünkü bu istihbarat tekniği (diğerleri gibi) askeri ortamlarda çok kullanılmaktadır.
+  IMGINT, yer yer kişilerin hayatlarıyla sonuçlanabilen çok ciddi bir phising / istihbarat yöntemi olarak kabul edilebilmektedir. Çünkü bu istihbarat tekniği (diğerleri gibi) askeri ortamlarda çok kullanılmaktadır.
   <br><br>
   Örneğin, bir binanın fotoğrafını çeken X adlı kişi düşünelim. Bu kişi fotoğrafı sosyal medyaya yüklerse eğer karşı güce fotoğraf üzerinden gerek EXIF gerek resim içerisindeki kara yapısından (dağ, vadi, akarsu şekilleri vb) fotoğrafın tam konumunu bulabilmektedir. Keza, bir silahın fotoğrafını çeken bir kişi de karşı güce kullanılan ekipmanlar hakkında ciddi istihbarat verileri sağlamaktadır.
   <br><br>
