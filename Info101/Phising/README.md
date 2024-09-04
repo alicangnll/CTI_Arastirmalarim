@@ -84,6 +84,8 @@
   Peki bu senaryo uydurma mı ? Elbette hayır. Aynı vaka F-35 adlı jetlerin yapım süreci esnasında yaşanmış ve F-35 projesi aynı yöntemle çalınıp Çinliler tarafından koypası üretilmiştir.
   <br><br>
   <a href="https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/">Kaynak</a>
+  <br><br>
+  <a href="https://www.sandboxx.us/news/the-man-who-stole-americas-stealth-fighters-for-china/">Kaynak 2</a>
 </p>
 
 # SIGINT Yardımıyla Oltalama
@@ -94,6 +96,8 @@
   <br><br>
   Y ülkesi ise bu proje hakkında bilgi edinmek istiyor olsun. Y ülkesinin istihbarat görevlileri sinyaller yardımıyla o odada konuşulan her kelimeyi duyabilmektedir ve bu proje hakkında bilgi edinen kişiler projeye karşı önlem almışlardır. Evet, ses dalgaları da bir dalga olarak kabul edilmekte ve SIGINT içerisinde kabul edilmektedir.
   <br><br>
+  Veya Y ülkesinin bir istihbarat ajanı X ülkesinde aynı odada olan bir kişiyi anlattığım istihbarat teknikleriyle angaje edip ilgili verileri X ülkesindeki angaje edilen kişinin sinyal sızıntısı vasıtasıyla elde edebilir.
+  <br><br>
   Bu da mı ütopik geliyor? Ütopik gelmeye devam edebilir... Fakat ütopik değil. Örneğin Hard disk sesinden içerisindeki verileri ele geçirme çalışması yürüten <a href="https://www.computerworld.com/article/1672737/sounds-from-your-hard-disk-drive-can-be-used-to-steal-a-pcs-data.html">İsrail Ben-Gurion Üniversitesi makalesini inceleyebilirsiniz</a>
 </p>
 
@@ -103,7 +107,9 @@
   <br><br>
   Örneğin, bir binanın fotoğrafını çeken X adlı kişi düşünelim. Bu kişi fotoğrafı sosyal medyaya yüklerse eğer karşı güce fotoğraf üzerinden gerek EXIF gerek resim içerisindeki kara yapısından (dağ, vadi, akarsu şekilleri vb) fotoğrafın tam konumunu bulabilmektedir. Keza, bir silahın fotoğrafını çeken bir kişi de karşı güce kullanılan ekipmanlar hakkında ciddi istihbarat verileri sağlamaktadır.
   <br><br>
-  Eğer buna bir örnek isterseniz, 4chan adlı internet sitesinin kullanıcılarının 9 sene önce Suriye'de faaliyet gösteren "Jaysh al-Izza" adlı terör örgütünün bir video kaydından nasıl konumunu bulduğunu ve Rus askeri birliklerine o konumu nasıl bombalattıklarını inceleyelim.
+  Keza aynı şekilde, X adlı savunma sanayisinde çalışan Y kişisini düşünelim. Bu kişiyle bağlantı kuran Z adlı istihbarat görevlisinin Y kişisinden projenin resimlerini istemesi projenin selameti açısından büyük bir tehdit ve ayrıca bir istihbarat sızıntısı anlamına gelmektedir.
+  <br><br>
+  Eğer bu olaya canlı bir örnek isterseniz, 4chan adlı internet sitesinin kullanıcılarının 9 sene önce Suriye'de faaliyet gösteren "Jaysh al-Izza" adlı terör örgütünün bir video kaydından nasıl konumunu bulduğunu ve Rus askeri birliklerine o konumu nasıl bombalattıklarını inceleyelim.
   <br><br>
   Bu günden 9 yıl önce, 4chan adlı forum sitesine Suriye'de eğitim yapan bir grup askeri kıyafetli örgüt fotoğrafları gönderildi.
   <br><br>
@@ -149,4 +155,5 @@
   <li>https://dumayu.com/4chan-calls-airstrike-syria/</li>
   <li>https://imgur.com/evpTXp9</li>
   <li>https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/</li>
+  <li>https://www.sandboxx.us/news/the-man-who-stole-americas-stealth-fighters-for-china/</li>
 </ul>
