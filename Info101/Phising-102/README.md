@@ -1,11 +1,28 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising
+# Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising | Siber Güvenlik Eğitimi
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Gaslighting ve Bal Tuzağı (Honeypot) teknikleri ile modern phishing saldırıları hakkında kapsamlı rehber. Siber güvenlik uzmanı Ali Can Gönüllü'den pratik korunma yöntemleri ve gerçek dünya örnekleri.">
+<meta name="keywords" content="gaslighting, honeypot, phishing, sosyal mühendislik, siber güvenlik, phishing korunma, gaslighting phishing, bal tuzağı, sosyal medya güvenliği, e-posta güvenliği">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising">
+<meta property="og:description" content="Modern phishing saldırılarının en tehlikeli formları olan gaslighting ve honeypot teknikleri hakkında detaylı analiz ve korunma yöntemleri.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising-102/">
+<meta property="og:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising-102/phising102_title.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising">
+<meta name="twitter:description" content="Gaslighting ve honeypot teknikleri ile modern phishing saldırıları hakkında kapsamlı rehber.">
+<meta name="twitter:image" content="phising102_title.jpg">
+
 <br><br>
-<img src="phising102_title.jpg">
+<img src="phising102_title.jpg" alt="Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising Başlık Görseli">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
 </p>
 
 # Disclaimer | Yasal Uyarı
@@ -16,17 +33,38 @@
 </p>
 
 # Giriş
+
 <p>
   İnternet ve genel anlamıyla siber dünyanın gelişmesiyle insanlık olarak büyük bir gelişim sağlamış ve bu gelişimle beraber hayatımıza pek çok yeni kavram girmiştir. Bu kavramlar genel olarak faydalı olarak görülmüş olsa da her fayda gibi hayatımıza yeni giren bu kavramlar da zamanla kendi antisini oluşturarak kötücül olarak kullanılmaya başlanmıştır.
   <br><br>
-  Phising yani oltalama kavramı da siber dünyada iletişim kavramının antisi olarak tanımlanabilir. Siber dünyada insanlar birbirleriyle iletişim kurarken kötü niyetli kişiler bu konuşmalarla insanları manipüle etmenin yolunu bularak "Phising" adlı kavramın ortaya çıkmasına ön ayak olmuştur.
+  <strong>Phishing</strong> yani oltalama kavramı da siber dünyada iletişim kavramının antisi olarak tanımlanabilir. Siber dünyada insanlar birbirleriyle iletişim kurarken kötü niyetli kişiler bu konuşmalarla insanları manipüle etmenin yolunu bularak "Phishing" adlı kavramın ortaya çıkmasına ön ayak olmuştur.
   <br><br>
-  Ancak günümüzde phishing saldırıları sadece basit kandırma teknikleriyle sınırlı kalmamış, psikolojik manipülasyonun en gelişmiş formlarını kullanarak kurbanların zihinsel savunma mekanizmalarını hedef almaya başlamıştır. <b>Gaslighting</b> ve <b>Bal Tuzağı (Honeypot)</b> teknikleri, bu gelişmiş manipülasyon yöntemlerinin en tehlikeli örnekleridir.
+  Ancak günümüzde phishing saldırıları sadece basit kandırma teknikleriyle sınırlı kalmamış, <strong>psikolojik manipülasyonun en gelişmiş formlarını</strong> kullanarak kurbanların zihinsel savunma mekanizmalarını hedef almaya başlamıştır. <strong>Gaslighting</strong> ve <strong>Bal Tuzağı (Honeypot)</strong> teknikleri, bu gelişmiş manipülasyon yöntemlerinin en tehlikeli örnekleridir.
   <br><br>
-  Gaslighting tekniği, kurbanın kendi gerçekliğini ve hafızasını sorgulamasına neden olarak, saldırganın istediği bilgileri kolayca elde etmesini sağlar. Bal Tuzağı ise insanların doğal merak, açgözlülük ve fırsatçılık duygularını kullanarak onları çekici "ödüller" ile tuzağa düşürür.
+  <strong>Gaslighting tekniği</strong>, kurbanın kendi gerçekliğini ve hafızasını sorgulamasına neden olarak, saldırganın istediği bilgileri kolayca elde etmesini sağlar. <strong>Bal Tuzağı</strong> ise insanların doğal merak, açgözlülük ve fırsatçılık duygularını kullanarak onları çekici "ödüller" ile tuzağa düşürür.
   <br><br>
   Bu yazımda sizlere bu gelişmiş phishing tekniklerinin nasıl çalıştığını, gerçek dünyadan örneklerle nasıl uygulandığını ve bu tehlikeli saldırılara karşı nasıl korunabileceğinizi detaylıca açıklamaya çalışacağım.
 </p>
+
+## 📋 İçindekiler
+- [Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising | Siber Güvenlik Eğitimi](#sosyal-mühendislik-102---gaslighting-ve-bal-tuzağı-ile-phising--siber-güvenlik-eğitimi)
+- [Disclaimer | Yasal Uyarı](#disclaimer--yasal-uyarı)
+- [Giriş](#giriş)
+  - [📋 İçindekiler](#-i̇çindekiler)
+- [Gaslighting ve Bal Tuzağı Saldırılarının Önemi](#gaslighting-ve-bal-tuzağı-saldırılarının-önemi)
+- [Gaslighting ve Bal Tuzağı Saldırılarının Çeşitleri](#gaslighting-ve-bal-tuzağı-saldırılarının-çeşitleri)
+- [E-posta ile Gaslighting Saldırıları](#e-posta-ile-gaslighting-saldırıları)
+- [Sosyal Medya ile Honeypot Saldırıları](#sosyal-medya-ile-honeypot-saldırıları)
+- [Telefon ile Hibrit Saldırılar](#telefon-ile-hibrit-saldırılar)
+- [Mesajlaşma Uygulamaları ile Manipülasyon](#mesajlaşma-uygulamaları-ile-manipülasyon)
+- [Korunma Yöntemleri](#korunma-yöntemleri)
+- [Kaynaklar](#kaynaklar)
+  - [📚 Akademik ve Resmi Kaynaklar](#-akademik-ve-resmi-kaynaklar)
+  - [📖 Kitaplar](#-kitaplar)
+  - [🔗 İlgili Bağlantılar](#-i̇lgili-bağlantılar)
+  - [📞 İletişim ve Sosyal Medya](#-i̇letişim-ve-sosyal-medya)
+  - [🏷️ Etiketler ve Hashtag'ler](#️-etiketler-ve-hashtagler)
+  - [⚠️ Yasal Uyarı](#️-yasal-uyarı)
 
 # Gaslighting ve Bal Tuzağı Saldırılarının Önemi
 
@@ -145,7 +183,43 @@
 </p>
 
 # Kaynaklar
-<ul>
-  <li>https://www.telsy.com/wp-content/uploads/2021/10/social-engineering-telsy-2.jpg</li>
-  <li>https://www.cyberdefensemagazine.com/whats-the-role-of-gaslighting-in-the-cyber-security-context-of-social-engineering/</li>
-</ul>
+
+## 📚 Akademik ve Resmi Kaynaklar
+- [Açık Kaynak İstihbarat ve Sosyal Mühendislik](https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/127310/yokAcikBilim_10293666.pdf?sequence=-1&isAllowed=y) - YÖK Açık Bilim
+- [Gaslighting in Cyber Security Context](https://www.cyberdefensemagazine.com/whats-the-role-of-gaslighting-in-the-cyber-security-context-of-social-engineering/) - Cyber Defense Magazine
+- [Social Engineering Attacks](https://www.cisa.gov/news-events/news/understanding-social-engineering-attacks) - CISA (Cybersecurity and Infrastructure Security Agency)
+- [Internet Fraud Prevention](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/internet-fraud) - FBI
+
+## 📖 Kitaplar
+- **Aldatma Sanatı** - Kevin Mitnick
+- **The Art of Deception** - Kevin Mitnick & William L. Simon
+
+## 🔗 İlgili Bağlantılar
+- [Sosyal Mühendislik Görsel Rehberi](https://www.telsy.com/wp-content/uploads/2021/10/social-engineering-telsy-2.jpg) - Telsy
+- [Gaslighting Psychology](https://www.psychologytoday.com/us/basics/gaslighting) - Psychology Today
+- [Identity Theft Prevention](https://www.ftc.gov/news-events/topics/identity-theft) - Federal Trade Commission
+
+---
+
+## 📞 İletişim ve Sosyal Medya
+
+**Ali Can Gönüllü** | Siber Güvenlik Uzmanı
+- 📧 **E-posta**: [alicangonullu@yahoo.com](mailto:alicangonullu@yahoo.com)
+- 💼 **LinkedIn**: [linkedin.com/in/alicangonullu](https://linkedin.com/in/alicangonullu)
+- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangonullu)
+
+---
+
+## 🏷️ Etiketler ve Hashtag'ler
+
+`#Gaslighting` `#Honeypot` `#Phishing` `#SosyalMühendislik` `#SiberGüvenlik` `#CyberSecurity` `#PhishingKorunma` `#BalTuzağı` `#SosyalMedyaGüvenliği` `#EPostaGüvenliği` `#SiberGüvenlikEğitimi` `#CTI` `#ThreatIntelligence` `#SocialEngineering` `#CybersecurityAwareness`
+
+---
+
+## ⚠️ Yasal Uyarı
+
+Bu içerik yalnızca eğitim ve bilgilendirme amaçlıdır. Siber güvenlik farkındalığını artırmak için hazırlanmıştır. Herhangi bir yasa dışı faaliyeti teşvik etmez.
+
+---
+
+*Son güncelleme: 2024 | Tüm hakları saklıdır.*

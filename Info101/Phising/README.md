@@ -1,11 +1,28 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# Sosyal Mühendislik 101 - Phising Saldırıları
+# Sosyal Mühendislik 101 - Phishing Saldırıları | Siber Güvenlik Temelleri
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Phishing saldırıları hakkında kapsamlı rehber. OSINT, HUMINT, SIGINT ve IMGINT teknikleri ile sosyal mühendislik saldırıları, korunma yöntemleri ve gerçek dünya örnekleri.">
+<meta name="keywords" content="phishing, sosyal mühendislik, siber güvenlik, OSINT, HUMINT, SIGINT, IMGINT, phishing korunma, sosyal medya güvenliği, e-posta güvenliği, siber güvenlik eğitimi">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Sosyal Mühendislik 101 - Phishing Saldırıları">
+<meta property="og:description" content="Phishing saldırıları ve sosyal mühendislik teknikleri hakkında detaylı analiz, korunma yöntemleri ve gerçek dünya örnekleri.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising/">
+<meta property="og:image" content="phising_title.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sosyal Mühendislik 101 - Phishing Saldırıları">
+<meta name="twitter:description" content="Phishing saldırıları ve sosyal mühendislik teknikleri hakkında kapsamlı rehber.">
+<meta name="twitter:image" content="phising_title.png">
+
 <br><br>
-<img src="phising_title.png">
+<img src="phising_title.png" alt="Sosyal Mühendislik 101 - Phishing Saldırıları Başlık Görseli">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
 </p>
 
 # Disclaimer | Yasal Uyarı
@@ -16,13 +33,35 @@
 </p>
 
 # Giriş
+
 <p>
   İnternet ve genel anlamıyla siber dünyanın gelişmesiyle insanlık olarak büyük bir gelişim sağlamış ve bu gelişimle beraber hayatımıza pek çok yeni kavram girmiştir. Bu kavramlar genel olarak faydalı olarak görülmüş olsa da her fayda gibi hayatımıza yeni giren bu kavramlar da zamanla kendi antisini oluşturarak kötücül olarak kullanılmaya başlanmıştır.
   <br><br>
-  Phising yani oltalama kavramı da siber dünyada iletişim kavramının antisi olarak tanımlanabilir. Siber dünyada insanlar birbirleriyle iletişim kurarken kötü niyetli kişiler bu konuşmalarla insanları manipüle etmenin yolunu bularak "Phising" adlı kavramın ortaya çıkmasına ön ayak olmuştur.
+  <strong>Phishing</strong> yani oltalama kavramı da siber dünyada iletişim kavramının antisi olarak tanımlanabilir. Siber dünyada insanlar birbirleriyle iletişim kurarken kötü niyetli kişiler bu konuşmalarla insanları manipüle etmenin yolunu bularak "Phishing" adlı kavramın ortaya çıkmasına ön ayak olmuştur.
   <br><br>
-  Bu yazımda sizlere phising kavramının tarihçesini, ne olduğunu ve nasıl korunabileceğinizi detaylıca açıklamaya çalışacağım.
+  Bu yazımda sizlere phishing kavramının tarihçesini, ne olduğunu ve nasıl korunabileceğinizi detaylıca açıklamaya çalışacağım.
 </p>
+
+## 📋 İçindekiler
+- [Sosyal Mühendislik 101 - Phishing Saldırıları | Siber Güvenlik Temelleri](#sosyal-mühendislik-101---phishing-saldırıları--siber-güvenlik-temelleri)
+- [Disclaimer | Yasal Uyarı](#disclaimer--yasal-uyarı)
+- [Giriş](#giriş)
+  - [📋 İçindekiler](#-i̇çindekiler)
+- [Oltalama Saldırıları Tarihçesi](#oltalama-saldırıları-tarihçesi)
+- [Oltalama Saldırılarının Önemi](#oltalama-saldırılarının-önemi)
+- [Oltalama Saldırılarının Çeşitleri](#oltalama-saldırılarının-çeşitleri)
+- [OSINT Yardımıyla Oltalama](#osint-yardımıyla-oltalama)
+- [HUMINT Yardımıyla Oltalama](#humint-yardımıyla-oltalama)
+- [SIGINT Yardımıyla Oltalama](#sigint-yardımıyla-oltalama)
+- [IMGINT Yardımıyla Oltalama](#imgint-yardımıyla-oltalama)
+- [Korunma Yöntemleri](#korunma-yöntemleri)
+- [Kaynaklar](#kaynaklar)
+  - [📚 Akademik ve Resmi Kaynaklar](#-akademik-ve-resmi-kaynaklar)
+  - [📖 Kitaplar](#-kitaplar)
+  - [🔗 İlgili Bağlantılar](#-i̇lgili-bağlantılar)
+  - [📞 İletişim ve Sosyal Medya](#-i̇letişim-ve-sosyal-medya)
+  - [🏷️ Etiketler ve Hashtag'ler](#️-etiketler-ve-hashtagler)
+  - [⚠️ Yasal Uyarı](#️-yasal-uyarı)
 
 # Oltalama Saldırıları Tarihçesi
 <p>
@@ -148,12 +187,43 @@
 </p>
 
 # Kaynaklar
-<ul>
-  <li>https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/127310/yokAcikBilim_10293666.pdf?sequence=-1&isAllowed=y</li>
-  <li>Aldatma Sanatı - Kevin Mitnick</li>
-  <li>https://www.nydailynews.com/2015/01/20/chinese-hackers-stole-f-35-fighter-jet-blueprints-in-pentagon-hack-edward-snowden-documents-claim/</li>
-  <li>https://dumayu.com/4chan-calls-airstrike-syria/</li>
-  <li>https://imgur.com/evpTXp9</li>
-  <li>https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/</li>
-  <li>https://www.sandboxx.us/news/the-man-who-stole-americas-stealth-fighters-for-china/</li>
-</ul>
+
+## 📚 Akademik ve Resmi Kaynaklar
+- [Açık Kaynak İstihbarat ve Sosyal Mühendislik](https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/127310/yokAcikBilim_10293666.pdf?sequence=-1&isAllowed=y) - YÖK Açık Bilim
+- [F-35 Fighter Jet Blueprint Theft](https://www.nydailynews.com/2015/01/20/chinese-hackers-stole-f-35-fighter-jet-blueprints-in-pentagon-hack-edward-snowden-documents-claim/) - NY Daily News
+- [4chan Airstrike Syria Case](https://dumayu.com/4chan-calls-airstrike-syria/) - Dumayu
+- [F-35 Supply Chain Heist](https://www.industrialcybersecuritypulse.com/networks/throwback-attack-chinese-hackers-steal-plans-for-the-f-35-fighter-in-a-supply-chain-heist/) - Industrial Cybersecurity Pulse
+- [The Man Who Stole America's Stealth Fighters](https://www.sandboxx.us/news/the-man-who-stole-americas-stealth-fighters-for-china/) - Sandboxx
+
+## 📖 Kitaplar
+- **Aldatma Sanatı** - Kevin Mitnick
+- **The Art of Deception** - Kevin Mitnick & William L. Simon
+
+## 🔗 İlgili Bağlantılar
+- [4chan Syria Airstrike Image](https://imgur.com/evpTXp9) - Imgur
+- [Hard Disk Sound Analysis](https://www.computerworld.com/article/1672737/sounds-from-your-hard-disk-drive-can-be-used-to-steal-a-pcs-data.html) - Computerworld
+
+---
+
+## 📞 İletişim ve Sosyal Medya
+
+**Ali Can Gönüllü** | Siber Güvenlik Uzmanı
+- 📧 **E-posta**: [alicangonullu@yahoo.com](mailto:alicangonullu@yahoo.com)
+- 💼 **LinkedIn**: [linkedin.com/in/alicangonullu](https://linkedin.com/in/alicangonullu)
+- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangonullu)
+
+---
+
+## 🏷️ Etiketler ve Hashtag'ler
+
+`#Phishing` `#SosyalMühendislik` `#SiberGüvenlik` `#CyberSecurity` `#OSINT` `#HUMINT` `#SIGINT` `#IMGINT` `#PhishingKorunma` `#SosyalMedyaGüvenliği` `#EPostaGüvenliği` `#SiberGüvenlikEğitimi` `#CTI` `#ThreatIntelligence` `#SocialEngineering` `#CybersecurityAwareness`
+
+---
+
+## ⚠️ Yasal Uyarı
+
+Bu içerik yalnızca eğitim ve bilgilendirme amaçlıdır. Siber güvenlik farkındalığını artırmak için hazırlanmıştır. Herhangi bir yasa dışı faaliyeti teşvik etmez.
+
+---
+
+*Son güncelleme: 2024 | Tüm hakları saklıdır.*

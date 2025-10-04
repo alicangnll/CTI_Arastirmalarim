@@ -1,11 +1,27 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# Mirai Linux Zararlı Yazılımı IoC Çalışması
+# Mirai Linux Malware IoC Analizi | IoT Botnet
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Mirai Linux malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den Mirai IoT botnet detaylı analizi.">
+<meta name="keywords" content="Mirai, Linux, malware, IoT, botnet, IoC, threat intelligence, siber güvenlik, zararlı yazılım, DDoS">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Mirai Linux Malware IoC Analizi">
+<meta property="og:description" content="Mirai IoT botnet detaylı analizi ve Linux malware IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Mirai_IoC/">
+<meta property="og:image" content="title_pic.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Mirai Linux Malware IoC Analizi">
+<meta name="twitter:description" content="Mirai IoT botnet detaylı analizi.">
+<meta name="twitter:image" content="title_pic.png">
 
 <br><br>
-<img src="title_pic.png">
+<img src="title_pic.png" alt="Mirai Linux Malware IoC Analizi - IoT Botnet">
 <br><br>
-<center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+<center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+<em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
 
 # Giriş
 <p>

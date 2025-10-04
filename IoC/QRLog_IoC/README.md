@@ -1,13 +1,29 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# QRLog (Fake QR Reader) C2 Zararlı Yazılımı IoC Çalışması
+# QRLog (Fake QR Reader) C2 Malware IoC Analizi | Sahte QR Okuyucu
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="QRLog sahte QR okuyucu C2 malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den QRLog malware detaylı analizi.">
+<meta name="keywords" content="QRLog, fake QR reader, C2, malware analizi, IoC, threat intelligence, siber güvenlik, sahte QR okuyucu, zararlı yazılım">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="QRLog Fake QR Reader C2 Malware IoC Analizi">
+<meta property="og:description" content="QRLog sahte QR okuyucu malware detaylı analizi ve C2 IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/QRLog_IoC/">
+<meta property="og:image" content="title_pic.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="QRLog Fake QR Reader C2 Malware IoC Analizi">
+<meta name="twitter:description" content="QRLog sahte QR okuyucu malware detaylı analizi.">
+<meta name="twitter:image" content="title_pic.png">
 
 <br><br>
-<img src="title_pic.png">
+<img src="title_pic.png" alt="QRLog Fake QR Reader C2 Malware IoC Analizi - Sahte QR Okuyucu">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
     Arkadaşlar bu yazımda sizlerle beraber sahte bir QR okuyucu olarak ortaya çıkan ve 4 ay önce kodları CTI araştırmacıları tarafından sızdırılan "QRLog" adlı zararlı yazılımı inceleyeceğiz.
 </p>
 

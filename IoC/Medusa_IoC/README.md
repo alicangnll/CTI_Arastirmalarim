@@ -1,13 +1,30 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# Medusa C2 Zararlı Yazılımı IoC Çalışması
+# Medusa C2 Ransomware IoC Analizi | Ransomware Ailesi
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Medusa C2 ransomware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den Medusa ransomware ailesi detaylı analizi.">
+<meta name="keywords" content="Medusa, ransomware, C2, malware analizi, IoC, threat intelligence, siber güvenlik, ransomware ailesi, zararlı yazılım">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Medusa C2 Ransomware IoC Analizi">
+<meta property="og:description" content="Medusa ransomware ailesi detaylı analizi ve C2 malware IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Medusa_IoC/">
+<meta property="og:image" content="medusa.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Medusa C2 Ransomware IoC Analizi">
+<meta name="twitter:description" content="Medusa ransomware ailesi detaylı analizi.">
+<meta name="twitter:image" content="medusa.png">
+
 <br><br>
-<img src="medusa.png">
+<img src="medusa.png" alt="Medusa C2 Ransomware IoC Analizi - Ransomware Ailesi">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
-    Bu yazımda sizlerle birlikte Medusa adlı ransomware ve korunma yöntemlerini inceleyeceğiz.<br>
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
+    Bu yazımda sizlerle birlikte <strong>Medusa</strong> adlı ransomware ve korunma yöntemlerini detaylıca inceleyeceğiz.<br>
 </p>
 
 # Disclaimer | Yasal Uyarı

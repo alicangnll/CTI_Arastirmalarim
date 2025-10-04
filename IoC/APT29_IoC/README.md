@@ -1,14 +1,30 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# APT29 (CozyBear) Zararlı Yazılımı IoC Çalışması
+# APT29 (CozyBear) Malware IoC Analizi | Rusya Destekli APT Grubu
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="APT29 (CozyBear) Rusya destekli APT grubunun malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den detaylı tehdit istihbaratı analizi.">
+<meta name="keywords" content="APT29, CozyBear, APT, malware analizi, IoC, threat intelligence, siber güvenlik, Rusya, APT grubu, zararlı yazılım, siber tehdit">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="APT29 (CozyBear) Malware IoC Analizi">
+<meta property="og:description" content="Rusya destekli APT29 grubunun malware analizi ve tehdit istihbaratı çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT29_IoC/">
+<meta property="og:image" content="russian_salad.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="APT29 (CozyBear) Malware IoC Analizi">
+<meta name="twitter:description" content="Rusya destekli APT grubunun detaylı malware analizi.">
+<meta name="twitter:image" content="russian_salad.png">
 
 <br><br>
-<img src="russian_salad.png">
+<img src="russian_salad.png" alt="APT29 CozyBear Malware Analizi - Rusya Destekli APT Grubu">
 <br><br>
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
-    Arkadaşlar bu yazımda sizlerle beraber APT29 adlı ve Rusya bağlantılı grubun zararlı yazılımını inceleyeceğiz.
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
+    Bu yazımda sizlerle beraber <strong>APT29 (CozyBear)</strong> adlı ve <strong>Rusya bağlantılı</strong> grubun zararlı yazılımını detaylıca inceleyeceğiz.
 </p>
 
 # Disclaimer | Yasal Uyarı
