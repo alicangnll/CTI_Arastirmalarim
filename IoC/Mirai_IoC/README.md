@@ -11,11 +11,11 @@
 <meta property="og:description" content="Mirai IoT botnet detaylı analizi ve Linux malware IoC çalışması.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Mirai_IoC/">
-<meta property="og:image" content="title_pic.png">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/Mirai_IoC/title_pic.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mirai Linux Malware IoC Analizi">
 <meta name="twitter:description" content="Mirai IoT botnet detaylı analizi.">
-<meta name="twitter:image" content="title_pic.png">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Mirai_IoC/title_pic.png">
 
 <br><br>
 <img src="title_pic.png" alt="Mirai Linux Malware IoC Analizi - IoT Botnet">

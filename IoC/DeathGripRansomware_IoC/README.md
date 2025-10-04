@@ -11,11 +11,11 @@
 <meta property="og:description" content="Sovyet bağlantılı DeathGrip ransomware detaylı analizi ve IoC çalışması.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/DeathGripRansomware_IoC/">
-<meta property="og:image" content="title.jpeg">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/DeathGripRansomware_IoC/title.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="DeathGrip Ransomware IoC Analizi">
 <meta name="twitter:description" content="Sovyet bağlantılı ransomware detaylı analizi.">
-<meta name="twitter:image" content="title.jpeg">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/DeathGripRansomware_IoC/title.jpeg">
 
 <br><br>
 <img src="title.jpeg" alt="DeathGrip Ransomware IoC Analizi - Sovyet Bağlantılı Ransomware">

@@ -1,10 +1,27 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# Iran Kaynaklı Yeni Ransomware: IRATA IoC Çalışması
+# IRATA Ransomware IoC Analizi | İran Kaynaklı Mobil Ransomware
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="IRATA İran kaynaklı mobil ransomware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den IRATA ransomware detaylı analizi.">
+<meta name="keywords" content="IRATA, ransomware, İran, malware analizi, IoC, threat intelligence, siber güvenlik, mobil ransomware, zararlı yazılım">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="IRATA Ransomware IoC Analizi">
+<meta property="og:description" content="İran kaynaklı IRATA mobil ransomware detaylı analizi ve IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/IRATA_IoC/">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/IRATA_IoC/smali.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="IRATA Ransomware IoC Analizi">
+<meta name="twitter:description" content="İran kaynaklı mobil ransomware detaylı analizi.">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/IRATA_IoC/smali.png">
+
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
-    Arkadaşlar bu yazımda sizlerle beraber Iran kaynaklarını hedef alan IRATA adlı mobil ransomware yazılımını inceleyeceğiz.
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
+    Arkadaşlar bu yazımda sizlerle beraber <strong>İran kaynaklarını hedef alan IRATA</strong> adlı mobil ransomware yazılımını detaylıca inceleyeceğiz.
 </p>
 
 # Disclaimer | Yasal Uyarı

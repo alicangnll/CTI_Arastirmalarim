@@ -10,7 +10,6 @@
 <meta property="og:description" content="Siber güvenlik uzmanı Ali Can Gönüllü'den kapsamlı CTI analizleri, malware incelemeleri ve sosyal mühendislik saldırıları rehberi.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim">
-<meta property="og:image" content="title_logo.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="CTI İncelemelerim - Siber Tehdit İstihbaratı">
 <meta name="twitter:description" content="Siber güvenlik uzmanından kapsamlı CTI analizleri ve malware incelemeleri.">

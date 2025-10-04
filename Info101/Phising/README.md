@@ -11,7 +11,7 @@
 <meta property="og:description" content="Phishing saldırıları ve sosyal mühendislik teknikleri hakkında detaylı analiz, korunma yöntemleri ve gerçek dünya örnekleri.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising/">
-<meta property="og:image" content="phising_title.png">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/Info101/Phising/phising_title.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Sosyal Mühendislik 101 - Phishing Saldırıları">
 <meta name="twitter:description" content="Phishing saldırıları ve sosyal mühendislik teknikleri hakkında kapsamlı rehber.">

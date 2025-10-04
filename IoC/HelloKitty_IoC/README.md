@@ -1,12 +1,29 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# HelloKitty Zararlı Yazılımı IoC Çalışması
+# HelloKitty Ransomware IoC Analizi | Kaynak Kodu Sızdırılmış Ransomware
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="HelloKitty ransomware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den kaynak kodu sızdırılmış HelloKitty ransomware detaylı analizi.">
+<meta name="keywords" content="HelloKitty, ransomware, malware analizi, IoC, threat intelligence, siber güvenlik, kaynak kodu, ransomware analizi, zararlı yazılım">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="HelloKitty Ransomware IoC Analizi">
+<meta property="og:description" content="Kaynak kodu sızdırılmış HelloKitty ransomware detaylı analizi ve IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/HelloKitty_IoC/">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/HelloKitty_IoC/info.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="HelloKitty Ransomware IoC Analizi">
+<meta name="twitter:description" content="Kaynak kodu sızdırılmış ransomware detaylı analizi.">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/HelloKitty_IoC/info.png">
+
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
-    Bu yazımda sizlerle birlikte HelloKitty adlı kaynak kodları sızdırılmış olan ransomware ve korunma yöntemlerini inceleyeceğiz.
-    Öncelikle bu haberi şahsen Twitter / X üzerinde duydum ve kaynak kodlarını vx-underground adlı malware analizi yapan GitHub sayfasından indirdim ve incelemeye başladım.
-    Kaynak : <a href="https://twitter.com/3xp0rtblog/status/1710387356979560800">https://twitter.com/3xp0rtblog/status/1710387356979560800</a>
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
+    Bu yazımda sizlerle birlikte <strong>HelloKitty</strong> adlı kaynak kodları sızdırılmış olan ransomware ve korunma yöntemlerini detaylıca inceleyeceğiz.
+    Öncelikle bu haberi şahsen <strong>Twitter / X</strong> üzerinde duydum ve kaynak kodlarını <strong>vx-underground</strong> adlı malware analizi yapan GitHub sayfasından indirdim ve incelemeye başladım.
+    <strong>Kaynak:</strong> <a href="https://twitter.com/3xp0rtblog/status/1710387356979560800" target="_blank">https://twitter.com/3xp0rtblog/status/1710387356979560800</a>
     <br><br>
     <img src="info.png">
     <br><br>

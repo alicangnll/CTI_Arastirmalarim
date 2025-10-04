@@ -11,11 +11,11 @@
 <meta property="og:description" content="Rusya destekli APT29 grubunun malware analizi ve tehdit istihbaratı çalışması.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT29_IoC/">
-<meta property="og:image" content="russian_salad.png">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/APT29_IoC/russian_salad.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="APT29 (CozyBear) Malware IoC Analizi">
 <meta name="twitter:description" content="Rusya destekli APT grubunun detaylı malware analizi.">
-<meta name="twitter:image" content="russian_salad.png">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT29_IoC/russian_salad.png">
 
 <br><br>
 <img src="russian_salad.png" alt="APT29 CozyBear Malware Analizi - Rusya Destekli APT Grubu">

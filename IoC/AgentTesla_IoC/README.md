@@ -1,10 +1,27 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# AgentTesla Excel Zararlı Yazılımı IoC Çalışması
+# AgentTesla Excel Malware IoC Analizi | RAT Yazılımı
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="AgentTesla Excel malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den AgentTesla RAT yazılımı detaylı analizi.">
+<meta name="keywords" content="AgentTesla, Excel, malware analizi, IoC, threat intelligence, siber güvenlik, RAT, zararlı yazılım, Excel malware">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="AgentTesla Excel Malware IoC Analizi">
+<meta property="og:description" content="AgentTesla RAT yazılımı detaylı analizi ve Excel malware IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/AgentTesla_IoC/">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/AgentTesla_IoC/harmful_mail_example.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AgentTesla Excel Malware IoC Analizi">
+<meta name="twitter:description" content="AgentTesla RAT yazılımı detaylı analizi.">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/AgentTesla_IoC/harmful_mail_example.png">
+
 <p>
-    <center>Ali Can Gönüllü | Siber Güvenlik Uzmanı - alicangonullu[at]yahoo.com</center><br>
-    Merhabalar,<br>
-    Arkadaşlar bu yazımda sizlerle beraber AgentTesla adlı RAT yazılımını inceleyeceğiz.
+    <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+    <em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
+    <strong>Merhabalar,</strong><br>
+    Arkadaşlar bu yazımda sizlerle beraber <strong>AgentTesla</strong> adlı RAT yazılımını detaylıca inceleyeceğiz.
 </p>
 
 # Disclaimer | Yasal Uyarı

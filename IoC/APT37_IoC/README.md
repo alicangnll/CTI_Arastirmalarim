@@ -1,11 +1,27 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# APT37 Zararlı Yazılımı IoC Çalışması
+# APT37 Malware IoC Analizi | Kuzey Kore Destekli APT Grubu
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="APT37 Kuzey Kore destekli APT grubunun malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den APT37 detaylı analizi.">
+<meta name="keywords" content="APT37, APT, malware analizi, IoC, threat intelligence, siber güvenlik, Kuzey Kore, APT grubu, zararlı yazılım">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="APT37 Malware IoC Analizi">
+<meta property="og:description" content="Kuzey Kore destekli APT37 grubunun malware analizi ve tehdit istihbaratı çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT37_IoC/">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/APT37_IoC/title_pic.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="APT37 Malware IoC Analizi">
+<meta name="twitter:description" content="Kuzey Kore destekli APT grubunun detaylı malware analizi.">
+<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT37_IoC/title_pic.png">
 
 <br><br>
-<img src="title_pic.png">
+<img src="title_pic.png" alt="APT37 Malware IoC Analizi - Kuzey Kore Destekli APT Grubu">
 <br><br>
-<center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+<center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+<em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
 
 # Disclaimer | Yasal Uyarı
 <p>

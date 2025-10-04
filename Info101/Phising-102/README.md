@@ -11,7 +11,7 @@
 <meta property="og:description" content="Modern phishing saldırılarının en tehlikeli formları olan gaslighting ve honeypot teknikleri hakkında detaylı analiz ve korunma yöntemleri.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising-102/">
-<meta property="og:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising-102/phising102_title.jpg">
+<meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/Info101/Phising-102/phising102_title.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising">
 <meta name="twitter:description" content="Gaslighting ve honeypot teknikleri ile modern phishing saldırıları hakkında kapsamlı rehber.">
