@@ -157,3 +157,6 @@ br {
     background-color: black;
     color: black;
 }
+.markdown-body table tr {
+    background-color: #000;
+  }
