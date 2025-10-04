@@ -10,12 +10,12 @@
 <meta property="og:title" content="LummaStealer C2 Malware IoC Analizi">
 <meta property="og:description" content="LummaStealer stealer malware detaylı analizi ve C2 IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/">
-<meta property="og:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/c2_server.PNG">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/">
+<meta property="og:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/c2_server.PNG">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="LummaStealer C2 Malware IoC Analizi">
 <meta name="twitter:description" content="LummaStealer stealer malware detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/c2_server.PNG">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/LummaStealer_C2_IoC/c2_server.PNG">
 
 <p>
   <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>

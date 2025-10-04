@@ -10,7 +10,7 @@
 <meta property="og:title" content="Sosyal Mühendislik 101 - Phishing Saldırıları">
 <meta property="og:description" content="Phishing saldırıları ve sosyal mühendislik teknikleri hakkında detaylı analiz, korunma yöntemleri ve gerçek dünya örnekleri.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/Info101/Phising/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/Info101/Phising/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/Info101/Phising/phising_title.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Sosyal Mühendislik 101 - Phishing Saldırıları">
@@ -210,7 +210,7 @@
 **Ali Can Gönüllü** | Siber Güvenlik Uzmanı
 - 📧 **E-posta**: [alicangonullu@yahoo.com](mailto:alicangonullu@yahoo.com)
 - 💼 **LinkedIn**: [linkedin.com/in/alicangonullu](https://linkedin.com/in/alicangonullu)
-- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangonullu)
+- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangnll)
 
 ---
 

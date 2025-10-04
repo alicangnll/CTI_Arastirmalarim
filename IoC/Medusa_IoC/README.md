@@ -10,12 +10,12 @@
 <meta property="og:title" content="Medusa C2 Ransomware IoC Analizi">
 <meta property="og:description" content="Medusa ransomware ailesi detaylı analizi ve C2 malware IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Medusa_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Medusa_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/Medusa_IoC/medusa.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Medusa C2 Ransomware IoC Analizi">
 <meta name="twitter:description" content="Medusa ransomware ailesi detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Medusa_IoC/medusa.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Medusa_IoC/medusa.png">
 
 <br><br>
 <img src="medusa.png" alt="Medusa C2 Ransomware IoC Analizi - Ransomware Ailesi">

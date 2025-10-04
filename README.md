@@ -9,7 +9,7 @@
 <meta property="og:title" content="CTI İncelemelerim - Siber Tehdit İstihbaratı Analizleri">
 <meta property="og:description" content="Siber güvenlik uzmanı Ali Can Gönüllü'den kapsamlı CTI analizleri, malware incelemeleri ve sosyal mühendislik saldırıları rehberi.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="CTI İncelemelerim - Siber Tehdit İstihbaratı">
 <meta name="twitter:description" content="Siber güvenlik uzmanından kapsamlı CTI analizleri ve malware incelemeleri.">
@@ -116,7 +116,7 @@
 **Ali Can Gönüllü** | Siber Güvenlik Uzmanı
 - 📧 **E-posta**: [alicangonullu@yahoo.com](mailto:alicangonullu@yahoo.com)
 - 💼 **LinkedIn**: [linkedin.com/in/alicangonullu](https://linkedin.com/in/alicangonullu)
-- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangonullu)
+- 🐙 **GitHub**: [github.com/alicangonullu](https://github.com/alicangnll)
 
 ---
 

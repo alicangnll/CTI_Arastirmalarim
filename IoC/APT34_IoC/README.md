@@ -10,12 +10,12 @@
 <meta property="og:title" content="APT34 (OilRig) Malware IoC Analizi">
 <meta property="og:description" content="İran destekli APT34 grubunun malware analizi ve tehdit istihbaratı çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT34_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/APT34_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/APT34_IoC/menorah.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="APT34 (OilRig) Malware IoC Analizi">
 <meta name="twitter:description" content="İran destekli APT grubunun detaylı malware analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT34_IoC/menorah.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/APT34_IoC/menorah.png">
 
 <p>
     <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>

@@ -10,12 +10,12 @@
 <meta property="og:title" content="HelloKitty Ransomware IoC Analizi">
 <meta property="og:description" content="Kaynak kodu sızdırılmış HelloKitty ransomware detaylı analizi ve IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/HelloKitty_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/HelloKitty_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/HelloKitty_IoC/info.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="HelloKitty Ransomware IoC Analizi">
 <meta name="twitter:description" content="Kaynak kodu sızdırılmış ransomware detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/HelloKitty_IoC/info.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/HelloKitty_IoC/info.png">
 
 <p>
     <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>

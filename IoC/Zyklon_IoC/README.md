@@ -10,12 +10,12 @@
 <meta property="og:title" content="Zyklon C2 Malware IoC Analizi">
 <meta property="og:description" content="Zyklon malware ailesi detaylı analizi ve C2 malware IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Zyklon_IoC/">
-<meta property="og:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Zyklon_IoC/title_pic.png">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Zyklon_IoC/">
+<meta property="og:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Zyklon_IoC/title_pic.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Zyklon C2 Malware IoC Analizi">
 <meta name="twitter:description" content="Zyklon malware ailesi detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Zyklon_IoC/title_pic.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Zyklon_IoC/title_pic.png">
 
 <br><br>
 <img src="title_pic.png" alt="Zyklon C2 Malware IoC Analizi - Malware Ailesi">

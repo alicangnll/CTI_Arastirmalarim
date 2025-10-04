@@ -10,12 +10,12 @@
 <meta property="og:title" content="APT37 Malware IoC Analizi">
 <meta property="og:description" content="Kuzey Kore destekli APT37 grubunun malware analizi ve tehdit istihbaratı çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT37_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/APT37_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/APT37_IoC/title_pic.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="APT37 Malware IoC Analizi">
 <meta name="twitter:description" content="Kuzey Kore destekli APT grubunun detaylı malware analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/APT37_IoC/title_pic.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/APT37_IoC/title_pic.png">
 
 <br><br>
 <img src="title_pic.png" alt="APT37 Malware IoC Analizi - Kuzey Kore Destekli APT Grubu">

@@ -10,12 +10,12 @@
 <meta property="og:title" content="IRATA Ransomware IoC Analizi">
 <meta property="og:description" content="İran kaynaklı IRATA mobil ransomware detaylı analizi ve IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/IRATA_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/IRATA_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/IRATA_IoC/smali.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="IRATA Ransomware IoC Analizi">
 <meta name="twitter:description" content="İran kaynaklı mobil ransomware detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/IRATA_IoC/smali.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/IRATA_IoC/smali.png">
 
 <p>
     <center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>

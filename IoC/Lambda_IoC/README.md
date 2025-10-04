@@ -10,12 +10,12 @@
 <meta property="og:title" content="Lambda Ransomware C2 Malware IoC Analizi">
 <meta property="og:description" content="Lambda ransomware ailesi detaylı analizi ve C2 malware IoC çalışması.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Lambda_IoC/">
+<meta property="og:url" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Lambda_IoC/">
 <meta property="og:image" content="https://alicangnll.github.io/CTI_Arastirmalarim/IoC/Lambda_IoC/title_pic.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Lambda Ransomware C2 Malware IoC Analizi">
 <meta name="twitter:description" content="Lambda ransomware ailesi detaylı analizi.">
-<meta name="twitter:image" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/Lambda_IoC/title_pic.png">
+<meta name="twitter:image" content="https://github.com/alicangnll/CTI_Arastirmalarim/IoC/Lambda_IoC/title_pic.png">
 
 <br><br>
 <img src="title_pic.png" alt="Lambda Ransomware C2 Malware IoC Analizi - Ransomware Ailesi">
