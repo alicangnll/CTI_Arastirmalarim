@@ -43,7 +43,8 @@
 - [**HelloKitty**](IoC/HelloKitty_IoC/) - HelloKitty ransomware incelemesi
 
 ## 🎯 C2 Malware Analizleri
-- [**Lambda C2 Malware**](IoC/Lambda_IoC/) - [TR](IoC/Lambda_IoC/) | [EN](https://github.com/alicangnll/CTI_Arastirmalarim/tree/main/IoC/Lambda_IoC/README_en.md)
+- [**Lambda C2 Malware**](IoC/Lambda_IoC/) - [TR](IoC/Lambda_IoC/)
+- [**Lambda C2 Malware**](IoC/Lambda_IoC/) - [EN](IoC/Lambda_IoC/README_en.md)
 - [**Mirai C2 Malware**](IoC/Mirai_IoC/) - IoT botnet analizi
 - [**Zyklon C2 Malware**](IoC/Zyklon_IoC/) - Zyklon malware ailesi
 - [**QRLog (Fake QR Reader) C2**](IoC/QRLog_IoC/) - Sahte QR okuyucu analizi
