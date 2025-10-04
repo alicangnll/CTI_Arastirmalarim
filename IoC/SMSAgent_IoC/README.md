@@ -1,11 +1,27 @@
 <link rel="stylesheet" href="../../CSS/style.css" type="text/css">
 
-# SMSAgent C2 Zararlı Yazılımı IoC Çalışması
+# SMSAgent C2 Malware IoC Analizi | Android SMS Stealer
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="SMSAgent Android SMS stealer malware analizi ve IoC çalışması. Siber güvenlik uzmanı Ali Can Gönüllü'den SMSAgent APK detaylı analizi.">
+<meta name="keywords" content="SMSAgent, Android, SMS stealer, malware analizi, IoC, threat intelligence, siber güvenlik, APK, zararlı yazılım, mobile security">
+<meta name="author" content="Ali Can Gönüllü">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="SMSAgent C2 Malware IoC Analizi">
+<meta property="og:description" content="SMSAgent Android SMS stealer malware detaylı analizi ve C2 IoC çalışması.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://github.com/alicangonullu/CTI_Arastirmalarim/IoC/SMSAgent_IoC/">
+<meta property="og:image" content="title_pic.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SMSAgent C2 Malware IoC Analizi">
+<meta name="twitter:description" content="SMSAgent Android SMS stealer malware detaylı analizi.">
+<meta name="twitter:image" content="title_pic.png">
 
 <br><br>
-<img src="title_pic.png">
+<img src="title_pic.png" alt="SMSAgent C2 Malware IoC Analizi - Android SMS Stealer">
 <br><br>
-<center>Ali Can Gönüllü | Siber Güvenlik Uzmanı <br>alicangonullu[at]yahoo.com</center><br>
+<center><strong>Ali Can Gönüllü</strong> | Siber Güvenlik Uzmanı | <a href="mailto:alicangonullu@yahoo.com">alicangonullu@yahoo.com</a><br>
+<em>LinkedIn: <a href="https://linkedin.com/in/alicangonullu" target="_blank">linkedin.com/in/alicangonullu</a></em></center><br>
 
 # Disclaimer | Yasal Uyarı
 <p>
