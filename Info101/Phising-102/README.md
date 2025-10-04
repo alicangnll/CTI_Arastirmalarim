@@ -46,28 +46,7 @@
   Bu yazımda sizlere bu gelişmiş phishing tekniklerinin nasıl çalıştığını, gerçek dünyadan örneklerle nasıl uygulandığını ve bu tehlikeli saldırılara karşı nasıl korunabileceğinizi detaylıca açıklamaya çalışacağım.
 </p>
 
-## 📋 İçindekiler
-- [Sosyal Mühendislik 102 - Gaslighting ve Bal Tuzağı ile Phising | Siber Güvenlik Eğitimi](#sosyal-mühendislik-102---gaslighting-ve-bal-tuzağı-ile-phising--siber-güvenlik-eğitimi)
-- [Disclaimer | Yasal Uyarı](#disclaimer--yasal-uyarı)
-- [Giriş](#giriş)
-  - [📋 İçindekiler](#-i̇çindekiler)
-- [Gaslighting ve Bal Tuzağı Saldırılarının Önemi](#gaslighting-ve-bal-tuzağı-saldırılarının-önemi)
-- [Gaslighting ve Bal Tuzağı Saldırılarının Çeşitleri](#gaslighting-ve-bal-tuzağı-saldırılarının-çeşitleri)
-- [E-posta ile Gaslighting Saldırıları](#e-posta-ile-gaslighting-saldırıları)
-- [Sosyal Medya ile Honeypot Saldırıları](#sosyal-medya-ile-honeypot-saldırıları)
-- [Telefon ile Hibrit Saldırılar](#telefon-ile-hibrit-saldırılar)
-- [Mesajlaşma Uygulamaları ile Manipülasyon](#mesajlaşma-uygulamaları-ile-manipülasyon)
-- [Korunma Yöntemleri](#korunma-yöntemleri)
-- [Kaynaklar](#kaynaklar)
-  - [📚 Akademik ve Resmi Kaynaklar](#-akademik-ve-resmi-kaynaklar)
-  - [📖 Kitaplar](#-kitaplar)
-  - [🔗 İlgili Bağlantılar](#-i̇lgili-bağlantılar)
-  - [📞 İletişim ve Sosyal Medya](#-i̇letişim-ve-sosyal-medya)
-  - [🏷️ Etiketler ve Hashtag'ler](#️-etiketler-ve-hashtagler)
-  - [⚠️ Yasal Uyarı](#️-yasal-uyarı)
-
 # Gaslighting ve Bal Tuzağı Saldırılarının Önemi
-
 <p>
   Gaslighting ve Bal Tuzağı (Honeypot) teknikleri, modern phishing saldırılarının en tehlikeli ve etkili formlarıdır. Bu teknikler, kurbanların psikolojik savunma mekanizmalarını hedef alarak, geleneksel güvenlik önlemlerini aşmayı başarır.
   <br><br>
