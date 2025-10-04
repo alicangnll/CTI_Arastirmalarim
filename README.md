@@ -26,13 +26,6 @@
 
 # CTI İncelemelerim | Siber Tehdit İstihbaratı Analizleri
 
-## 📋 İçindekiler
-- [Malware İncelemeleri](#malware-incelemeleri)
-- [APT Grupları](#apt-grupları)
-- [Eğitim İçerikleri](#eğitim-i̇çerikleri)
-- [Proje Hakkında](#proje-hakkında)
-- [CTI Nedir?](#siber-tehdit-i̇stihbaratı-cti-nedir)
-- [İletişim](#i̇letişim--contact)
 
 # Malware İncelemeleri
 

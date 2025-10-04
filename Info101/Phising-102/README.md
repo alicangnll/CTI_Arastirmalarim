@@ -163,20 +163,10 @@
 
 # Kaynaklar
 
-## 📚 Akademik ve Resmi Kaynaklar
-- [Açık Kaynak İstihbarat ve Sosyal Mühendislik](https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/127310/yokAcikBilim_10293666.pdf?sequence=-1&isAllowed=y) - YÖK Açık Bilim
+## 📚 Kaynaklar
 - [Gaslighting in Cyber Security Context](https://www.cyberdefensemagazine.com/whats-the-role-of-gaslighting-in-the-cyber-security-context-of-social-engineering/) - Cyber Defense Magazine
 - [Social Engineering Attacks](https://www.cisa.gov/news-events/news/understanding-social-engineering-attacks) - CISA (Cybersecurity and Infrastructure Security Agency)
 - [Internet Fraud Prevention](https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/internet-fraud) - FBI
-
-## 📖 Kitaplar
-- **Aldatma Sanatı** - Kevin Mitnick
-- **The Art of Deception** - Kevin Mitnick & William L. Simon
-
-## 🔗 İlgili Bağlantılar
-- [Sosyal Mühendislik Görsel Rehberi](https://www.telsy.com/wp-content/uploads/2021/10/social-engineering-telsy-2.jpg) - Telsy
-- [Gaslighting Psychology](https://www.psychologytoday.com/us/basics/gaslighting) - Psychology Today
-- [Identity Theft Prevention](https://www.ftc.gov/news-events/topics/identity-theft) - Federal Trade Commission
 
 ---
 

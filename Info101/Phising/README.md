@@ -42,26 +42,6 @@
   Bu yazımda sizlere phishing kavramının tarihçesini, ne olduğunu ve nasıl korunabileceğinizi detaylıca açıklamaya çalışacağım.
 </p>
 
-## 📋 İçindekiler
-- [Sosyal Mühendislik 101 - Phishing Saldırıları | Siber Güvenlik Temelleri](#sosyal-mühendislik-101---phishing-saldırıları--siber-güvenlik-temelleri)
-- [Disclaimer | Yasal Uyarı](#disclaimer--yasal-uyarı)
-- [Giriş](#giriş)
-  - [📋 İçindekiler](#-i̇çindekiler)
-- [Oltalama Saldırıları Tarihçesi](#oltalama-saldırıları-tarihçesi)
-- [Oltalama Saldırılarının Önemi](#oltalama-saldırılarının-önemi)
-- [Oltalama Saldırılarının Çeşitleri](#oltalama-saldırılarının-çeşitleri)
-- [OSINT Yardımıyla Oltalama](#osint-yardımıyla-oltalama)
-- [HUMINT Yardımıyla Oltalama](#humint-yardımıyla-oltalama)
-- [SIGINT Yardımıyla Oltalama](#sigint-yardımıyla-oltalama)
-- [IMGINT Yardımıyla Oltalama](#imgint-yardımıyla-oltalama)
-- [Korunma Yöntemleri](#korunma-yöntemleri)
-- [Kaynaklar](#kaynaklar)
-  - [📚 Akademik ve Resmi Kaynaklar](#-akademik-ve-resmi-kaynaklar)
-  - [📖 Kitaplar](#-kitaplar)
-  - [🔗 İlgili Bağlantılar](#-i̇lgili-bağlantılar)
-  - [📞 İletişim ve Sosyal Medya](#-i̇letişim-ve-sosyal-medya)
-  - [🏷️ Etiketler ve Hashtag'ler](#️-etiketler-ve-hashtagler)
-  - [⚠️ Yasal Uyarı](#️-yasal-uyarı)
 
 # Oltalama Saldırıları Tarihçesi
 <p>
